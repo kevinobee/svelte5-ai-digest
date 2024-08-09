@@ -3,11 +3,6 @@ name: CI - Process latest release
 on:
   push:
     branches: ['main']
-    paths:
-      - .github/workflows/ci.yaml
-      - release-versions/*
-
-  workflow_dispatch:
 
 permissions:
   contents: write

@@ -2,9 +2,8 @@ name: Get latest Svelte 5 release version
 
 on:
   schedule:
+    # Every day at 10:00
     - cron: '0 10 * * *'
-
-  workflow_dispatch:
 
 permissions:
   contents: write
