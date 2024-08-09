@@ -1,0 +1,49 @@
+name: CI - Process latest release
+
+on:
+  push:
+    branches: ['main']
+    paths:
+      - .github/workflows/ci.yaml
+      - release-versions/*
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get release version
+        id: get_version
+        run: |
+          RELEASE_TAG=$(cat release-versions/sveltejs/svelte-latest.txt)
+          echo "release_tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
+          echo "latest release: $RELEASE_TAG"
+      - name: Run ai-digest on latest release
+        run: |
+          ./process-release.sh
+      - name: Check for modified files
+        id: git_status
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "modified=true" >> $GITHUB_OUTPUT
+          else
+            echo "modified=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit Changes
+        if: steps.git_status.outputs.modified == 'true'
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: |
+            codebase*.md
+            ingest*.md
+          message: 'update digests from Svelte 5 release, ${{ steps.get_version.outputs.release_tag }}'

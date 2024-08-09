@@ -1,0 +1,3 @@
+### Get Svelte releases
+GET https://api.github.com/repos/sveltejs/svelte/releases
+Accept: application/vnd.github+json
