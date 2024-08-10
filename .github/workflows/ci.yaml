@@ -1,8 +1,19 @@
 name: CI - Process latest release
 
 on:
+  schedule:
+    # Every day at 10:00
+    - cron: '0 10 * * *'
+
   push:
     branches: ['main']
+    paths-ignore:
+      - 'README.md'
+
+  pull_request:
+    branches: ['main']
+    paths-ignore:
+      - 'README.md'
 
 permissions:
   contents: write
@@ -16,29 +27,39 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - uses: actions/checkout@v4
-      - name: Get release version
+      - name: Checkout Commit
+        uses: actions/checkout@v4
+      - name: Get last processed version
+        id: get_last_processed_version
+        run: |
+          RELEASE_TAG=$(cat release-versions/sveltejs/svelte-latest.txt || echo '')
+          echo "last_release_tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
+          echo "last processed release: $RELEASE_TAG"
+      - name: Fetch release version
         id: get_version
         run: |
+          curl -s https://api.github.com/repos/sveltejs/svelte/releases | jq -r '.[] | select(.tag_name | contains("svelte@5.0.0-next")) | .tag_name' | sed 's/svelte@//' | sort -V | tail -n 1 > release-versions/sveltejs/svelte-latest.txt
           RELEASE_TAG=$(cat release-versions/sveltejs/svelte-latest.txt)
           echo "release_tag=$RELEASE_TAG" >> $GITHUB_OUTPUT
           echo "latest release: $RELEASE_TAG"
-      - name: Run ai-digest on latest release
+      - name: Check release version has changed
+        id: check_release
         run: |
-          ./process-release.sh
-      - name: Check for modified files
-        id: git_status
-        run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
+          # if the output from get_version is different than the last processed version, then we need to process the release
+          if [[ "${{ steps.get_version.outputs.release_tag }}" != "${{ steps.get_last_processed_version.outputs.last_release_tag }}" ]]; then
             echo "modified=true" >> $GITHUB_OUTPUT
           else
             echo "modified=false" >> $GITHUB_OUTPUT
           fi
+      - name: Run ai-digest on latest release
+        if: steps.check_release.outputs.modified == 'true'
+        run: |
+          ./process-release.sh
       - name: Commit Changes
-        if: steps.git_status.outputs.modified == 'true'
+        if: steps.check_release.outputs.modified == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           add: |
-            codebase*.md
-            ingest*.md
+            *.md
+            *.txt
           message: 'update digests from Svelte 5 release, ${{ steps.get_version.outputs.release_tag }}'
