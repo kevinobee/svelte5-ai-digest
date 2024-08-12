@@ -26,10 +26,13 @@ SVELTE5_PATH="$SVELTE_PATH/sites/svelte-5-preview"
 
 # Generate manifest for docs only
 npx ai-digest -i $SVELTE5_PATH/src/routes/docs/content --whitespace-removal --show-output-files -o codebase.md | tee ingest.md
+test $(wc -l codebase.md | awk '{print $1}') -gt 80 # we need at least 80 lines in the manifest
 
-# Generate src manifest
+
+# Generate full src manifest
 # This roughly doubles the number of tokens in codebase file, which is important for 💲
 npx ai-digest -i $SVELTE5_PATH/src --whitespace-removal --show-output-files -o codebase.src.md | tee ingest.src.md
+test $(wc -l codebase.src.md | awk '{print $1}') -gt 450 # we need at least 450 lines in the manifest
 
 # Check for Changes
 if [[ -n "$(git status --porcelain)" ]]; then
