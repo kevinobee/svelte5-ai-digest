@@ -1,32 +1,32 @@
 # Svelte 5 AI Digest
 
-> Svelte 5 digest file for use with AI tool contexts :alien:
+> Svelte 5 AI context file for smarter code generation :alien:
 
 ## TL;DR
 
-This repository contains the contents of the [new Svelte 5 docs](https://svelte-5-preview.vercel.app/docs) site packaged into a single Markdown file. This file is used to provide AI tools such as Cody and Codeium with context for generating the latest Svelte 5 code.
+This repo contains the contents of the new [Svelte 5 docs](https://svelte-5-preview.vercel.app/docs) site packaged as a single Markdown file.
 
-## Why?
+## Why
 
-AI tools such as Cody and Codeium are great for generating code snippets, but they can be difficult to use if the context is not provided. This repository provides a single file that can be used to provide context for AI tools.
+AI tools such as Cody and Codeium are great for generating code snippets, but they can be difficult to use if context is not provided to the tooling.
 
-For Svelte 4, we can use [content JSON](https://kit.svelte.dev/content.json) link to provide context for AI tools. However, the Svelte 5 docs site is not yet available in JSON format, so we have to use a different approach.
+**Svelte** 4 - use [content JSON 🔗](https://kit.svelte.dev/content.json)
 
-For Svelte 5 you have to download the new [Markdown documentation](https://svelte-5-preview.vercel.app/docs) and then pack the contents into a single Markdown file. Or you can use the [codebase.md](./codebase.md) file in this repository.
+**Svelte 5** - the Svelte 5 docs site is not yet available in JSON format. Manual aggregation of the [Svelte 5 docs](https://svelte-5-preview.vercel.app/docs) using [ai-digest](https://github.com/khromov/ai-digest) is straight forward. Alternatively, you could just use our [codebase.md 📂](./codebase.md)
 
 ## Usage
 
-Simply drop the [codebase.md](./codebase.md) file into the AI tool of your choice as context for code generation.
+Simply drop [codebase.md](./codebase.md) into the AI tool of your choice as context for code generation.
 
 You are all set to go :fireworks:
 
-Check back for updates to the codebase.md file as the Svelte 5 docs are updated.
+Check back for updates to the `codebase.md` file as the Svelte 5 docs are updated.
 
 ## Add more Context
 
-If you are running Svelte 5 locally, or money for AI tooling is not an issue, consider using the [codebase.src.md](./codebase.src.md) file.
+If you are running Svelte 5 locally, or money for AI tooling is not an issue, consider using [codebase.src.md 📂](./codebase.src.md) which is an aggregation of `/src` content from the latest Svelte 5 [release](https://github.com/sveltejs/svelte/releases) on GitHub.
 
-The file includes all of the `/src` folder, and by adding more content we end up with additional contextual tokens in the output file.
+By adding more content we end up with additional contextual tokens in the output file and hopefully better AI code generation as a result 🤞
 
 The downside of larger contextual files is the potential cost associated with using all of those additional tokens. In the case of Svelte 5 a rough doubling of the number of tokens in the output file is seen. Something to be aware of if you pay for AI tooling.
 
@@ -59,6 +59,6 @@ The run the `process-release.sh` script.
 
 ### Fork it
 
-You are welcome to just fork the [repo](https://github.com/kevinobee/svelte5-ai-digest.git) and add any other dependencies you require to enrich the AI context further.
+You are welcome to just fork the [repo](https://github.com/kevinobee/svelte5-ai-digest.git), add any other dependencies you require to enrich the AI context further.
 
 Run it all on GitHub yourself 🎇
