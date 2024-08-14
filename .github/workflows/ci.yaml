@@ -23,6 +23,8 @@ jobs:
   get_release:
     runs-on: ubuntu-latest
 
+    name: Get latest Svelte release
+
     outputs:
       requires_build: ${{ steps.check_release.outputs.requires_build }}
       svelte_release: ${{ steps.svelte_release.outputs.svelte_release }}
@@ -102,8 +104,8 @@ jobs:
         run: |
           echo "${{ needs.get_release.outputs.release_tag }}" > release-versions/sveltejs/svelte-latest.txt
 
-      - name: Chown ai-digest outputs
-        run: chown -R $USER:$USER *.md
+      - name: Add an exception for this directory
+        run: git config --global --add safe.directory $(pwd)
 
       - name: Upload ai-digest logs
         uses: actions/upload-artifact@v4
