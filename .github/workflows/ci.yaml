@@ -36,18 +36,18 @@ jobs:
         id: svelte_release
         run: |
           SVELTE_RELEASE=$(curl -s https://api.github.com/repos/sveltejs/svelte/releases | jq -r '.[0].tag_name' | grep 'svelte@5.0.0-next')
-          echo "::set-output name=svelte_release::$SVELTE_RELEASE"
+          echo "svelte_release=$SVELTE_RELEASE" >> $GITHUB_OUTPUT
           SVELTE_RELEASE_TAG=$(echo "$SVELTE_RELEASE" | sed 's/svelte@//')
-          echo "::set-output name=release_tag::$SVELTE_RELEASE_TAG"
+          echo "release_tag=$SVELTE_RELEASE_TAG" >> $GITHUB_OUTPUT
 
       - name: Check if current repo has matching release
         id: check_release
         run: |
           LAST_PROCESSED_VERSION=$(cat release-versions/sveltejs/svelte-latest.txt)
           if echo "$LAST_PROCESSED_VERSION" | grep -q "svelte@${{ steps.svelte_release.outputs.version }}"; then
-            echo "::set-output name=requires_build::false"
+            echo "requires_build=false" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=requires_build::true"
+            echo "requires_build=true" >> $GITHUB_OUTPUT
           fi
 
   build:
