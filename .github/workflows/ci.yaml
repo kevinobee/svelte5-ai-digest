@@ -68,7 +68,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Download and unzip Svelte 5 release - $RELEASE_TAG
+      - name: Download and unzip Svelte 5 release
         id: unpack_release
         run: |
           wget -O $ARCHIVE_PATH $ARCHIVE_URL
@@ -111,7 +111,7 @@ jobs:
           name: src-ai-digest
           path: 'ingest.src.md'
 
-      - name: Commit Changes for Svelte 5 release - $RELEASE_TAG
+      - name: Commit Changes
         uses: EndBug/add-and-commit@v9
         with:
           add: |
