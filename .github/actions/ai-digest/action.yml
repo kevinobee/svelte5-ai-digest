@@ -1,27 +1,27 @@
 name: ai-digest
 
-description: Runs ai-digest
+description: Runs ai-digest CLI
 
 inputs:
   input_path:
-    description: The input path to extract the digest from
-    required: true
+    description: 'Specify input directory (default: current directory)'
+    required: false
+    default: '.'
 
   output_file:
-    description: The output file to write the digest to
+    description: 'Specify output file (default: codebase.md)'
     required: false
     default: 'codebase.md'
 
   digest_log:
-    description: The output produced by ai-digest
+    description: 'Specify digest log file (default: ingest.md)'
     required: false
     default: 'ingest.md'
 
   ai_digest_flags:
-    description: The output produced by ai-digest
+    description: 'Flags passed to ai-digest, defaults to removing whitespace and displaying the output files in the digest log'
     required: false
     default: '--whitespace-removal --show-output-files'
-
 outputs:
   total_files:
     description: Total number of files parsed
