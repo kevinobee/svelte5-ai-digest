@@ -1,0 +1,62 @@
+name: ai-digest
+
+description: Runs ai-digest
+
+inputs:
+  input_path:
+    description: The input path to extract the digest from
+    required: true
+
+  output_file:
+    description: The output file to write the digest to
+    required: false
+    default: 'codebase.md'
+
+  digest_log:
+    description: The output produced by ai-digest
+    required: false
+    default: 'ingest.md'
+
+  ai_digest_flags:
+    description: The output produced by ai-digest
+    required: false
+    default: '--whitespace-removal --show-output-files'
+
+outputs:
+  total_files:
+    description: Total number of files parsed
+    value: ${{ steps.digest_stats.outputs.total_files }}
+  included_files:
+    description: Total number of files included in digest
+    value: ${{ steps.digest_stats.outputs.included_files }}
+  ignored_files:
+    description: Total number of files ignored
+    value: ${{ steps.digest_stats.outputs.ignored_files }}
+  binary_files:
+    description: Total number of binary files
+    value: ${{ steps.digest_stats.outputs.binary_files }}
+  estimated_tokens:
+    description: Estimated number of tokens in digest
+    value: ${{ steps.digest_stats.outputs.estimated_tokens }}
+
+runs:
+  using: composite
+
+  steps:
+    - name: Run ai-digest
+      id: run_ai_digest
+      run: |
+        npx ai-digest -i ${{ inputs.input_path }} ${{ inputs.ai_digest_flags }} -o ${{ inputs.output_file }} | tee ${{ inputs.digest_log }}
+      shell: bash
+
+    - name: Extract ai-digest stats
+      id: digest_stats
+      run: |
+        echo "total_files=$(grep "Total files found" $DIGEST_LOG | cut -d":" -f2 | tr -d ' ')"  >> $GITHUB_OUTPUT
+        echo "included_files=$(grep "Files included in output" $DIGEST_LOG | cut -d":" -f2 | tr -d ' ')" >> $GITHUB_OUTPUT
+        echo "ignored_files=$(grep "Files ignored by default patterns" $DIGEST_LOG | cut -d":" -f2 | tr -d ' ')" >> $GITHUB_OUTPUT
+        echo "binary_files=$(grep "Binary and SVG files included" $DIGEST_LOG | cut -d":" -f2 | tr -d ' ')" >> $GITHUB_OUTPUT
+        echo "estimated_tokens=$(grep "Estimated token count" $DIGEST_LOG | cut -d":" -f2 | tr -d ' ' | tr -d '⚠️')" >> $GITHUB_OUTPUT
+      shell: bash
+      env:
+        DIGEST_LOG: ${{ inputs.digest_log }}

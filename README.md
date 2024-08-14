@@ -36,27 +36,6 @@ The [ingest](./ingest.md) output contains file and token metrics for `codebase.m
 
 For comparison see [ingest.src](./ingest.src.md) which contains the output for the larger `/src` manifest.
 
-## Run it Yourself
-
-### Local Clone
-
-To generate your own manifest file.
-
-```sh
-# Clone the repo
-git clone https://github.com/kevinobee/svelte5-ai-digest.git
-cd svelte5-ai-digest.git
-```
-
-The run the `process-release.sh` script.
-
-```sh
-# Run the process-release.sh script to generate the manifest files for AI tooling
-# __ As with any script downloaded from the internet.. exercise caution!
-# __ Read it before you Run it 🙏
-./process-release.sh
-```
-
 ### Fork it
 
 You are welcome to just fork the [repo](https://github.com/kevinobee/svelte5-ai-digest.git), add any other dependencies you require to enrich the AI context further.

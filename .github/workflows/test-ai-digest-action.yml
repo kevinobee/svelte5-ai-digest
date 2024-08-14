@@ -1,0 +1,33 @@
+name: Test ai-digest action
+
+on:
+  push:
+    branches: ['main']
+    paths:
+      - '.github/actions/ai-digest/action.yml'
+
+  pull_request:
+    branches: ['main']
+    paths:
+      - '.github/actions/ai-digest/action.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    container: node:20
+
+    name: Test ai-digest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Run ai-digest
+        id: ai_digest
+        uses: ./.github/actions/ai-digest
+        with:
+          output_file: 'test.md'
+          input_path: './release-versions'
+      - name: Check output
+        run: |
+          echo '{ "included_files": ${{ steps.ai_digest.outputs.included_files }}, "estimated_tokens": ${{ steps.ai_digest.outputs.estimated_tokens }} }'
+          test ${{ steps.ai_digest.outputs.included_files }} -gt 1
+          test ${{ steps.ai_digest.outputs.estimated_tokens }} -gt 10
