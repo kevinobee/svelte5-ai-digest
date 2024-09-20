@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.252/sites/svelte-5-preview/src/routes/docs/content.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.257/sites/svelte-5-preview/src/routes/docs/content.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Found 15 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.252/sites/svelte-5-preview/src/routes/docs/content. Applying filters...
+🔍 Found 15 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.257/sites/svelte-5-preview/src/routes/docs/content. Applying filters...
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 15
 📎 Files included in output: 15
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token count: 35095
+🔢 Estimated token count: 35239
 ⚠️ Note: Token count is an approximation using GPT-4 tokenizer. For ChatGPT, it should be accurate. For Claude, it may be ±20% approximately.
 📋 Files included in the output:
 1. 03-appendix/meta.json
