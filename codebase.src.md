@@ -7,7 +7,7 @@
 # app.html
 
 ```html
-<!doctype html> <html lang="en" class="theme-default typo-default"> <head> <meta charset="utf-8" /> <meta name="description" content="" /> <link rel="icon" href="%sveltekit.assets%/favicon.png" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> %sveltekit.head% </head> <body> <div style="display: contents">%sveltekit.body%</div> </body> </html>
+<!doctype html> <html lang="en" class="theme-default typo-default"> <head> <meta charset="utf-8" /> <meta name="description" content="" /> <link rel="icon" href="%sveltekit.assets%/favicon.png" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> %sveltekit.head% </head> <body data-sveltekit-preload-data="hover"> <div style="display: contents">%sveltekit.body%</div> </body> </html>
 ```
 
 # routes/gzip.js
@@ -130,16 +130,16 @@ import Worker from './workers/bundler/index.js?worker'; const workers = new Map(
 import results from './results.json'; export async function load() { let total = 0; let passed = 0; let failed = 0; let skipped = 0; const suites = results.testResults .map((suite) => { let name = suite.name.split('/').at(-2); if (name === 'runtime-browser') { // special case name = suite.assertionResults[0].ancestorTitles[1]; } return { name, tests: suite.assertionResults.map((test) => { total += 1; if (test.status === 'passed') passed += 1; if (test.status === 'failed') failed += 1; if (test.status === 'skipped') skipped += 1; return { title: test.title, status: test.status }; }) }; }) .sort((a, b) => (a.name < b.name ? -1 : +1)); return { nav_title: 'Status', results: { suites, total, passed, failed, skipped } }; }
 ```
 
-# routes/nav.json/+server.js
-
-```js
-import { json } from '@sveltejs/kit'; import { get_docs_data, get_docs_list } from '../docs/render'; export const GET = async () => { const docs_list = get_docs_list(await get_docs_data()); const processed_docs_list = docs_list.map(({ title, pages }) => ({ title, sections: pages.map(({ title, path }) => ({ title, path })) })); return json([ { title: 'Docs', prefix: 'docs', pathname: '/docs/introduction', sections: [ { title: 'DOCS', sections: processed_docs_list } ] }, { title: 'Status', prefix: 'status', pathname: '/status' } ]); };
-```
-
 # routes/faq/+page.server.js
 
 ```js
 import { redirect } from '@sveltejs/kit'; export function load() { redirect(308, '/docs/faq'); }
+```
+
+# routes/nav.json/+server.js
+
+```js
+import { json } from '@sveltejs/kit'; import { get_docs_data, get_docs_list } from '../docs/render'; export const GET = async () => { const docs_list = get_docs_list(await get_docs_data()); const processed_docs_list = docs_list.map(({ title, pages }) => ({ title, sections: pages.map(({ title, path }) => ({ title, path })) })); return json([ { title: 'Docs', prefix: 'docs', pathname: '/docs/introduction', sections: [ { title: 'DOCS', sections: processed_docs_list } ] }, { title: 'Status', prefix: 'status', pathname: '/status' } ]); };
 ```
 
 # routes/docs/types.d.ts
