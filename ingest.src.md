@@ -1,8 +1,8 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.260/sites/svelte-5-preview/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.262/sites/svelte-5-preview/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Found 79 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.260/sites/svelte-5-preview/src. Applying filters...
+🔍 Found 79 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.262/sites/svelte-5-preview/src. Applying filters...
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 79
 📎 Files included in output: 79
@@ -33,8 +33,8 @@ No custom ignore patterns found.
 20. lib/Bundler.js
 21. routes/status/+page.svelte
 22. routes/status/+page.server.js
-23. routes/faq/+page.server.js
-24. routes/nav.json/+server.js
+23. routes/nav.json/+server.js
+24. routes/faq/+page.server.js
 25. routes/docs/types.d.ts
 26. routes/docs/render.js
 27. routes/docs/+page.js
