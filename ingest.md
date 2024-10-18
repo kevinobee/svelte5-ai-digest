@@ -1,8 +1,8 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.268/sites/svelte-5-preview/src/routes/docs/content.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.269/sites/svelte-5-preview/src/routes/docs/content.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Found 15 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.268/sites/svelte-5-preview/src/routes/docs/content. Applying filters...
+🔍 Found 15 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.0.0-next.269/sites/svelte-5-preview/src/routes/docs/content. Applying filters...
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 15
 📎 Files included in output: 15
