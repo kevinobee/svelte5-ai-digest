@@ -1,5 +1,7 @@
 #!/bin/bash
+
 set -e
+
 
 # Get the latest release tag
 curl -s https://api.github.com/repos/sveltejs/svelte/releases | jq -r '.[] | select(.tag_name | contains("svelte@5")) | .tag_name' | sed 's/svelte@//' | sort -V | tail -n 1 > release-versions/sveltejs/svelte-latest.txt
