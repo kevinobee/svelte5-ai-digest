@@ -56,7 +56,7 @@ jobs:
         run: |
           ./process-release.sh
       - name: Commit Changes
-        if: steps.check_release.outputs.modified == 'true'
+        if: ${{ (steps.check_release.outputs.modified == 'true') && (github.ref == 'refs/heads/main') }}
         uses: EndBug/add-and-commit@v9
         with:
           add: |
