@@ -4,7 +4,9 @@
 
 ## TL;DR
 
-This repo contains the contents of the new [Svelte 5 docs](https://svelte-5-preview.vercel.app/docs) site packaged as a single Markdown file.
+This repo contains the contents of the [Svelte 5 docs](https://svelte.dev/docs/svelte/overview) packaged as a single Markdown file.
+
+Before using this approach take a look at the official Svelte [Docs for LLMs](https://svelte.dev/docs/llms).
 
 ## Why
 
@@ -12,7 +14,13 @@ AI tools such as Cody and Codeium are great for generating code snippets, but th
 
 **Svelte** 4 - use [content JSON 🔗](https://kit.svelte.dev/content.json)
 
-**Svelte 5** - the Svelte 5 docs site is not yet available in JSON format. Manual aggregation of the [Svelte 5 docs](https://svelte-5-preview.vercel.app/docs) using [ai-digest](https://github.com/khromov/ai-digest) is straight forward. Alternatively, you could just use our [codebase.md 📂](./codebase.md)
+**Svelte 5** - the official Svelte [Docs for LLMs](https://svelte.dev/docs/llms) is recommended.
+
+Alternatives:
+
+- Use [content JSON 🔗](https://kit.svelte.dev/content.json), it works for Svelte 5 now :thumbsup:
+- Manual aggregation of the [Svelte 5 docs](https://svelte.dev/docs/svelte) using [ai-digest](https://github.com/khromov/ai-digest) is straight forward.
+- Use our [codebase.md 📂](./codebase.md)
 
 ## Usage
 
