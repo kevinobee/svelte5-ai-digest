@@ -2,7 +2,7 @@
 set -e
 
 # Get the latest release tag
-curl -s https://api.github.com/repos/sveltejs/svelte/releases | jq -r '.[] | select(.tag_name | contains("svelte@5.0.0-next")) | .tag_name' | sed 's/svelte@//' | sort -V | tail -n 1 > release-versions/sveltejs/svelte-latest.txt
+curl -s https://api.github.com/repos/sveltejs/svelte/releases | jq -r '.[] | select(.tag_name | contains("svelte@5")) | .tag_name' | sed 's/svelte@//' | sort -V | tail -n 1 > release-versions/sveltejs/svelte-latest.txt
 RELEASE_TAG=$(cat release-versions/sveltejs/svelte-latest.txt)
 echo "latest release: $RELEASE_TAG"
 
@@ -22,16 +22,13 @@ test -d $SVELTE_PATH && rm -rf $SVELTE_PATH
 echo "extracting $ARCHIVE_PATH to $SVELTE_PATH"
 unzip -d $SVELTE_ROOT_PATH -q -o $ARCHIVE_PATH
 
-SVELTE5_PATH="$SVELTE_PATH/sites/svelte-5-preview"
-
 # Generate manifest for docs only
-npx ai-digest -i $SVELTE5_PATH/src/routes/docs/content --whitespace-removal --show-output-files -o codebase.md | tee ingest.md
+npx ai-digest -i $SVELTE_PATH/documentation/docs --whitespace-removal --show-output-files -o codebase.md | tee ingest.md
 test $(wc -l codebase.md | awk '{print $1}') -gt 80 # we need at least 80 lines in the manifest
-
 
 # Generate full src manifest
 # This roughly doubles the number of tokens in codebase file, which is important for 💲
-npx ai-digest -i $SVELTE5_PATH/src --whitespace-removal --show-output-files -o codebase.src.md | tee ingest.src.md
+npx ai-digest -i $SVELTE_PATH/packages/svelte/src --whitespace-removal --show-output-files -o codebase.src.md | tee ingest.src.md
 test $(wc -l codebase.src.md | awk '{print $1}') -gt 450 # we need at least 450 lines in the manifest
 
 # Check for Changes
