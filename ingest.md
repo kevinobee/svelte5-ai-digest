@@ -2,14 +2,14 @@
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Found 96 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.28.6/documentation/docs. Applying filters...
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.28.6/documentation/docs
+🔍 Found 96 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.28.6/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 96
 📎 Files included in output: 96
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token count: 89637
-⚠️ Note: Token count is an approximation using GPT-4 tokenizer. For ChatGPT, it should be accurate. For Claude, it may be ±20% approximately.
+🔢 Estimated token counts - Claude models: 95883 tokens, GPT-4: 89637 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  968 B     ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.6%) █
