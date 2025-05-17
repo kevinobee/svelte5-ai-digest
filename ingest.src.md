@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.1/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.1/packages/svelte/src
-🔍 Found 376 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.1/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/packages/svelte/src
+🔍 Found 376 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 376
 📎 Files included in output: 376
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 428129 tokens, GPT-4: 381699 tokens
+🔢 Estimated token counts - Claude models: 428198 tokens, GPT-4: 381760 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -301,7 +301,7 @@ No custom ignore patterns found.
 288 internal/client/dom/elements/misc.js                          1.5 KB    ( 0.1%) █
 289 internal/client/dom/elements/style.js                         1.5 KB    ( 0.1%) █
 290 internal/client/dom/elements/transitions.js                   13.1 KB   ( 0.9%) █
-291 internal/client/dom/hydration.js                              2.6 KB    ( 0.2%) █
+291 internal/client/dom/hydration.js                              2.8 KB    ( 0.2%) █
 292 internal/client/dom/legacy/event-modifiers.js                 3.1 KB    ( 0.2%) █
 293 internal/client/dom/legacy/lifecycle.js                       2.0 KB    ( 0.1%) █
 294 internal/client/dom/legacy/misc.js                            1.8 KB    ( 0.1%) █
