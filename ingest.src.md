@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.31.1/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/packages/svelte/src
-🔍 Found 376 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.31.1/packages/svelte/src
+🔍 Found 376 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.31.1/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 376
 📎 Files included in output: 376
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 428198 tokens, GPT-4: 381760 tokens
+🔢 Estimated token counts - Claude models: 429650 tokens, GPT-4: 383010 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -17,9 +17,9 @@ No custom ignore patterns found.
 4   animate/public.d.ts                                           398 B     ( 0.0%) █
 5   attachments/index.js                                          740 B     ( 0.0%) █
 6   attachments/public.d.ts                                       575 B     ( 0.0%) █
-7   compiler/errors.js                                            62.2 KB   ( 4.1%) ██
+7   compiler/errors.js                                            63.0 KB   ( 4.1%) ██
 8   compiler/index.js                                             5.6 KB    ( 0.4%) █
-9   compiler/legacy.js                                            16.1 KB   ( 1.1%) █
+9   compiler/legacy.js                                            16.1 KB   ( 1.0%) █
 10  compiler/migrate/index.js                                     62.6 KB   ( 4.1%) ██
 11  compiler/phases/1-parse/acorn.js                              5.0 KB    ( 0.3%) █
 12  compiler/phases/1-parse/index.js                              7.3 KB    ( 0.5%) █
@@ -42,17 +42,17 @@ No custom ignore patterns found.
 29  compiler/phases/2-analyze/css/css-prune.js                    30.5 KB   ( 2.0%) █
 30  compiler/phases/2-analyze/css/css-warn.js                     1.2 KB    ( 0.1%) █
 31  compiler/phases/2-analyze/css/utils.js                        5.8 KB    ( 0.4%) █
-32  compiler/phases/2-analyze/index.js                            27.3 KB   ( 1.8%) █
+32  compiler/phases/2-analyze/index.js                            27.4 KB   ( 1.8%) █
 33  compiler/phases/2-analyze/types.d.ts                          1.3 KB    ( 0.1%) █
 34  compiler/phases/2-analyze/utils/check_graph_for_cycles.js     820 B     ( 0.1%) █
 35  compiler/phases/2-analyze/visitors/ArrowFunctionExpression.js 324 B     ( 0.0%) █
-36  compiler/phases/2-analyze/visitors/AssignmentExpression.js    783 B     ( 0.0%) █
+36  compiler/phases/2-analyze/visitors/AssignmentExpression.js    777 B     ( 0.0%) █
 37  compiler/phases/2-analyze/visitors/AttachTag.js               370 B     ( 0.0%) █
 38  compiler/phases/2-analyze/visitors/Attribute.js               7.1 KB    ( 0.5%) █
 39  compiler/phases/2-analyze/visitors/AwaitBlock.js              1.3 KB    ( 0.1%) █
 40  compiler/phases/2-analyze/visitors/BindDirective.js           7.9 KB    ( 0.5%) █
-41  compiler/phases/2-analyze/visitors/CallExpression.js          7.3 KB    ( 0.5%) █
-42  compiler/phases/2-analyze/visitors/ClassBody.js               864 B     ( 0.1%) █
+41  compiler/phases/2-analyze/visitors/CallExpression.js          8.4 KB    ( 0.5%) █
+42  compiler/phases/2-analyze/visitors/ClassBody.js               2.9 KB    ( 0.2%) █
 43  compiler/phases/2-analyze/visitors/ClassDeclaration.js        863 B     ( 0.1%) █
 44  compiler/phases/2-analyze/visitors/ClassDirective.js          380 B     ( 0.0%) █
 45  compiler/phases/2-analyze/visitors/Component.js               626 B     ( 0.0%) █
@@ -77,121 +77,121 @@ No custom ignore patterns found.
 64  compiler/phases/2-analyze/visitors/MemberExpression.js        822 B     ( 0.1%) █
 65  compiler/phases/2-analyze/visitors/NewExpression.js           442 B     ( 0.0%) █
 66  compiler/phases/2-analyze/visitors/OnDirective.js             934 B     ( 0.1%) █
-67  compiler/phases/2-analyze/visitors/RegularElement.js          5.9 KB    ( 0.4%) █
-68  compiler/phases/2-analyze/visitors/RenderTag.js               2.0 KB    ( 0.1%) █
-69  compiler/phases/2-analyze/visitors/shared/a11y.js             33.6 KB   ( 2.2%) █
-70  compiler/phases/2-analyze/visitors/shared/attribute.js        3.2 KB    ( 0.2%) █
-71  compiler/phases/2-analyze/visitors/shared/component.js        5.2 KB    ( 0.3%) █
-72  compiler/phases/2-analyze/visitors/shared/element.js          4.7 KB    ( 0.3%) █
-73  compiler/phases/2-analyze/visitors/shared/fragment.js         303 B     ( 0.0%) █
-74  compiler/phases/2-analyze/visitors/shared/function.js         596 B     ( 0.0%) █
-75  compiler/phases/2-analyze/visitors/shared/snippets.js         485 B     ( 0.0%) █
-76  compiler/phases/2-analyze/visitors/shared/special-element.js  445 B     ( 0.0%) █
-77  compiler/phases/2-analyze/visitors/shared/utils.js            8.0 KB    ( 0.5%) █
-78  compiler/phases/2-analyze/visitors/SlotElement.js             1.1 KB    ( 0.1%) █
-79  compiler/phases/2-analyze/visitors/SnippetBlock.js            2.8 KB    ( 0.2%) █
-80  compiler/phases/2-analyze/visitors/SpreadAttribute.js         382 B     ( 0.0%) █
-81  compiler/phases/2-analyze/visitors/SpreadElement.js           405 B     ( 0.0%) █
-82  compiler/phases/2-analyze/visitors/StyleDirective.js          1.1 KB    ( 0.1%) █
-83  compiler/phases/2-analyze/visitors/SvelteBody.js              631 B     ( 0.0%) █
-84  compiler/phases/2-analyze/visitors/SvelteBoundary.js          707 B     ( 0.0%) █
-85  compiler/phases/2-analyze/visitors/SvelteComponent.js         455 B     ( 0.0%) █
-86  compiler/phases/2-analyze/visitors/SvelteDocument.js          656 B     ( 0.0%) █
-87  compiler/phases/2-analyze/visitors/SvelteElement.js           2.0 KB    ( 0.1%) █
-88  compiler/phases/2-analyze/visitors/SvelteFragment.js          815 B     ( 0.1%) █
-89  compiler/phases/2-analyze/visitors/SvelteHead.js              449 B     ( 0.0%) █
-90  compiler/phases/2-analyze/visitors/SvelteSelf.js              955 B     ( 0.1%) █
-91  compiler/phases/2-analyze/visitors/SvelteWindow.js            650 B     ( 0.0%) █
-92  compiler/phases/2-analyze/visitors/TaggedTemplateExpression.js459 B     ( 0.0%) █
-93  compiler/phases/2-analyze/visitors/TemplateElement.js         376 B     ( 0.0%) █
-94  compiler/phases/2-analyze/visitors/Text.js                    1.6 KB    ( 0.1%) █
-95  compiler/phases/2-analyze/visitors/TitleElement.js            500 B     ( 0.0%) █
-96  compiler/phases/2-analyze/visitors/TransitionDirective.js     333 B     ( 0.0%) █
-97  compiler/phases/2-analyze/visitors/UpdateExpression.js        717 B     ( 0.0%) █
-98  compiler/phases/2-analyze/visitors/UseDirective.js            317 B     ( 0.0%) █
-99  compiler/phases/2-analyze/visitors/VariableDeclarator.js      3.6 KB    ( 0.2%) █
-100 compiler/phases/3-transform/client/transform-client.js        20.5 KB   ( 1.3%) █
-101 compiler/phases/3-transform/client/types.d.ts                 3.9 KB    ( 0.3%) █
-102 compiler/phases/3-transform/client/utils.js                   8.1 KB    ( 0.5%) █
-103 compiler/phases/3-transform/client/visitors/AnimateDirective.js784 B     ( 0.1%) █
-104 compiler/phases/3-transform/client/visitors/ArrowFunctionExpression.js349 B     ( 0.0%) █
-105 compiler/phases/3-transform/client/visitors/AssignmentExpression.js5.3 KB    ( 0.3%) █
-106 compiler/phases/3-transform/client/visitors/AttachTag.js      499 B     ( 0.0%) █
-107 compiler/phases/3-transform/client/visitors/Attribute.js      413 B     ( 0.0%) █
-108 compiler/phases/3-transform/client/visitors/AwaitBlock.js     3.1 KB    ( 0.2%) █
-109 compiler/phases/3-transform/client/visitors/BinaryExpression.js894 B     ( 0.1%) █
-110 compiler/phases/3-transform/client/visitors/BindDirective.js  6.7 KB    ( 0.4%) █
-111 compiler/phases/3-transform/client/visitors/BlockStatement.js 964 B     ( 0.1%) █
-112 compiler/phases/3-transform/client/visitors/BreakStatement.js 533 B     ( 0.0%) █
-113 compiler/phases/3-transform/client/visitors/CallExpression.js 1.7 KB    ( 0.1%) █
-114 compiler/phases/3-transform/client/visitors/ClassBody.js      5.2 KB    ( 0.3%) █
-115 compiler/phases/3-transform/client/visitors/Comment.js        368 B     ( 0.0%) █
-116 compiler/phases/3-transform/client/visitors/Component.js      1.1 KB    ( 0.1%) █
-117 compiler/phases/3-transform/client/visitors/ConstTag.js       2.4 KB    ( 0.2%) █
-118 compiler/phases/3-transform/client/visitors/DebugTag.js       765 B     ( 0.0%) █
-119 compiler/phases/3-transform/client/visitors/EachBlock.js      10.6 KB   ( 0.7%) █
-120 compiler/phases/3-transform/client/visitors/ExportNamedDeclaration.js447 B     ( 0.0%) █
-121 compiler/phases/3-transform/client/visitors/ExpressionStatement.js928 B     ( 0.1%) █
-122 compiler/phases/3-transform/client/visitors/Fragment.js       8.0 KB    ( 0.5%) █
-123 compiler/phases/3-transform/client/visitors/FunctionDeclaration.js679 B     ( 0.0%) █
-124 compiler/phases/3-transform/client/visitors/FunctionExpression.js334 B     ( 0.0%) █
-125 compiler/phases/3-transform/client/visitors/HtmlTag.js        944 B     ( 0.1%) █
-126 compiler/phases/3-transform/client/visitors/Identifier.js     1.1 KB    ( 0.1%) █
-127 compiler/phases/3-transform/client/visitors/IfBlock.js        2.1 KB    ( 0.1%) █
-128 compiler/phases/3-transform/client/visitors/ImportDeclaration.js388 B     ( 0.0%) █
-129 compiler/phases/3-transform/client/visitors/KeyBlock.js       606 B     ( 0.0%) █
-130 compiler/phases/3-transform/client/visitors/LabeledStatement.js2.0 KB    ( 0.1%) █
-131 compiler/phases/3-transform/client/visitors/LetDirective.js   1.8 KB    ( 0.1%) █
-132 compiler/phases/3-transform/client/visitors/MemberExpression.js631 B     ( 0.0%) █
-133 compiler/phases/3-transform/client/visitors/OnDirective.js    1002 B    ( 0.1%) █
-134 compiler/phases/3-transform/client/visitors/Program.js        4.1 KB    ( 0.3%) █
-135 compiler/phases/3-transform/client/visitors/RegularElement.js 22.6 KB   ( 1.5%) █
-136 compiler/phases/3-transform/client/visitors/RenderTag.js      1.6 KB    ( 0.1%) █
-137 compiler/phases/3-transform/client/visitors/shared/component.js13.5 KB   ( 0.9%) █
-138 compiler/phases/3-transform/client/visitors/shared/declarations.js1.4 KB    ( 0.1%) █
-139 compiler/phases/3-transform/client/visitors/shared/element.js 7.8 KB    ( 0.5%) █
-140 compiler/phases/3-transform/client/visitors/shared/events.js  5.2 KB    ( 0.3%) █
-141 compiler/phases/3-transform/client/visitors/shared/fragment.js4.5 KB    ( 0.3%) █
-142 compiler/phases/3-transform/client/visitors/shared/function.js881 B     ( 0.1%) █
-143 compiler/phases/3-transform/client/visitors/shared/special_element.js675 B     ( 0.0%) █
-144 compiler/phases/3-transform/client/visitors/shared/utils.js   10.6 KB   ( 0.7%) █
-145 compiler/phases/3-transform/client/visitors/SlotElement.js    2.2 KB    ( 0.1%) █
-146 compiler/phases/3-transform/client/visitors/SnippetBlock.js   2.8 KB    ( 0.2%) █
-147 compiler/phases/3-transform/client/visitors/SpreadAttribute.js266 B     ( 0.0%) █
-148 compiler/phases/3-transform/client/visitors/SvelteBody.js     343 B     ( 0.0%) █
-149 compiler/phases/3-transform/client/visitors/SvelteBoundary.js 2.9 KB    ( 0.2%) █
-150 compiler/phases/3-transform/client/visitors/SvelteComponent.js386 B     ( 0.0%) █
-151 compiler/phases/3-transform/client/visitors/SvelteDocument.js 346 B     ( 0.0%) █
-152 compiler/phases/3-transform/client/visitors/SvelteElement.js  4.5 KB    ( 0.3%) █
-153 compiler/phases/3-transform/client/visitors/SvelteFragment.js 575 B     ( 0.0%) █
-154 compiler/phases/3-transform/client/visitors/SvelteHead.js     494 B     ( 0.0%) █
-155 compiler/phases/3-transform/client/visitors/SvelteSelf.js     390 B     ( 0.0%) █
-156 compiler/phases/3-transform/client/visitors/SvelteWindow.js   340 B     ( 0.0%) █
-157 compiler/phases/3-transform/client/visitors/TitleElement.js   642 B     ( 0.0%) █
-158 compiler/phases/3-transform/client/visitors/TransitionDirective.js1.0 KB    ( 0.1%) █
-159 compiler/phases/3-transform/client/visitors/UpdateExpression.js1.5 KB    ( 0.1%) █
-160 compiler/phases/3-transform/client/visitors/UseDirective.js   945 B     ( 0.1%) █
-161 compiler/phases/3-transform/client/visitors/VariableDeclaration.js9.7 KB    ( 0.6%) █
-162 compiler/phases/3-transform/css/index.js                      13.3 KB   ( 0.9%) █
-163 compiler/phases/3-transform/index.js                          3.2 KB    ( 0.2%) █
-164 compiler/phases/3-transform/server/transform-server.js        12.1 KB   ( 0.8%) █
-165 compiler/phases/3-transform/server/types.d.ts                 1.4 KB    ( 0.1%) █
-166 compiler/phases/3-transform/server/visitors/AssignmentExpression.js1.8 KB    ( 0.1%) █
-167 compiler/phases/3-transform/server/visitors/AwaitBlock.js     857 B     ( 0.1%) █
-168 compiler/phases/3-transform/server/visitors/CallExpression.js 1.0 KB    ( 0.1%) █
-169 compiler/phases/3-transform/server/visitors/ClassBody.js      3.4 KB    ( 0.2%) █
-170 compiler/phases/3-transform/server/visitors/Component.js      379 B     ( 0.0%) █
-171 compiler/phases/3-transform/server/visitors/ConstTag.js       553 B     ( 0.0%) █
-172 compiler/phases/3-transform/server/visitors/DebugTag.js       554 B     ( 0.0%) █
-173 compiler/phases/3-transform/server/visitors/EachBlock.js      1.9 KB    ( 0.1%) █
-174 compiler/phases/3-transform/server/visitors/ExpressionStatement.js537 B     ( 0.0%) █
-175 compiler/phases/3-transform/server/visitors/Fragment.js       1.3 KB    ( 0.1%) █
-176 compiler/phases/3-transform/server/visitors/HtmlTag.js        438 B     ( 0.0%) █
-177 compiler/phases/3-transform/server/visitors/Identifier.js     531 B     ( 0.0%) █
-178 compiler/phases/3-transform/server/visitors/IfBlock.js        1.5 KB    ( 0.1%) █
-179 compiler/phases/3-transform/server/visitors/KeyBlock.js       445 B     ( 0.0%) █
-180 compiler/phases/3-transform/server/visitors/LabeledStatement.js714 B     ( 0.0%) █
-181 compiler/phases/3-transform/server/visitors/MemberExpression.js529 B     ( 0.0%) █
+67  compiler/phases/2-analyze/visitors/PropertyDefinition.js      608 B     ( 0.0%) █
+68  compiler/phases/2-analyze/visitors/RegularElement.js          5.9 KB    ( 0.4%) █
+69  compiler/phases/2-analyze/visitors/RenderTag.js               2.0 KB    ( 0.1%) █
+70  compiler/phases/2-analyze/visitors/shared/a11y.js             33.6 KB   ( 2.2%) █
+71  compiler/phases/2-analyze/visitors/shared/attribute.js        3.2 KB    ( 0.2%) █
+72  compiler/phases/2-analyze/visitors/shared/component.js        5.2 KB    ( 0.3%) █
+73  compiler/phases/2-analyze/visitors/shared/element.js          4.7 KB    ( 0.3%) █
+74  compiler/phases/2-analyze/visitors/shared/fragment.js         303 B     ( 0.0%) █
+75  compiler/phases/2-analyze/visitors/shared/function.js         596 B     ( 0.0%) █
+76  compiler/phases/2-analyze/visitors/shared/snippets.js         485 B     ( 0.0%) █
+77  compiler/phases/2-analyze/visitors/shared/special-element.js  445 B     ( 0.0%) █
+78  compiler/phases/2-analyze/visitors/shared/utils.js            9.1 KB    ( 0.6%) █
+79  compiler/phases/2-analyze/visitors/SlotElement.js             1.1 KB    ( 0.1%) █
+80  compiler/phases/2-analyze/visitors/SnippetBlock.js            2.8 KB    ( 0.2%) █
+81  compiler/phases/2-analyze/visitors/SpreadAttribute.js         382 B     ( 0.0%) █
+82  compiler/phases/2-analyze/visitors/SpreadElement.js           405 B     ( 0.0%) █
+83  compiler/phases/2-analyze/visitors/StyleDirective.js          1.1 KB    ( 0.1%) █
+84  compiler/phases/2-analyze/visitors/SvelteBody.js              631 B     ( 0.0%) █
+85  compiler/phases/2-analyze/visitors/SvelteBoundary.js          707 B     ( 0.0%) █
+86  compiler/phases/2-analyze/visitors/SvelteComponent.js         455 B     ( 0.0%) █
+87  compiler/phases/2-analyze/visitors/SvelteDocument.js          656 B     ( 0.0%) █
+88  compiler/phases/2-analyze/visitors/SvelteElement.js           2.0 KB    ( 0.1%) █
+89  compiler/phases/2-analyze/visitors/SvelteFragment.js          815 B     ( 0.1%) █
+90  compiler/phases/2-analyze/visitors/SvelteHead.js              449 B     ( 0.0%) █
+91  compiler/phases/2-analyze/visitors/SvelteSelf.js              955 B     ( 0.1%) █
+92  compiler/phases/2-analyze/visitors/SvelteWindow.js            650 B     ( 0.0%) █
+93  compiler/phases/2-analyze/visitors/TaggedTemplateExpression.js459 B     ( 0.0%) █
+94  compiler/phases/2-analyze/visitors/TemplateElement.js         376 B     ( 0.0%) █
+95  compiler/phases/2-analyze/visitors/Text.js                    1.6 KB    ( 0.1%) █
+96  compiler/phases/2-analyze/visitors/TitleElement.js            500 B     ( 0.0%) █
+97  compiler/phases/2-analyze/visitors/TransitionDirective.js     333 B     ( 0.0%) █
+98  compiler/phases/2-analyze/visitors/UpdateExpression.js        711 B     ( 0.0%) █
+99  compiler/phases/2-analyze/visitors/UseDirective.js            317 B     ( 0.0%) █
+100 compiler/phases/2-analyze/visitors/VariableDeclarator.js      3.6 KB    ( 0.2%) █
+101 compiler/phases/3-transform/client/transform-client.js        20.4 KB   ( 1.3%) █
+102 compiler/phases/3-transform/client/types.d.ts                 3.7 KB    ( 0.2%) █
+103 compiler/phases/3-transform/client/utils.js                   8.1 KB    ( 0.5%) █
+104 compiler/phases/3-transform/client/visitors/AnimateDirective.js784 B     ( 0.0%) █
+105 compiler/phases/3-transform/client/visitors/ArrowFunctionExpression.js349 B     ( 0.0%) █
+106 compiler/phases/3-transform/client/visitors/AssignmentExpression.js5.9 KB    ( 0.4%) █
+107 compiler/phases/3-transform/client/visitors/AttachTag.js      499 B     ( 0.0%) █
+108 compiler/phases/3-transform/client/visitors/Attribute.js      413 B     ( 0.0%) █
+109 compiler/phases/3-transform/client/visitors/AwaitBlock.js     3.1 KB    ( 0.2%) █
+110 compiler/phases/3-transform/client/visitors/BinaryExpression.js894 B     ( 0.1%) █
+111 compiler/phases/3-transform/client/visitors/BindDirective.js  6.7 KB    ( 0.4%) █
+112 compiler/phases/3-transform/client/visitors/BlockStatement.js 964 B     ( 0.1%) █
+113 compiler/phases/3-transform/client/visitors/BreakStatement.js 533 B     ( 0.0%) █
+114 compiler/phases/3-transform/client/visitors/CallExpression.js 2.5 KB    ( 0.2%) █
+115 compiler/phases/3-transform/client/visitors/ClassBody.js      2.4 KB    ( 0.2%) █
+116 compiler/phases/3-transform/client/visitors/Comment.js        368 B     ( 0.0%) █
+117 compiler/phases/3-transform/client/visitors/Component.js      1.1 KB    ( 0.1%) █
+118 compiler/phases/3-transform/client/visitors/ConstTag.js       2.4 KB    ( 0.2%) █
+119 compiler/phases/3-transform/client/visitors/DebugTag.js       765 B     ( 0.0%) █
+120 compiler/phases/3-transform/client/visitors/EachBlock.js      10.6 KB   ( 0.7%) █
+121 compiler/phases/3-transform/client/visitors/ExportNamedDeclaration.js447 B     ( 0.0%) █
+122 compiler/phases/3-transform/client/visitors/ExpressionStatement.js928 B     ( 0.1%) █
+123 compiler/phases/3-transform/client/visitors/Fragment.js       8.0 KB    ( 0.5%) █
+124 compiler/phases/3-transform/client/visitors/FunctionDeclaration.js679 B     ( 0.0%) █
+125 compiler/phases/3-transform/client/visitors/FunctionExpression.js334 B     ( 0.0%) █
+126 compiler/phases/3-transform/client/visitors/HtmlTag.js        944 B     ( 0.1%) █
+127 compiler/phases/3-transform/client/visitors/Identifier.js     1.1 KB    ( 0.1%) █
+128 compiler/phases/3-transform/client/visitors/IfBlock.js        2.1 KB    ( 0.1%) █
+129 compiler/phases/3-transform/client/visitors/ImportDeclaration.js388 B     ( 0.0%) █
+130 compiler/phases/3-transform/client/visitors/KeyBlock.js       606 B     ( 0.0%) █
+131 compiler/phases/3-transform/client/visitors/LabeledStatement.js2.0 KB    ( 0.1%) █
+132 compiler/phases/3-transform/client/visitors/LetDirective.js   1.8 KB    ( 0.1%) █
+133 compiler/phases/3-transform/client/visitors/MemberExpression.js643 B     ( 0.0%) █
+134 compiler/phases/3-transform/client/visitors/OnDirective.js    1002 B    ( 0.1%) █
+135 compiler/phases/3-transform/client/visitors/Program.js        4.1 KB    ( 0.3%) █
+136 compiler/phases/3-transform/client/visitors/RegularElement.js 22.6 KB   ( 1.5%) █
+137 compiler/phases/3-transform/client/visitors/RenderTag.js      1.6 KB    ( 0.1%) █
+138 compiler/phases/3-transform/client/visitors/shared/component.js13.5 KB   ( 0.9%) █
+139 compiler/phases/3-transform/client/visitors/shared/declarations.js1.4 KB    ( 0.1%) █
+140 compiler/phases/3-transform/client/visitors/shared/element.js 7.8 KB    ( 0.5%) █
+141 compiler/phases/3-transform/client/visitors/shared/events.js  5.2 KB    ( 0.3%) █
+142 compiler/phases/3-transform/client/visitors/shared/fragment.js4.5 KB    ( 0.3%) █
+143 compiler/phases/3-transform/client/visitors/shared/function.js881 B     ( 0.1%) █
+144 compiler/phases/3-transform/client/visitors/shared/special_element.js675 B     ( 0.0%) █
+145 compiler/phases/3-transform/client/visitors/shared/utils.js   10.6 KB   ( 0.7%) █
+146 compiler/phases/3-transform/client/visitors/SlotElement.js    2.2 KB    ( 0.1%) █
+147 compiler/phases/3-transform/client/visitors/SnippetBlock.js   2.8 KB    ( 0.2%) █
+148 compiler/phases/3-transform/client/visitors/SpreadAttribute.js266 B     ( 0.0%) █
+149 compiler/phases/3-transform/client/visitors/SvelteBody.js     343 B     ( 0.0%) █
+150 compiler/phases/3-transform/client/visitors/SvelteBoundary.js 2.9 KB    ( 0.2%) █
+151 compiler/phases/3-transform/client/visitors/SvelteComponent.js386 B     ( 0.0%) █
+152 compiler/phases/3-transform/client/visitors/SvelteDocument.js 346 B     ( 0.0%) █
+153 compiler/phases/3-transform/client/visitors/SvelteElement.js  4.5 KB    ( 0.3%) █
+154 compiler/phases/3-transform/client/visitors/SvelteFragment.js 575 B     ( 0.0%) █
+155 compiler/phases/3-transform/client/visitors/SvelteHead.js     494 B     ( 0.0%) █
+156 compiler/phases/3-transform/client/visitors/SvelteSelf.js     390 B     ( 0.0%) █
+157 compiler/phases/3-transform/client/visitors/SvelteWindow.js   340 B     ( 0.0%) █
+158 compiler/phases/3-transform/client/visitors/TitleElement.js   642 B     ( 0.0%) █
+159 compiler/phases/3-transform/client/visitors/TransitionDirective.js1.0 KB    ( 0.1%) █
+160 compiler/phases/3-transform/client/visitors/UpdateExpression.js1.5 KB    ( 0.1%) █
+161 compiler/phases/3-transform/client/visitors/UseDirective.js   945 B     ( 0.1%) █
+162 compiler/phases/3-transform/client/visitors/VariableDeclaration.js9.7 KB    ( 0.6%) █
+163 compiler/phases/3-transform/css/index.js                      13.3 KB   ( 0.9%) █
+164 compiler/phases/3-transform/index.js                          3.2 KB    ( 0.2%) █
+165 compiler/phases/3-transform/server/transform-server.js        12.0 KB   ( 0.8%) █
+166 compiler/phases/3-transform/server/types.d.ts                 1.3 KB    ( 0.1%) █
+167 compiler/phases/3-transform/server/visitors/AssignmentExpression.js2.6 KB    ( 0.2%) █
+168 compiler/phases/3-transform/server/visitors/AwaitBlock.js     857 B     ( 0.1%) █
+169 compiler/phases/3-transform/server/visitors/CallExpression.js 1.4 KB    ( 0.1%) █
+170 compiler/phases/3-transform/server/visitors/ClassBody.js      2.0 KB    ( 0.1%) █
+171 compiler/phases/3-transform/server/visitors/Component.js      379 B     ( 0.0%) █
+172 compiler/phases/3-transform/server/visitors/ConstTag.js       553 B     ( 0.0%) █
+173 compiler/phases/3-transform/server/visitors/DebugTag.js       554 B     ( 0.0%) █
+174 compiler/phases/3-transform/server/visitors/EachBlock.js      1.9 KB    ( 0.1%) █
+175 compiler/phases/3-transform/server/visitors/ExpressionStatement.js537 B     ( 0.0%) █
+176 compiler/phases/3-transform/server/visitors/Fragment.js       1.3 KB    ( 0.1%) █
+177 compiler/phases/3-transform/server/visitors/HtmlTag.js        438 B     ( 0.0%) █
+178 compiler/phases/3-transform/server/visitors/Identifier.js     531 B     ( 0.0%) █
+179 compiler/phases/3-transform/server/visitors/IfBlock.js        1.5 KB    ( 0.1%) █
+180 compiler/phases/3-transform/server/visitors/KeyBlock.js       445 B     ( 0.0%) █
+181 compiler/phases/3-transform/server/visitors/LabeledStatement.js714 B     ( 0.0%) █
 182 compiler/phases/3-transform/server/visitors/PropertyDefinition.js965 B     ( 0.1%) █
 183 compiler/phases/3-transform/server/visitors/RegularElement.js 2.9 KB    ( 0.2%) █
 184 compiler/phases/3-transform/server/visitors/RenderTag.js      1009 B    ( 0.1%) █
@@ -211,14 +211,14 @@ No custom ignore patterns found.
 198 compiler/phases/3-transform/server/visitors/UpdateExpression.js677 B     ( 0.0%) █
 199 compiler/phases/3-transform/server/visitors/VariableDeclaration.js6.3 KB    ( 0.4%) █
 200 compiler/phases/3-transform/shared/assignments.js             2.9 KB    ( 0.2%) █
-201 compiler/phases/3-transform/types.d.ts                        343 B     ( 0.0%) █
+201 compiler/phases/3-transform/types.d.ts                        405 B     ( 0.0%) █
 202 compiler/phases/3-transform/utils.js                          13.5 KB   ( 0.9%) █
 203 compiler/phases/bindings.js                                   4.9 KB    ( 0.3%) █
 204 compiler/phases/css.js                                        433 B     ( 0.0%) █
-205 compiler/phases/nodes.js                                      1.5 KB    ( 0.1%) █
+205 compiler/phases/nodes.js                                      1.8 KB    ( 0.1%) █
 206 compiler/phases/patterns.js                                   1.3 KB    ( 0.1%) █
 207 compiler/phases/scope.js                                      32.8 KB   ( 2.1%) █
-208 compiler/phases/types.d.ts                                    3.1 KB    ( 0.2%) █
+208 compiler/phases/types.d.ts                                    3.4 KB    ( 0.2%) █
 209 compiler/preprocess/decode_sourcemap.js                       3.0 KB    ( 0.2%) █
 210 compiler/preprocess/index.js                                  10.6 KB   ( 0.7%) █
 211 compiler/preprocess/legacy-public.d.ts                        714 B     ( 0.0%) █
@@ -229,14 +229,14 @@ No custom ignore patterns found.
 216 compiler/public.d.ts                                          302 B     ( 0.0%) █
 217 compiler/state.js                                             2.6 KB    ( 0.2%) █
 218 compiler/types/css.d.ts                                       4.2 KB    ( 0.3%) █
-219 compiler/types/index.d.ts                                     9.5 KB    ( 0.6%) █
+219 compiler/types/index.d.ts                                     9.8 KB    ( 0.6%) █
 220 compiler/types/legacy-interfaces.d.ts                         227 B     ( 0.0%) █
 221 compiler/types/legacy-nodes.d.ts                              5.8 KB    ( 0.4%) █
 222 compiler/types/template.d.ts                                  14.2 KB   ( 0.9%) █
 223 compiler/utils/assert.js                                      210 B     ( 0.0%) █
 224 compiler/utils/ast.js                                         18.3 KB   ( 1.2%) █
 225 compiler/utils/builders.js                                    15.8 KB   ( 1.0%) █
-226 compiler/utils/compile_diagnostic.js                          2.3 KB    ( 0.2%) █
+226 compiler/utils/compile_diagnostic.js                          2.3 KB    ( 0.1%) █
 227 compiler/utils/extract_svelte_ignore.js                       2.9 KB    ( 0.2%) █
 228 compiler/utils/mapped_code.js                                 14.2 KB   ( 0.9%) █
 229 compiler/utils/push_array.js                                  423 B     ( 0.0%) █
@@ -365,7 +365,7 @@ No custom ignore patterns found.
 352 reactivity/index-server.js                                    490 B     ( 0.0%) █
 353 reactivity/map.js                                             5.0 KB    ( 0.3%) █
 354 reactivity/map.test.ts                                        3.5 KB    ( 0.2%) █
-355 reactivity/media-query.js                                     1.1 KB    ( 0.1%) █
+355 reactivity/media-query.js                                     1.9 KB    ( 0.1%) █
 356 reactivity/reactive-value.js                                  392 B     ( 0.0%) █
 357 reactivity/set.js                                             4.3 KB    ( 0.3%) █
 358 reactivity/set.test.ts                                        2.5 KB    ( 0.2%) █
@@ -385,6 +385,6 @@ No custom ignore patterns found.
 372 store/utils.js                                                913 B     ( 0.1%) █
 373 transition/index.js                                           9.9 KB    ( 0.6%) █
 374 transition/public.d.ts                                        1.2 KB    ( 0.1%) █
-375 utils.js                                                      8.2 KB    ( 0.5%) █
+375 utils.js                                                      8.6 KB    ( 0.6%) █
 376 version.js                                                    186 B     ( 0.0%) █
 ✅ Done! Wrote code base to /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md

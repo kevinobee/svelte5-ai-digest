@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.31.1/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/documentation/docs
-🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.30.2/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.31.1/documentation/docs
+🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.31.1/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 98
 📎 Files included in output: 98
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 99814 tokens, GPT-4: 93317 tokens
+🔢 Estimated token counts - Claude models: 99993 tokens, GPT-4: 93483 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  968 B     ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.6%) █
@@ -71,7 +71,7 @@ No custom ignore patterns found.
 58  07-misc/index.md                                20 B      ( 0.0%) █
 59  98-reference/.generated/client-errors.md        4.0 KB    ( 1.2%) █
 60  98-reference/.generated/client-warnings.md      8.1 KB    ( 2.5%) █
-61  98-reference/.generated/compile-errors.md       20.8 KB   ( 6.4%) ███
+61  98-reference/.generated/compile-errors.md       21.4 KB   ( 6.5%) ███
 62  98-reference/.generated/compile-warnings.md     28.2 KB   ( 8.6%) ████
 63  98-reference/.generated/server-errors.md        311 B     ( 0.1%) █
 64  98-reference/.generated/shared-errors.md        2.5 KB    ( 0.8%) █
@@ -86,7 +86,7 @@ No custom ignore patterns found.
 73  98-reference/21-svelte-legacy.md                273 B     ( 0.1%) █
 74  98-reference/21-svelte-motion.md                54 B      ( 0.0%) █
 75  98-reference/21-svelte-reactivity-window.md     551 B     ( 0.2%) █
-76  98-reference/21-svelte-reactivity.md            502 B     ( 0.2%) █
+76  98-reference/21-svelte-reactivity.md            502 B     ( 0.1%) █
 77  98-reference/21-svelte-server.md                54 B      ( 0.0%) █
 78  98-reference/21-svelte-store.md                 52 B      ( 0.0%) █
 79  98-reference/21-svelte-transition.md            62 B      ( 0.0%) █
