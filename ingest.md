@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.1/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.1/documentation/docs
-🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.1/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/documentation/docs
+🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 98
 📎 Files included in output: 98
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 100639 tokens, GPT-4: 94106 tokens
+🔢 Estimated token counts - Claude models: 101140 tokens, GPT-4: 94601 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  968 B     ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -36,7 +36,7 @@ No custom ignore patterns found.
 23  03-template-syntax/09-@attach.md                7.8 KB    ( 2.4%) █
 24  03-template-syntax/10-@const.md                 367 B     ( 0.1%) █
 25  03-template-syntax/11-@debug.md                 810 B     ( 0.2%) █
-26  03-template-syntax/12-bind.md                   13.9 KB   ( 4.2%) ██
+26  03-template-syntax/12-bind.md                   14.8 KB   ( 4.5%) ██
 27  03-template-syntax/13-use.md                    2.0 KB    ( 0.6%) █
 28  03-template-syntax/14-transition.md             5.0 KB    ( 1.5%) █
 29  03-template-syntax/15-in-and-out.md             678 B     ( 0.2%) █
@@ -63,11 +63,11 @@ No custom ignore patterns found.
 50  06-runtime/04-imperative-component-api.md       2.6 KB    ( 0.8%) █
 51  06-runtime/index.md                             23 B      ( 0.0%) █
 52  07-misc/02-testing.md                           8.5 KB    ( 2.6%) █
-53  07-misc/03-typescript.md                        10.4 KB   ( 3.2%) ██
+53  07-misc/03-typescript.md                        10.4 KB   ( 3.1%) ██
 54  07-misc/04-custom-elements.md                   7.7 KB    ( 2.3%) █
 55  07-misc/06-v4-migration-guide.md                11.9 KB   ( 3.6%) ██
 56  07-misc/07-v5-migration-guide.md                42.2 KB   (12.8%) ██████
-57  07-misc/99-faq.md                               10.1 KB   ( 3.1%) ██
+57  07-misc/99-faq.md                               10.1 KB   ( 3.0%) ██
 58  07-misc/index.md                                20 B      ( 0.0%) █
 59  98-reference/.generated/client-errors.md        4.0 KB    ( 1.2%) █
 60  98-reference/.generated/client-warnings.md      8.7 KB    ( 2.6%) █

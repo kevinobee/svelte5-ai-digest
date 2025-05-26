@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.1/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.1/packages/svelte/src
-🔍 Found 382 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.1/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/packages/svelte/src
+🔍 Found 382 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 382
 📎 Files included in output: 382
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 434128 tokens, GPT-4: 386950 tokens
+🔢 Estimated token counts - Claude models: 434254 tokens, GPT-4: 387059 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -27,7 +27,7 @@ No custom ignore patterns found.
 14  compiler/phases/1-parse/read/expression.js                    2.2 KB    ( 0.1%) █
 15  compiler/phases/1-parse/read/options.js                       7.4 KB    ( 0.5%) █
 16  compiler/phases/1-parse/read/script.js                        2.4 KB    ( 0.2%) █
-17  compiler/phases/1-parse/read/style.js                         13.3 KB   ( 0.9%) █
+17  compiler/phases/1-parse/read/style.js                         13.6 KB   ( 0.9%) █
 18  compiler/phases/1-parse/remove_typescript_nodes.js            4.0 KB    ( 0.3%) █
 19  compiler/phases/1-parse/state/element.js                      23.3 KB   ( 1.5%) █
 20  compiler/phases/1-parse/state/fragment.js                     321 B     ( 0.0%) █
@@ -137,7 +137,7 @@ No custom ignore patterns found.
 124 compiler/phases/3-transform/client/visitors/EachBlock.js      10.6 KB   ( 0.7%) █
 125 compiler/phases/3-transform/client/visitors/ExportNamedDeclaration.js447 B     ( 0.0%) █
 126 compiler/phases/3-transform/client/visitors/ExpressionStatement.js928 B     ( 0.1%) █
-127 compiler/phases/3-transform/client/visitors/Fragment.js       5.4 KB    ( 0.4%) █
+127 compiler/phases/3-transform/client/visitors/Fragment.js       5.4 KB    ( 0.3%) █
 128 compiler/phases/3-transform/client/visitors/FunctionDeclaration.js679 B     ( 0.0%) █
 129 compiler/phases/3-transform/client/visitors/FunctionExpression.js334 B     ( 0.0%) █
 130 compiler/phases/3-transform/client/visitors/HtmlTag.js        947 B     ( 0.1%) █
@@ -320,7 +320,7 @@ No custom ignore patterns found.
 307 internal/client/loop.js                                       1008 B    ( 0.1%) █
 308 internal/client/proxy.js                                      8.4 KB    ( 0.5%) █
 309 internal/client/proxy.test.ts                                 2.8 KB    ( 0.2%) █
-310 internal/client/reactivity/deriveds.js                        4.0 KB    ( 0.3%) █
+310 internal/client/reactivity/deriveds.js                        4.1 KB    ( 0.3%) █
 311 internal/client/reactivity/effects.js                         14.1 KB   ( 0.9%) █
 312 internal/client/reactivity/equality.js                        577 B     ( 0.0%) █
 313 internal/client/reactivity/props.js                           12.6 KB   ( 0.8%) █
