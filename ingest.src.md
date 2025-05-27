@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/packages/svelte/src
-🔍 Found 382 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.2/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/packages/svelte/src
+🔍 Found 382 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 382
 📎 Files included in output: 382
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 434254 tokens, GPT-4: 387059 tokens
+🔢 Estimated token counts - Claude models: 434332 tokens, GPT-4: 387125 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -18,7 +18,7 @@ No custom ignore patterns found.
 5   attachments/index.js                                          3.8 KB    ( 0.2%) █
 6   attachments/public.d.ts                                       575 B     ( 0.0%) █
 7   compiler/errors.js                                            63.0 KB   ( 4.1%) ██
-8   compiler/index.js                                             5.6 KB    ( 0.4%) █
+8   compiler/index.js                                             5.8 KB    ( 0.4%) █
 9   compiler/legacy.js                                            16.1 KB   ( 1.0%) █
 10  compiler/migrate/index.js                                     62.6 KB   ( 4.0%) ██
 11  compiler/phases/1-parse/acorn.js                              5.0 KB    ( 0.3%) █
@@ -302,7 +302,7 @@ No custom ignore patterns found.
 289 internal/client/dom/elements/bindings/window.js               1.7 KB    ( 0.1%) █
 290 internal/client/dom/elements/class.js                         1.6 KB    ( 0.1%) █
 291 internal/client/dom/elements/custom-element.js                9.5 KB    ( 0.6%) █
-292 internal/client/dom/elements/events.js                        9.9 KB    ( 0.6%) █
+292 internal/client/dom/elements/events.js                        10.0 KB   ( 0.6%) █
 293 internal/client/dom/elements/misc.js                          1.5 KB    ( 0.1%) █
 294 internal/client/dom/elements/style.js                         1.5 KB    ( 0.1%) █
 295 internal/client/dom/elements/transitions.js                   13.1 KB   ( 0.8%) █
