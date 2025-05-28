@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.4/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/documentation/docs
-🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.4/documentation/docs
+🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.4/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 98
 📎 Files included in output: 98
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 101242 tokens, GPT-4: 94696 tokens
+🔢 Estimated token counts - Claude models: 101310 tokens, GPT-4: 94757 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  968 B     ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -72,7 +72,7 @@ No custom ignore patterns found.
 59  98-reference/.generated/client-errors.md        4.0 KB    ( 1.2%) █
 60  98-reference/.generated/client-warnings.md      8.7 KB    ( 2.6%) █
 61  98-reference/.generated/compile-errors.md       21.4 KB   ( 6.5%) ███
-62  98-reference/.generated/compile-warnings.md     28.8 KB   ( 8.7%) ████
+62  98-reference/.generated/compile-warnings.md     29.1 KB   ( 8.8%) ████
 63  98-reference/.generated/server-errors.md        311 B     ( 0.1%) █
 64  98-reference/.generated/shared-errors.md        2.5 KB    ( 0.8%) █
 65  98-reference/.generated/shared-warnings.md      977 B     ( 0.3%) █

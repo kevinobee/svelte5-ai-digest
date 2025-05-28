@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.4/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/packages/svelte/src
-🔍 Found 382 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.3/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.4/packages/svelte/src
+🔍 Found 382 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.4/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 382
 📎 Files included in output: 382
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 434332 tokens, GPT-4: 387125 tokens
+🔢 Estimated token counts - Claude models: 434613 tokens, GPT-4: 387358 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -110,7 +110,7 @@ No custom ignore patterns found.
 97  compiler/phases/2-analyze/visitors/TransitionDirective.js     333 B     ( 0.0%) █
 98  compiler/phases/2-analyze/visitors/UpdateExpression.js        711 B     ( 0.0%) █
 99  compiler/phases/2-analyze/visitors/UseDirective.js            317 B     ( 0.0%) █
-100 compiler/phases/2-analyze/visitors/VariableDeclarator.js      3.6 KB    ( 0.2%) █
+100 compiler/phases/2-analyze/visitors/VariableDeclarator.js      4.0 KB    ( 0.3%) █
 101 compiler/phases/3-transform/client/transform-client.js        20.3 KB   ( 1.3%) █
 102 compiler/phases/3-transform/client/transform-template/fix-attribute-casing.js3.1 KB    ( 0.2%) █
 103 compiler/phases/3-transform/client/transform-template/index.js1.7 KB    ( 0.1%) █
@@ -249,13 +249,13 @@ No custom ignore patterns found.
 236 compiler/utils/slot.js                                        524 B     ( 0.0%) █
 237 compiler/utils/string.js                                      340 B     ( 0.0%) █
 238 compiler/validate-options.js                                  9.0 KB    ( 0.6%) █
-239 compiler/warnings.js                                          34.1 KB   ( 2.2%) █
+239 compiler/warnings.js                                          34.9 KB   ( 2.2%) █
 240 constants.js                                                  2.1 KB    ( 0.1%) █
 241 easing/index.js                                               4.9 KB    ( 0.3%) █
 242 escaping.js                                                   571 B     ( 0.0%) █
 243 events/index.js                                               64 B      ( 0.0%) █
 244 events/public.d.ts                                            2.7 KB    ( 0.2%) █
-245 html-tree-validation.js                                       8.5 KB    ( 0.6%) █
+245 html-tree-validation.js                                       8.5 KB    ( 0.5%) █
 246 index-client.js                                               7.2 KB    ( 0.5%) █
 247 index-server.js                                               1005 B    ( 0.1%) █
 248 index.d.ts                                                    12.3 KB   ( 0.8%) █
