@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.6/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.10/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.6/documentation/docs
-🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.6/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.10/documentation/docs
+🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.10/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 98
 📎 Files included in output: 98
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 101310 tokens, GPT-4: 94757 tokens
+🔢 Estimated token counts - Claude models: 101311 tokens, GPT-4: 94758 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  968 B     ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -52,7 +52,7 @@ No custom ignore patterns found.
 39  05-special-elements/01-svelte-boundary.md       2.6 KB    ( 0.8%) █
 40  05-special-elements/02-svelte-window.md         1.2 KB    ( 0.4%) █
 41  05-special-elements/03-svelte-document.md       726 B     ( 0.2%) █
-42  05-special-elements/04-svelte-body.md           580 B     ( 0.2%) █
+42  05-special-elements/04-svelte-body.md           583 B     ( 0.2%) █
 43  05-special-elements/05-svelte-head.md           576 B     ( 0.2%) █
 44  05-special-elements/06-svelte-element.md        1.2 KB    ( 0.4%) █
 45  05-special-elements/07-svelte-options.md        1.5 KB    ( 0.5%) █
