@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.17/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.17/packages/svelte/src
-🔍 Found 383 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.17/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/packages/svelte/src
+🔍 Found 383 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 383
 📎 Files included in output: 383
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 436887 tokens, GPT-4: 389384 tokens
+🔢 Estimated token counts - Claude models: 436923 tokens, GPT-4: 389416 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -214,7 +214,7 @@ No custom ignore patterns found.
 201 compiler/phases/3-transform/server/visitors/SvelteSelf.js     399 B     ( 0.0%) █
 202 compiler/phases/3-transform/server/visitors/TitleElement.js   665 B     ( 0.0%) █
 203 compiler/phases/3-transform/server/visitors/UpdateExpression.js677 B     ( 0.0%) █
-204 compiler/phases/3-transform/server/visitors/VariableDeclaration.js6.4 KB    ( 0.4%) █
+204 compiler/phases/3-transform/server/visitors/VariableDeclaration.js6.6 KB    ( 0.4%) █
 205 compiler/phases/3-transform/shared/assignments.js             2.9 KB    ( 0.2%) █
 206 compiler/phases/3-transform/types.d.ts                        405 B     ( 0.0%) █
 207 compiler/phases/3-transform/utils.js                          13.4 KB   ( 0.9%) █
