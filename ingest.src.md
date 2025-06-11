@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.19/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/packages/svelte/src
-🔍 Found 383 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.19/packages/svelte/src
+🔍 Found 383 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.19/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 383
 📎 Files included in output: 383
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 436923 tokens, GPT-4: 389416 tokens
+🔢 Estimated token counts - Claude models: 436994 tokens, GPT-4: 389482 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -329,7 +329,7 @@ No custom ignore patterns found.
 316 internal/client/reactivity/store.js                           5.5 KB    ( 0.4%) █
 317 internal/client/reactivity/types.d.ts                         2.2 KB    ( 0.1%) █
 318 internal/client/render.js                                     8.7 KB    ( 0.6%) █
-319 internal/client/runtime.js                                    25.4 KB   ( 1.6%) █
+319 internal/client/runtime.js                                    25.7 KB   ( 1.6%) █
 320 internal/client/timing.js                                     534 B     ( 0.0%) █
 321 internal/client/types.d.ts                                    5.3 KB    ( 0.3%) █
 322 internal/client/validate.js                                   2.1 KB    ( 0.1%) █

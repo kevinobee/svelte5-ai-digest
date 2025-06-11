@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.19/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/documentation/docs
-🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.18/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.19/documentation/docs
+🔍 Found 98 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.33.19/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 98
 📎 Files included in output: 98
 🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 101325 tokens, GPT-4: 94772 tokens
+🔢 Estimated token counts - Claude models: 101334 tokens, GPT-4: 94780 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  968 B     ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -17,7 +17,7 @@ No custom ignore patterns found.
 4   01-introduction/04-svelte-js-files.md           475 B     ( 0.1%) █
 5   01-introduction/index.md                        28 B      ( 0.0%) █
 6   02-runes/01-what-are-runes.md                   853 B     ( 0.3%) █
-7   02-runes/02-$state.md                           8.1 KB    ( 2.5%) █
+7   02-runes/02-$state.md                           8.2 KB    ( 2.5%) █
 8   02-runes/03-$derived.md                         4.4 KB    ( 1.3%) █
 9   02-runes/04-$effect.md                          13.5 KB   ( 4.1%) ██
 10  02-runes/05-$props.md                           7.0 KB    ( 2.1%) █
