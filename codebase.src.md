@@ -2299,6 +2299,6 @@ const regex_return_characters = /\r/g; /** * @param {string} str * @returns {str
 # version.js
 
 ```js
-// generated during release, do not modify /** * The current version, as set in package.json. * @type {string} */ export const VERSION = '5.35.1'; export const PUBLIC_VERSION = '5';
+// generated during release, do not modify /** * The current version, as set in package.json. * @type {string} */ export const VERSION = '5.35.2'; export const PUBLIC_VERSION = '5';
 ```
 
