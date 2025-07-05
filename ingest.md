@@ -7,7 +7,6 @@ No custom ignore patterns found.
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 98
 📎 Files included in output: 98
-🚫 Files ignored by default patterns: 0
 📦 Binary and SVG files included: 0
 🔢 Estimated token counts - Claude models: 101334 tokens, GPT-4: 94784 tokens
 📋 Files included in the output:
