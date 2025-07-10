@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.35.4/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.35.5/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.35.4/packages/svelte/src
-🔍 Found 384 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.35.4/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.35.5/packages/svelte/src
+🔍 Found 384 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.35.5/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 384
 📎 Files included in output: 384
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: 442980 tokens, GPT-4: 394556 tokens
+🔢 Estimated token counts - Claude models: ~443756 tokens, GPT-4: ~401510 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.1 KB   ( 0.8%) █
@@ -143,7 +143,7 @@ No custom ignore patterns found.
 131 compiler/phases/3-transform/client/visitors/Identifier.js     1.1 KB    ( 0.1%) █
 132 compiler/phases/3-transform/client/visitors/IfBlock.js        2.1 KB    ( 0.1%) █
 133 compiler/phases/3-transform/client/visitors/ImportDeclaration.js455 B     ( 0.0%) █
-134 compiler/phases/3-transform/client/visitors/KeyBlock.js       771 B     ( 0.1%) █
+134 compiler/phases/3-transform/client/visitors/KeyBlock.js       771 B     ( 0.0%) █
 135 compiler/phases/3-transform/client/visitors/LabeledStatement.js2.0 KB    ( 0.1%) █
 136 compiler/phases/3-transform/client/visitors/LetDirective.js   1.7 KB    ( 0.1%) █
 137 compiler/phases/3-transform/client/visitors/MemberExpression.js690 B     ( 0.0%) █
@@ -323,12 +323,12 @@ No custom ignore patterns found.
 311 internal/client/reactivity/deriveds.js                        4.0 KB    ( 0.3%) █
 312 internal/client/reactivity/effects.js                         13.8 KB   ( 0.9%) █
 313 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
-314 internal/client/reactivity/props.js                           10.3 KB   ( 0.7%) █
+314 internal/client/reactivity/props.js                           11.3 KB   ( 0.7%) █
 315 internal/client/reactivity/sources.js                         6.6 KB    ( 0.4%) █
 316 internal/client/reactivity/store.js                           5.3 KB    ( 0.4%) █
 317 internal/client/reactivity/types.d.ts                         3.0 KB    ( 0.2%) █
 318 internal/client/render.js                                     8.4 KB    ( 0.6%) █
-319 internal/client/runtime.js                                    24.7 KB   ( 1.6%) █
+319 internal/client/runtime.js                                    25.7 KB   ( 1.7%) █
 320 internal/client/timing.js                                     565 B     ( 0.0%) █
 321 internal/client/types.d.ts                                    5.4 KB    ( 0.4%) █
 322 internal/client/validate.js                                   2.0 KB    ( 0.1%) █
@@ -370,11 +370,11 @@ No custom ignore patterns found.
 358 reactivity/date.test.ts                                       12.2 KB   ( 0.8%) █
 359 reactivity/index-client.js                                    365 B     ( 0.0%) █
 360 reactivity/index-server.js                                    514 B     ( 0.0%) █
-361 reactivity/map.js                                             5.0 KB    ( 0.3%) █
+361 reactivity/map.js                                             5.4 KB    ( 0.4%) █
 362 reactivity/map.test.ts                                        3.2 KB    ( 0.2%) █
 363 reactivity/media-query.js                                     1.9 KB    ( 0.1%) █
 364 reactivity/reactive-value.js                                  407 B     ( 0.0%) █
-365 reactivity/set.js                                             4.2 KB    ( 0.3%) █
+365 reactivity/set.js                                             4.6 KB    ( 0.3%) █
 366 reactivity/set.test.ts                                        2.3 KB    ( 0.2%) █
 367 reactivity/url-search-params.js                               3.5 KB    ( 0.2%) █
 368 reactivity/url-search-params.test.ts                          3.4 KB    ( 0.2%) █
