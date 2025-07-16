@@ -1,17 +1,17 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.0/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.2/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.0/packages/svelte/src
-🔍 Found 391 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.0/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.2/packages/svelte/src
+🔍 Found 391 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.2/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 391
 📎 Files included in output: 391
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~456088 tokens, GPT-4: ~412668 tokens
+🔢 Estimated token counts - Claude models: ~456250 tokens, GPT-4: ~412815 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
-2   ambient.d.ts                                                  12.1 KB   ( 0.8%) █
+2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
 3   animate/index.js                                              2.3 KB    ( 0.1%) █
 4   animate/public.d.ts                                           422 B     ( 0.0%) █
 5   attachments/index.js                                          3.7 KB    ( 0.2%) █
@@ -294,7 +294,7 @@ No custom ignore patterns found.
 282 internal/client/dom/elements/attachments.js                   813 B     ( 0.1%) █
 283 internal/client/dom/elements/attributes.js                    18.1 KB   ( 1.2%) █
 284 internal/client/dom/elements/bindings/document.js             573 B     ( 0.0%) █
-285 internal/client/dom/elements/bindings/input.js                6.7 KB    ( 0.4%) █
+285 internal/client/dom/elements/bindings/input.js                7.0 KB    ( 0.5%) █
 286 internal/client/dom/elements/bindings/media.js                5.9 KB    ( 0.4%) █
 287 internal/client/dom/elements/bindings/navigator.js            288 B     ( 0.0%) █
 288 internal/client/dom/elements/bindings/props.js                612 B     ( 0.0%) █
