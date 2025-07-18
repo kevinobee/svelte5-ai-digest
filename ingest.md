@@ -1,23 +1,23 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.5/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.7/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.5/documentation/docs
-🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.5/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.7/documentation/docs
+🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.7/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 99
 📎 Files included in output: 99
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~106256 tokens, GPT-4: ~96140 tokens
+🔢 Estimated token counts - Claude models: ~106666 tokens, GPT-4: ~96511 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.9 KB    ( 0.5%) █
 3   01-introduction/03-svelte-files.md              2.3 KB    ( 0.6%) █
 4   01-introduction/04-svelte-js-files.md           524 B     ( 0.1%) █
 5   01-introduction/index.md                        67 B      ( 0.0%) █
-6   02-runes/01-what-are-runes.md                   896 B     ( 0.3%) █
+6   02-runes/01-what-are-runes.md                   896 B     ( 0.2%) █
 7   02-runes/02-$state.md                           8.8 KB    ( 2.5%) █
-8   02-runes/03-$derived.md                         4.7 KB    ( 1.3%) █
+8   02-runes/03-$derived.md                         4.8 KB    ( 1.4%) █
 9   02-runes/04-$effect.md                          14.2 KB   ( 4.1%) ██
 10  02-runes/05-$props.md                           7.0 KB    ( 2.0%) █
 11  02-runes/06-$bindable.md                        2.0 KB    ( 0.6%) █
@@ -35,8 +35,8 @@ No custom ignore patterns found.
 23  03-template-syntax/09-@attach.md                7.8 KB    ( 2.2%) █
 24  03-template-syntax/10-@const.md                 414 B     ( 0.1%) █
 25  03-template-syntax/11-@debug.md                 853 B     ( 0.2%) █
-26  03-template-syntax/12-bind.md                   14.9 KB   ( 4.3%) ██
-27  03-template-syntax/13-use.md                    1.9 KB    ( 0.6%) █
+26  03-template-syntax/12-bind.md                   14.9 KB   ( 4.2%) ██
+27  03-template-syntax/13-use.md                    1.9 KB    ( 0.5%) █
 28  03-template-syntax/14-transition.md             5.0 KB    ( 1.4%) █
 29  03-template-syntax/15-in-and-out.md             718 B     ( 0.2%) █
 30  03-template-syntax/16-animate.md                3.7 KB    ( 1.1%) █
@@ -57,22 +57,22 @@ No custom ignore patterns found.
 45  05-special-elements/06-svelte-element.md        1.2 KB    ( 0.4%) █
 46  05-special-elements/07-svelte-options.md        1.6 KB    ( 0.5%) █
 47  05-special-elements/index.md                    75 B      ( 0.0%) █
-48  06-runtime/01-stores.md                         10.0 KB   ( 2.9%) █
+48  06-runtime/01-stores.md                         10.0 KB   ( 2.8%) █
 49  06-runtime/02-context.md                        4.0 KB    ( 1.1%) █
 50  06-runtime/03-lifecycle-hooks.md                7.6 KB    ( 2.2%) █
 51  06-runtime/04-imperative-component-api.md       2.7 KB    ( 0.8%) █
 52  06-runtime/index.md                             57 B      ( 0.0%) █
 53  07-misc/02-testing.md                           8.4 KB    ( 2.4%) █
-54  07-misc/03-typescript.md                        10.1 KB   ( 2.9%) █
+54  07-misc/03-typescript.md                        9.7 KB    ( 2.8%) █
 55  07-misc/04-custom-elements.md                   7.9 KB    ( 2.3%) █
 56  07-misc/06-v4-migration-guide.md                11.8 KB   ( 3.4%) ██
 57  07-misc/07-v5-migration-guide.md                42.1 KB   (12.0%) ██████
 58  07-misc/99-faq.md                               10.1 KB   ( 2.9%) █
 59  07-misc/index.md                                51 B      ( 0.0%) █
-60  98-reference/.generated/client-errors.md        7.2 KB    ( 2.1%) █
-61  98-reference/.generated/client-warnings.md      11.0 KB   ( 3.2%) ██
+60  98-reference/.generated/client-errors.md        8.0 KB    ( 2.3%) █
+61  98-reference/.generated/client-warnings.md      11.9 KB   ( 3.4%) ██
 62  98-reference/.generated/compile-errors.md       22.4 KB   ( 6.4%) ███
-63  98-reference/.generated/compile-warnings.md     29.6 KB   ( 8.5%) ████
+63  98-reference/.generated/compile-warnings.md     29.6 KB   ( 8.4%) ████
 64  98-reference/.generated/server-errors.md        369 B     ( 0.1%) █
 65  98-reference/.generated/shared-errors.md        3.1 KB    ( 0.9%) █
 66  98-reference/.generated/shared-warnings.md      1.0 KB    ( 0.3%) █
