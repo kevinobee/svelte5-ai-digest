@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.7/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.8/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.7/packages/svelte/src
-🔍 Found 391 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.7/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.8/packages/svelte/src
+🔍 Found 391 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.8/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 391
 📎 Files included in output: 391
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~457336 tokens, GPT-4: ~413798 tokens
+🔢 Estimated token counts - Claude models: ~457585 tokens, GPT-4: ~414023 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -196,7 +196,7 @@ No custom ignore patterns found.
 184 compiler/phases/3-transform/server/visitors/Fragment.js       1.3 KB    ( 0.1%) █
 185 compiler/phases/3-transform/server/visitors/HtmlTag.js        501 B     ( 0.0%) █
 186 compiler/phases/3-transform/server/visitors/Identifier.js     587 B     ( 0.0%) █
-187 compiler/phases/3-transform/server/visitors/IfBlock.js        1.0 KB    ( 0.1%) █
+187 compiler/phases/3-transform/server/visitors/IfBlock.js        1.1 KB    ( 0.1%) █
 188 compiler/phases/3-transform/server/visitors/KeyBlock.js       503 B     ( 0.0%) █
 189 compiler/phases/3-transform/server/visitors/LabeledStatement.js770 B     ( 0.0%) █
 190 compiler/phases/3-transform/server/visitors/MemberExpression.js651 B     ( 0.0%) █
@@ -205,7 +205,7 @@ No custom ignore patterns found.
 193 compiler/phases/3-transform/server/visitors/RenderTag.js      1.0 KB    ( 0.1%) █
 194 compiler/phases/3-transform/server/visitors/shared/component.js8.4 KB    ( 0.5%) █
 195 compiler/phases/3-transform/server/visitors/shared/element.js 13.2 KB   ( 0.8%) █
-196 compiler/phases/3-transform/server/visitors/shared/utils.js   5.7 KB    ( 0.4%) █
+196 compiler/phases/3-transform/server/visitors/shared/utils.js   5.9 KB    ( 0.4%) █
 197 compiler/phases/3-transform/server/visitors/SlotElement.js    1.5 KB    ( 0.1%) █
 198 compiler/phases/3-transform/server/visitors/SnippetBlock.js   975 B     ( 0.1%) █
 199 compiler/phases/3-transform/server/visitors/SpreadAttribute.js338 B     ( 0.0%) █
@@ -326,7 +326,7 @@ No custom ignore patterns found.
 314 internal/client/proxy.js                                      9.5 KB    ( 0.6%) █
 315 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 316 internal/client/reactivity/async.js                           2.9 KB    ( 0.2%) █
-317 internal/client/reactivity/batch.js                           12.8 KB   ( 0.8%) █
+317 internal/client/reactivity/batch.js                           13.0 KB   ( 0.8%) █
 318 internal/client/reactivity/deriveds.js                        7.1 KB    ( 0.5%) █
 319 internal/client/reactivity/effects.js                         14.0 KB   ( 0.9%) █
 320 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
@@ -348,13 +348,13 @@ No custom ignore patterns found.
 336 internal/index.js                                             683 B     ( 0.0%) █
 337 internal/server/abort-signal.js                               332 B     ( 0.0%) █
 338 internal/server/blocks/html.js                                298 B     ( 0.0%) █
-339 internal/server/blocks/snippet.js                             696 B     ( 0.0%) █
+339 internal/server/blocks/snippet.js                             701 B     ( 0.0%) █
 340 internal/server/context.js                                    1.9 KB    ( 0.1%) █
 341 internal/server/dev.js                                        2.6 KB    ( 0.2%) █
 342 internal/server/errors.js                                     513 B     ( 0.0%) █
 343 internal/server/hydration.js                                  348 B     ( 0.0%) █
-344 internal/server/index.js                                      13.8 KB   ( 0.9%) █
-345 internal/server/payload.js                                    1.4 KB    ( 0.1%) █
+344 internal/server/index.js                                      14.0 KB   ( 0.9%) █
+345 internal/server/payload.js                                    1.5 KB    ( 0.1%) █
 346 internal/server/types.d.ts                                    468 B     ( 0.0%) █
 347 internal/shared/attributes.js                                 4.6 KB    ( 0.3%) █
 348 internal/shared/clone.js                                      3.0 KB    ( 0.2%) █
