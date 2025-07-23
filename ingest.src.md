@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.12/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.13/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.12/packages/svelte/src
-🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.12/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.13/packages/svelte/src
+🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.13/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 392
 📎 Files included in output: 392
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~458137 tokens, GPT-4: ~414522 tokens
+🔢 Estimated token counts - Claude models: ~458199 tokens, GPT-4: ~414578 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -374,7 +374,7 @@ No custom ignore patterns found.
 362 motion/spring.js                                              9.4 KB    ( 0.6%) █
 363 motion/tweened.js                                             6.3 KB    ( 0.4%) █
 364 motion/utils.js                                               178 B     ( 0.0%) █
-365 reactivity/create-subscriber.js                               2.9 KB    ( 0.2%) █
+365 reactivity/create-subscriber.js                               3.2 KB    ( 0.2%) █
 366 reactivity/date.js                                            2.8 KB    ( 0.2%) █
 367 reactivity/date.test.ts                                       12.2 KB   ( 0.8%) █
 368 reactivity/index-client.js                                    365 B     ( 0.0%) █
