@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.13/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.15/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.13/packages/svelte/src
-🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.13/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.15/packages/svelte/src
+🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.15/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 392
 📎 Files included in output: 392
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~458199 tokens, GPT-4: ~414578 tokens
+🔢 Estimated token counts - Claude models: ~458588 tokens, GPT-4: ~414930 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -228,7 +228,7 @@ No custom ignore patterns found.
 216 compiler/phases/scope.js                                      30.7 KB   ( 2.0%) █
 217 compiler/phases/types.d.ts                                    3.5 KB    ( 0.2%) █
 218 compiler/preprocess/decode_sourcemap.js                       2.9 KB    ( 0.2%) █
-219 compiler/preprocess/index.js                                  10.1 KB   ( 0.7%) █
+219 compiler/preprocess/index.js                                  10.1 KB   ( 0.6%) █
 220 compiler/preprocess/legacy-public.d.ts                        759 B     ( 0.0%) █
 221 compiler/preprocess/private.d.ts                              524 B     ( 0.0%) █
 222 compiler/preprocess/public.d.ts                               2.1 KB    ( 0.1%) █
@@ -267,7 +267,7 @@ No custom ignore patterns found.
 255 internal/client/dev/assign.js                                 1.5 KB    ( 0.1%) █
 256 internal/client/dev/console-log.js                            777 B     ( 0.0%) █
 257 internal/client/dev/css.js                                    552 B     ( 0.0%) █
-258 internal/client/dev/debug.js                                  2.2 KB    ( 0.1%) █
+258 internal/client/dev/debug.js                                  2.4 KB    ( 0.2%) █
 259 internal/client/dev/elements.js                               1.7 KB    ( 0.1%) █
 260 internal/client/dev/equality.js                               2.5 KB    ( 0.2%) █
 261 internal/client/dev/hmr.js                                    1.9 KB    ( 0.1%) █
@@ -327,7 +327,7 @@ No custom ignore patterns found.
 315 internal/client/proxy.js                                      9.5 KB    ( 0.6%) █
 316 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 317 internal/client/reactivity/async.js                           2.9 KB    ( 0.2%) █
-318 internal/client/reactivity/batch.js                           13.3 KB   ( 0.9%) █
+318 internal/client/reactivity/batch.js                           14.5 KB   ( 0.9%) █
 319 internal/client/reactivity/deriveds.js                        7.1 KB    ( 0.5%) █
 320 internal/client/reactivity/effects.js                         14.0 KB   ( 0.9%) █
 321 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
