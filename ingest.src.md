@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.16/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.16/packages/svelte/src
-🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.16/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/packages/svelte/src
+🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 392
 📎 Files included in output: 392
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~458720 tokens, GPT-4: ~415050 tokens
+🔢 Estimated token counts - Claude models: ~459204 tokens, GPT-4: ~415488 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -16,7 +16,7 @@ No custom ignore patterns found.
 4   animate/public.d.ts                                           422 B     ( 0.0%) █
 5   attachments/index.js                                          3.7 KB    ( 0.2%) █
 6   attachments/public.d.ts                                       605 B     ( 0.0%) █
-7   compiler/errors.js                                            62.9 KB   ( 4.0%) ██
+7   compiler/errors.js                                            63.2 KB   ( 4.0%) ██
 8   compiler/index.js                                             5.6 KB    ( 0.4%) █
 9   compiler/legacy.js                                            13.7 KB   ( 0.9%) █
 10  compiler/migrate/index.js                                     56.3 KB   ( 3.6%) ██
@@ -34,7 +34,7 @@ No custom ignore patterns found.
 22  compiler/phases/1-parse/state/text.js                         592 B     ( 0.0%) █
 23  compiler/phases/1-parse/utils/bracket.js                      5.1 KB    ( 0.3%) █
 24  compiler/phases/1-parse/utils/create.js                       294 B     ( 0.0%) █
-25  compiler/phases/1-parse/utils/entities.js                     38.2 KB   ( 2.5%) █
+25  compiler/phases/1-parse/utils/entities.js                     38.2 KB   ( 2.4%) █
 26  compiler/phases/1-parse/utils/fuzzymatch.js                   6.2 KB    ( 0.4%) █
 27  compiler/phases/1-parse/utils/html.js                         3.4 KB    ( 0.2%) █
 28  compiler/phases/2-analyze/css/css-analyze.js                  9.7 KB    ( 0.6%) █
@@ -52,7 +52,7 @@ No custom ignore patterns found.
 40  compiler/phases/2-analyze/visitors/AwaitExpression.js         814 B     ( 0.1%) █
 41  compiler/phases/2-analyze/visitors/BindDirective.js           7.2 KB    ( 0.5%) █
 42  compiler/phases/2-analyze/visitors/CallExpression.js          8.2 KB    ( 0.5%) █
-43  compiler/phases/2-analyze/visitors/ClassBody.js               2.8 KB    ( 0.2%) █
+43  compiler/phases/2-analyze/visitors/ClassBody.js               4.1 KB    ( 0.3%) █
 44  compiler/phases/2-analyze/visitors/ClassDeclaration.js        912 B     ( 0.1%) █
 45  compiler/phases/2-analyze/visitors/ClassDirective.js          440 B     ( 0.0%) █
 46  compiler/phases/2-analyze/visitors/Component.js               670 B     ( 0.0%) █

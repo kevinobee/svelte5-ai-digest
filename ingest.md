@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.16/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.16/documentation/docs
-🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.16/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/documentation/docs
+🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 99
 📎 Files included in output: 99
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~106666 tokens, GPT-4: ~96511 tokens
+🔢 Estimated token counts - Claude models: ~106688 tokens, GPT-4: ~96531 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.9 KB    ( 0.5%) █
@@ -71,7 +71,7 @@ No custom ignore patterns found.
 59  07-misc/index.md                                51 B      ( 0.0%) █
 60  98-reference/.generated/client-errors.md        8.0 KB    ( 2.3%) █
 61  98-reference/.generated/client-warnings.md      11.9 KB   ( 3.4%) ██
-62  98-reference/.generated/compile-errors.md       22.4 KB   ( 6.4%) ███
+62  98-reference/.generated/compile-errors.md       22.5 KB   ( 6.4%) ███
 63  98-reference/.generated/compile-warnings.md     29.6 KB   ( 8.4%) ████
 64  98-reference/.generated/server-errors.md        369 B     ( 0.1%) █
 65  98-reference/.generated/shared-errors.md        3.1 KB    ( 0.9%) █
