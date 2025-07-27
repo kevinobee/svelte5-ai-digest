@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.0/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/packages/svelte/src
-🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.36.17/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.0/packages/svelte/src
+🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.0/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 392
 📎 Files included in output: 392
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~459204 tokens, GPT-4: ~415488 tokens
+🔢 Estimated token counts - Claude models: ~459278 tokens, GPT-4: ~415555 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -67,7 +67,7 @@ No custom ignore patterns found.
 55  compiler/phases/2-analyze/visitors/FunctionDeclaration.js     564 B     ( 0.0%) █
 56  compiler/phases/2-analyze/visitors/FunctionExpression.js      375 B     ( 0.0%) █
 57  compiler/phases/2-analyze/visitors/HtmlTag.js                 627 B     ( 0.0%) █
-58  compiler/phases/2-analyze/visitors/Identifier.js              4.0 KB    ( 0.3%) █
+58  compiler/phases/2-analyze/visitors/Identifier.js              4.1 KB    ( 0.3%) █
 59  compiler/phases/2-analyze/visitors/IfBlock.js                 807 B     ( 0.1%) █
 60  compiler/phases/2-analyze/visitors/ImportDeclaration.js       840 B     ( 0.1%) █
 61  compiler/phases/2-analyze/visitors/KeyBlock.js                690 B     ( 0.0%) █
@@ -251,7 +251,7 @@ No custom ignore patterns found.
 239 compiler/utils/sanitize_template_string.js                    199 B     ( 0.0%) █
 240 compiler/utils/slot.js                                        543 B     ( 0.0%) █
 241 compiler/utils/string.js                                      373 B     ( 0.0%) █
-242 compiler/validate-options.js                                  8.0 KB    ( 0.5%) █
+242 compiler/validate-options.js                                  8.1 KB    ( 0.5%) █
 243 compiler/warnings.js                                          34.3 KB   ( 2.2%) █
 244 constants.js                                                  2.2 KB    ( 0.1%) █
 245 easing/index.js                                               4.7 KB    ( 0.3%) █
@@ -401,5 +401,5 @@ No custom ignore patterns found.
 389 transition/index.js                                           9.5 KB    ( 0.6%) █
 390 transition/public.d.ts                                        1.1 KB    ( 0.1%) █
 391 utils.js                                                      8.2 KB    ( 0.5%) █
-392 version.js                                                    208 B     ( 0.0%) █
+392 version.js                                                    207 B     ( 0.0%) █
 ✅ Done! Wrote code base to /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
