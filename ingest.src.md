@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.1/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.2/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.1/packages/svelte/src
-🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.1/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.2/packages/svelte/src
+🔍 Found 392 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.2/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 392
 📎 Files included in output: 392
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~459324 tokens, GPT-4: ~415596 tokens
+🔢 Estimated token counts - Claude models: ~459436 tokens, GPT-4: ~415698 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -52,7 +52,7 @@ No custom ignore patterns found.
 40  compiler/phases/2-analyze/visitors/AwaitExpression.js         814 B     ( 0.1%) █
 41  compiler/phases/2-analyze/visitors/BindDirective.js           7.2 KB    ( 0.5%) █
 42  compiler/phases/2-analyze/visitors/CallExpression.js          8.2 KB    ( 0.5%) █
-43  compiler/phases/2-analyze/visitors/ClassBody.js               4.1 KB    ( 0.3%) █
+43  compiler/phases/2-analyze/visitors/ClassBody.js               4.0 KB    ( 0.3%) █
 44  compiler/phases/2-analyze/visitors/ClassDeclaration.js        912 B     ( 0.1%) █
 45  compiler/phases/2-analyze/visitors/ClassDirective.js          440 B     ( 0.0%) █
 46  compiler/phases/2-analyze/visitors/Component.js               670 B     ( 0.0%) █
@@ -306,7 +306,7 @@ No custom ignore patterns found.
 294 internal/client/dom/elements/bindings/window.js               1.7 KB    ( 0.1%) █
 295 internal/client/dom/elements/class.js                         1.5 KB    ( 0.1%) █
 296 internal/client/dom/elements/custom-element.js                8.5 KB    ( 0.5%) █
-297 internal/client/dom/elements/events.js                        9.5 KB    ( 0.6%) █
+297 internal/client/dom/elements/events.js                        10.1 KB   ( 0.6%) █
 298 internal/client/dom/elements/misc.js                          1.4 KB    ( 0.1%) █
 299 internal/client/dom/elements/style.js                         1.5 KB    ( 0.1%) █
 300 internal/client/dom/elements/transitions.js                   12.3 KB   ( 0.8%) █
