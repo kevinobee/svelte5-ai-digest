@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.2/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.3/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.2/documentation/docs
-🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.2/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.3/documentation/docs
+🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.37.3/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 99
 📎 Files included in output: 99
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~106688 tokens, GPT-4: ~96531 tokens
+🔢 Estimated token counts - Claude models: ~106710 tokens, GPT-4: ~96551 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.9 KB    ( 0.5%) █
@@ -77,7 +77,7 @@ No custom ignore patterns found.
 65  98-reference/.generated/shared-errors.md        3.1 KB    ( 0.9%) █
 66  98-reference/.generated/shared-warnings.md      1.0 KB    ( 0.3%) █
 67  98-reference/20-svelte.md                       79 B      ( 0.0%) █
-68  98-reference/21-svelte-action.md                100 B     ( 0.0%) █
+68  98-reference/21-svelte-action.md                201 B     ( 0.1%) █
 69  98-reference/21-svelte-animate.md               103 B     ( 0.0%) █
 70  98-reference/21-svelte-attachments.md           115 B     ( 0.0%) █
 71  98-reference/21-svelte-compiler.md              106 B     ( 0.0%) █

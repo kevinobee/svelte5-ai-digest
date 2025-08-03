@@ -403,7 +403,7 @@
 # 98-reference/21-svelte-action.md
 
 ```md
---- title: svelte/action --- > MODULE: svelte/action
+--- title: svelte/action --- This module provides types for [actions](use), which have been superseded by [attachments](@attach). > MODULE: svelte/action
 ```
 
 # 98-reference/21-svelte-animate.md
