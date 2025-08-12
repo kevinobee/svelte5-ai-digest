@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.0/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.1/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.0/documentation/docs
-🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.0/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.1/documentation/docs
+🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.1/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 99
 📎 Files included in output: 99
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~106691 tokens, GPT-4: ~96534 tokens
+🔢 Estimated token counts - Claude models: ~106699 tokens, GPT-4: ~96541 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.9 KB    ( 0.5%) █
@@ -41,7 +41,7 @@ No custom ignore patterns found.
 29  03-template-syntax/15-in-and-out.md             718 B     ( 0.2%) █
 30  03-template-syntax/16-animate.md                3.7 KB    ( 1.1%) █
 31  03-template-syntax/17-style.md                  1.0 KB    ( 0.3%) █
-32  03-template-syntax/18-class.md                  3.0 KB    ( 0.9%) █
+32  03-template-syntax/18-class.md                  3.1 KB    ( 0.9%) █
 33  03-template-syntax/19-await-expressions.md      5.6 KB    ( 1.6%) █
 34  03-template-syntax/index.md                     73 B      ( 0.0%) █
 35  04-styling/01-scoped-styles.md                  1.5 KB    ( 0.4%) █
