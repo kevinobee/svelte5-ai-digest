@@ -1,14 +1,14 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.1/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.2/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.1/packages/svelte/src
-🔍 Found 394 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.1/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.2/packages/svelte/src
+🔍 Found 394 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.2/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 394
 📎 Files included in output: 394
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~461082 tokens, GPT-4: ~417187 tokens
+🔢 Estimated token counts - Claude models: ~461249 tokens, GPT-4: ~417338 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -316,7 +316,7 @@ No custom ignore patterns found.
 304 internal/client/dom/legacy/event-modifiers.js                 3.0 KB    ( 0.2%) █
 305 internal/client/dom/legacy/lifecycle.js                       1.9 KB    ( 0.1%) █
 306 internal/client/dom/legacy/misc.js                            1.8 KB    ( 0.1%) █
-307 internal/client/dom/operations.js                             6.5 KB    ( 0.4%) █
+307 internal/client/dom/operations.js                             6.6 KB    ( 0.4%) █
 308 internal/client/dom/reconciler.js                             268 B     ( 0.0%) █
 309 internal/client/dom/task.js                                   1.1 KB    ( 0.1%) █
 310 internal/client/dom/template.js                               8.8 KB    ( 0.6%) █
@@ -326,15 +326,15 @@ No custom ignore patterns found.
 314 internal/client/index.js                                      5.4 KB    ( 0.3%) █
 315 internal/client/legacy.js                                     995 B     ( 0.1%) █
 316 internal/client/loop.js                                       991 B     ( 0.1%) █
-317 internal/client/proxy.js                                      9.5 KB    ( 0.6%) █
+317 internal/client/proxy.js                                      9.6 KB    ( 0.6%) █
 318 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 319 internal/client/reactivity/async.js                           4.5 KB    ( 0.3%) █
-320 internal/client/reactivity/batch.js                           14.8 KB   ( 0.9%) █
+320 internal/client/reactivity/batch.js                           14.7 KB   ( 0.9%) █
 321 internal/client/reactivity/deriveds.js                        7.1 KB    ( 0.5%) █
 322 internal/client/reactivity/effects.js                         14.2 KB   ( 0.9%) █
 323 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
 324 internal/client/reactivity/props.js                           11.1 KB   ( 0.7%) █
-325 internal/client/reactivity/sources.js                         7.2 KB    ( 0.5%) █
+325 internal/client/reactivity/sources.js                         7.4 KB    ( 0.5%) █
 326 internal/client/reactivity/store.js                           5.4 KB    ( 0.3%) █
 327 internal/client/reactivity/types.d.ts                         3.1 KB    ( 0.2%) █
 328 internal/client/render.js                                     8.7 KB    ( 0.6%) █
@@ -360,7 +360,7 @@ No custom ignore patterns found.
 348 internal/server/payload.js                                    1.5 KB    ( 0.1%) █
 349 internal/server/types.d.ts                                    468 B     ( 0.0%) █
 350 internal/shared/attributes.js                                 4.6 KB    ( 0.3%) █
-351 internal/shared/clone.js                                      3.0 KB    ( 0.2%) █
+351 internal/shared/clone.js                                      3.2 KB    ( 0.2%) █
 352 internal/shared/clone.test.ts                                 3.5 KB    ( 0.2%) █
 353 internal/shared/errors.js                                     3.7 KB    ( 0.2%) █
 354 internal/shared/types.d.ts                                    265 B     ( 0.0%) █
