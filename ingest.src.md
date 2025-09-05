@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/packages/svelte/src
-🔍 Found 394 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/packages/svelte/src
+🔍 Found 394 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 394
 📎 Files included in output: 394
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~462130 tokens, GPT-4: ~418135 tokens
+🔢 Estimated token counts - Claude models: ~462285 tokens, GPT-4: ~418275 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -114,7 +114,7 @@ No custom ignore patterns found.
 101 compiler/phases/2-analyze/visitors/UpdateExpression.js        832 B     ( 0.1%) █
 102 compiler/phases/2-analyze/visitors/UseDirective.js            376 B     ( 0.0%) █
 103 compiler/phases/2-analyze/visitors/VariableDeclarator.js      3.7 KB    ( 0.2%) █
-104 compiler/phases/3-transform/client/transform-client.js        19.9 KB   ( 1.3%) █
+104 compiler/phases/3-transform/client/transform-client.js        20.4 KB   ( 1.3%) █
 105 compiler/phases/3-transform/client/transform-template/fix-attribute-casing.js3.2 KB    ( 0.2%) █
 106 compiler/phases/3-transform/client/transform-template/index.js1.7 KB    ( 0.1%) █
 107 compiler/phases/3-transform/client/transform-template/template.js3.6 KB    ( 0.2%) █
@@ -281,7 +281,7 @@ No custom ignore patterns found.
 268 internal/client/dev/validation.js                             391 B     ( 0.0%) █
 269 internal/client/dom/blocks/async.js                           738 B     ( 0.0%) █
 270 internal/client/dom/blocks/await.js                           5.2 KB    ( 0.3%) █
-271 internal/client/dom/blocks/boundary.js                        8.5 KB    ( 0.5%) █
+271 internal/client/dom/blocks/boundary.js                        8.6 KB    ( 0.5%) █
 272 internal/client/dom/blocks/css-props.js                       759 B     ( 0.0%) █
 273 internal/client/dom/blocks/each.js                            15.3 KB   ( 1.0%) █
 274 internal/client/dom/blocks/html.js                            3.4 KB    ( 0.2%) █

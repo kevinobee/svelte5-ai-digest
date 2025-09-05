@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/documentation/docs
-🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.6/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/documentation/docs
+🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.38.7/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 99
 📎 Files included in output: 99
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~106923 tokens, GPT-4: ~96744 tokens
+🔢 Estimated token counts - Claude models: ~107490 tokens, GPT-4: ~97257 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.9 KB    ( 0.5%) █
@@ -55,20 +55,20 @@ No custom ignore patterns found.
 42  05-special-elements/03-svelte-document.md       792 B     ( 0.2%) █
 43  05-special-elements/04-svelte-body.md           643 B     ( 0.2%) █
 44  05-special-elements/05-svelte-head.md           634 B     ( 0.2%) █
-45  05-special-elements/06-svelte-element.md        1.2 KB    ( 0.4%) █
+45  05-special-elements/06-svelte-element.md        1.2 KB    ( 0.3%) █
 46  05-special-elements/07-svelte-options.md        1.6 KB    ( 0.4%) █
 47  05-special-elements/index.md                    75 B      ( 0.0%) █
 48  06-runtime/01-stores.md                         10.0 KB   ( 2.8%) █
 49  06-runtime/02-context.md                        4.0 KB    ( 1.1%) █
-50  06-runtime/03-lifecycle-hooks.md                7.6 KB    ( 2.2%) █
+50  06-runtime/03-lifecycle-hooks.md                7.6 KB    ( 2.1%) █
 51  06-runtime/04-imperative-component-api.md       2.7 KB    ( 0.8%) █
 52  06-runtime/index.md                             57 B      ( 0.0%) █
-53  07-misc/02-testing.md                           8.4 KB    ( 2.4%) █
-54  07-misc/03-typescript.md                        9.7 KB    ( 2.8%) █
-55  07-misc/04-custom-elements.md                   7.9 KB    ( 2.3%) █
-56  07-misc/06-v4-migration-guide.md                11.8 KB   ( 3.4%) ██
-57  07-misc/07-v5-migration-guide.md                42.1 KB   (12.0%) ██████
-58  07-misc/99-faq.md                               10.1 KB   ( 2.9%) █
+53  07-misc/02-testing.md                           10.5 KB   ( 3.0%) █
+54  07-misc/03-typescript.md                        9.7 KB    ( 2.7%) █
+55  07-misc/04-custom-elements.md                   8.1 KB    ( 2.3%) █
+56  07-misc/06-v4-migration-guide.md                11.8 KB   ( 3.3%) ██
+57  07-misc/07-v5-migration-guide.md                42.1 KB   (11.9%) ██████
+58  07-misc/99-faq.md                               10.1 KB   ( 2.8%) █
 59  07-misc/index.md                                51 B      ( 0.0%) █
 60  98-reference/.generated/client-errors.md        8.0 KB    ( 2.3%) █
 61  98-reference/.generated/client-warnings.md      11.9 KB   ( 3.4%) ██
