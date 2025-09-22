@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.3/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.3/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.4/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.4/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.3/packages/svelte/src
-🔍 Found 396 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.3/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.4/packages/svelte/src
+🔍 Found 396 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.4/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 396
 📎 Files included in output: 396
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~471525 tokens, GPT-4: ~426636 tokens
+🔢 Estimated token counts - Claude models: ~471737 tokens, GPT-4: ~426828 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -184,7 +184,7 @@ No custom ignore patterns found.
 171 compiler/phases/3-transform/client/visitors/VariableDeclaration.js11.6 KB   ( 0.7%) █
 172 compiler/phases/3-transform/css/index.js                      12.1 KB   ( 0.8%) █
 173 compiler/phases/3-transform/index.js                          3.4 KB    ( 0.2%) █
-174 compiler/phases/3-transform/server/transform-server.js        11.8 KB   ( 0.7%) █
+174 compiler/phases/3-transform/server/transform-server.js        11.7 KB   ( 0.7%) █
 175 compiler/phases/3-transform/server/types.d.ts                 1.3 KB    ( 0.1%) █
 176 compiler/phases/3-transform/server/visitors/AssignmentExpression.js2.9 KB    ( 0.2%) █
 177 compiler/phases/3-transform/server/visitors/AwaitBlock.js     1.0 KB    ( 0.1%) █
@@ -329,7 +329,7 @@ No custom ignore patterns found.
 316 internal/client/loop.js                                       991 B     ( 0.1%) █
 317 internal/client/proxy.js                                      9.6 KB    ( 0.6%) █
 318 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
-319 internal/client/reactivity/async.js                           5.1 KB    ( 0.3%) █
+319 internal/client/reactivity/async.js                           5.8 KB    ( 0.4%) █
 320 internal/client/reactivity/batch.js                           14.4 KB   ( 0.9%) █
 321 internal/client/reactivity/deriveds.js                        7.3 KB    ( 0.5%) █
 322 internal/client/reactivity/effects.js                         14.4 KB   ( 0.9%) █
