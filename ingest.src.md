@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.7/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.7/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.8/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.8/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.7/packages/svelte/src
-🔍 Found 396 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.7/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.8/packages/svelte/src
+🔍 Found 396 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.8/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 396
 📎 Files included in output: 396
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~472885 tokens, GPT-4: ~427866 tokens
+🔢 Estimated token counts - Claude models: ~473236 tokens, GPT-4: ~428184 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -51,7 +51,7 @@ No custom ignore patterns found.
 38  compiler/phases/2-analyze/visitors/Attribute.js               6.8 KB    ( 0.4%) █
 39  compiler/phases/2-analyze/visitors/AwaitBlock.js              1.5 KB    ( 0.1%) █
 40  compiler/phases/2-analyze/visitors/AwaitExpression.js         3.1 KB    ( 0.2%) █
-41  compiler/phases/2-analyze/visitors/BindDirective.js           7.2 KB    ( 0.5%) █
+41  compiler/phases/2-analyze/visitors/BindDirective.js           7.4 KB    ( 0.5%) █
 42  compiler/phases/2-analyze/visitors/CallExpression.js          8.2 KB    ( 0.5%) █
 43  compiler/phases/2-analyze/visitors/ClassBody.js               4.0 KB    ( 0.3%) █
 44  compiler/phases/2-analyze/visitors/ClassDeclaration.js        912 B     ( 0.1%) █
@@ -212,7 +212,7 @@ No custom ignore patterns found.
 199 compiler/phases/3-transform/server/visitors/SlotElement.js    1.8 KB    ( 0.1%) █
 200 compiler/phases/3-transform/server/visitors/SnippetBlock.js   1.1 KB    ( 0.1%) █
 201 compiler/phases/3-transform/server/visitors/SpreadAttribute.js338 B     ( 0.0%) █
-202 compiler/phases/3-transform/server/visitors/SvelteBoundary.js 1.3 KB    ( 0.1%) █
+202 compiler/phases/3-transform/server/visitors/SvelteBoundary.js 2.1 KB    ( 0.1%) █
 203 compiler/phases/3-transform/server/visitors/SvelteComponent.js509 B     ( 0.0%) █
 204 compiler/phases/3-transform/server/visitors/SvelteElement.js  2.4 KB    ( 0.1%) █
 205 compiler/phases/3-transform/server/visitors/SvelteFragment.js 435 B     ( 0.0%) █
@@ -228,7 +228,7 @@ No custom ignore patterns found.
 215 compiler/phases/css.js                                        464 B     ( 0.0%) █
 216 compiler/phases/nodes.js                                      2.1 KB    ( 0.1%) █
 217 compiler/phases/patterns.js                                   1.4 KB    ( 0.1%) █
-218 compiler/phases/scope.js                                      31.0 KB   ( 1.9%) █
+218 compiler/phases/scope.js                                      31.1 KB   ( 1.9%) █
 219 compiler/phases/types.d.ts                                    3.5 KB    ( 0.2%) █
 220 compiler/preprocess/decode_sourcemap.js                       2.9 KB    ( 0.2%) █
 221 compiler/preprocess/index.js                                  10.2 KB   ( 0.6%) █
