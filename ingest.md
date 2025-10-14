@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.11/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.11/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.12/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.12/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.11/documentation/docs
-🔍 Found 100 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.11/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.12/documentation/docs
+🔍 Found 100 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.39.12/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 100
 📎 Files included in output: 100
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~107435 tokens, GPT-4: ~97207 tokens
+🔢 Estimated token counts - Claude models: ~107472 tokens, GPT-4: ~97241 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.7 KB    ( 0.5%) █
@@ -36,7 +36,7 @@ No custom ignore patterns found.
 23  03-template-syntax/09-@attach.md                7.8 KB    ( 2.2%) █
 24  03-template-syntax/10-@const.md                 414 B     ( 0.1%) █
 25  03-template-syntax/11-@debug.md                 853 B     ( 0.2%) █
-26  03-template-syntax/12-bind.md                   14.9 KB   ( 4.2%) ██
+26  03-template-syntax/12-bind.md                   15.1 KB   ( 4.3%) ██
 27  03-template-syntax/13-use.md                    1.9 KB    ( 0.5%) █
 28  03-template-syntax/14-transition.md             5.0 KB    ( 1.4%) █
 29  03-template-syntax/15-in-and-out.md             718 B     ( 0.2%) █
