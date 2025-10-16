@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.0/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.0/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.1/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.1/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.0/packages/svelte/src
-🔍 Found 396 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.0/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.1/packages/svelte/src
+🔍 Found 396 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.40.1/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 396
 📎 Files included in output: 396
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~474360 tokens, GPT-4: ~429201 tokens
+🔢 Estimated token counts - Claude models: ~474319 tokens, GPT-4: ~429164 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.4 KB   ( 0.8%) █
@@ -266,7 +266,7 @@ No custom ignore patterns found.
 253 index-server.js                                               1.2 KB    ( 0.1%) █
 254 index.d.ts                                                    11.9 KB   ( 0.7%) █
 255 internal/client/constants.js                                  1.5 KB    ( 0.1%) █
-256 internal/client/context.js                                    5.7 KB    ( 0.4%) █
+256 internal/client/context.js                                    6.0 KB    ( 0.4%) █
 257 internal/client/dev/assign.js                                 1.5 KB    ( 0.1%) █
 258 internal/client/dev/console-log.js                            777 B     ( 0.0%) █
 259 internal/client/dev/css.js                                    552 B     ( 0.0%) █
@@ -358,10 +358,10 @@ No custom ignore patterns found.
 345 internal/server/errors.js                                     1.2 KB    ( 0.1%) █
 346 internal/server/hydration.js                                  348 B     ( 0.0%) █
 347 internal/server/index.js                                      12.3 KB   ( 0.8%) █
-348 internal/server/renderer.js                                   14.7 KB   ( 0.9%) █
+348 internal/server/renderer.js                                   14.6 KB   ( 0.9%) █
 349 internal/server/renderer.test.ts                              10.0 KB   ( 0.6%) █
 350 internal/server/types.d.ts                                    700 B     ( 0.0%) █
-351 internal/server/warnings.js                                   627 B     ( 0.0%) █
+351 internal/server/warnings.js                                   221 B     ( 0.0%) █
 352 internal/shared/attributes.js                                 4.7 KB    ( 0.3%) █
 353 internal/shared/clone.js                                      3.2 KB    ( 0.2%) █
 354 internal/shared/clone.test.ts                                 3.5 KB    ( 0.2%) █
@@ -372,7 +372,7 @@ No custom ignore patterns found.
 359 internal/shared/warnings.js                                   1.3 KB    ( 0.1%) █
 360 internal/types.d.ts                                           129 B     ( 0.0%) █
 361 legacy/legacy-client.js                                       7.7 KB    ( 0.5%) █
-362 legacy/legacy-server.js                                       3.2 KB    ( 0.2%) █
+362 legacy/legacy-server.js                                       3.1 KB    ( 0.2%) █
 363 motion/index.js                                               897 B     ( 0.1%) █
 364 motion/private.d.ts                                           1017 B    ( 0.1%) █
 365 motion/public.d.ts                                            2.9 KB    ( 0.2%) █
