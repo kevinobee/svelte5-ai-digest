@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.2/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.2/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.3/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.3/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.2/packages/svelte/src
-🔍 Found 397 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.2/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.3/packages/svelte/src
+🔍 Found 397 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.42.3/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 397
 📎 Files included in output: 397
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~474075 tokens, GPT-4: ~428943 tokens
+🔢 Estimated token counts - Claude models: ~474131 tokens, GPT-4: ~428994 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -174,7 +174,7 @@ No custom ignore patterns found.
 161 compiler/phases/3-transform/client/visitors/SvelteDocument.js 417 B     ( 0.0%) █
 162 compiler/phases/3-transform/client/visitors/SvelteElement.js  4.4 KB    ( 0.3%) █
 163 compiler/phases/3-transform/client/visitors/SvelteFragment.js 574 B     ( 0.0%) █
-164 compiler/phases/3-transform/client/visitors/SvelteHead.js     541 B     ( 0.0%) █
+164 compiler/phases/3-transform/client/visitors/SvelteHead.js     665 B     ( 0.0%) █
 165 compiler/phases/3-transform/client/visitors/SvelteSelf.js     456 B     ( 0.0%) █
 166 compiler/phases/3-transform/client/visitors/SvelteWindow.js   409 B     ( 0.0%) █
 167 compiler/phases/3-transform/client/visitors/TitleElement.js   845 B     ( 0.1%) █
@@ -216,7 +216,7 @@ No custom ignore patterns found.
 203 compiler/phases/3-transform/server/visitors/SvelteComponent.js509 B     ( 0.0%) █
 204 compiler/phases/3-transform/server/visitors/SvelteElement.js  2.4 KB    ( 0.1%) █
 205 compiler/phases/3-transform/server/visitors/SvelteFragment.js 435 B     ( 0.0%) █
-206 compiler/phases/3-transform/server/visitors/SvelteHead.js     567 B     ( 0.0%) █
+206 compiler/phases/3-transform/server/visitors/SvelteHead.js     695 B     ( 0.0%) █
 207 compiler/phases/3-transform/server/visitors/SvelteSelf.js     466 B     ( 0.0%) █
 208 compiler/phases/3-transform/server/visitors/TitleElement.js   776 B     ( 0.0%) █
 209 compiler/phases/3-transform/server/visitors/UpdateExpression.js721 B     ( 0.0%) █
@@ -280,7 +280,7 @@ No custom ignore patterns found.
 267 internal/client/dev/tracing.js                                4.7 KB    ( 0.3%) █
 268 internal/client/dev/validation.js                             391 B     ( 0.0%) █
 269 internal/client/dom/blocks/async.js                           1.3 KB    ( 0.1%) █
-270 internal/client/dom/blocks/await.js                           3.4 KB    ( 0.2%) █
+270 internal/client/dom/blocks/await.js                           3.7 KB    ( 0.2%) █
 271 internal/client/dom/blocks/boundary.js                        10.0 KB   ( 0.6%) █
 272 internal/client/dom/blocks/branches.js                        4.0 KB    ( 0.2%) █
 273 internal/client/dom/blocks/css-props.js                       759 B     ( 0.0%) █
@@ -292,7 +292,7 @@ No custom ignore patterns found.
 279 internal/client/dom/blocks/snippet.js                         3.0 KB    ( 0.2%) █
 280 internal/client/dom/blocks/svelte-component.js                837 B     ( 0.1%) █
 281 internal/client/dom/blocks/svelte-element.js                  4.1 KB    ( 0.3%) █
-282 internal/client/dom/blocks/svelte-head.js                     2.1 KB    ( 0.1%) █
+282 internal/client/dom/blocks/svelte-head.js                     1.9 KB    ( 0.1%) █
 283 internal/client/dom/css.js                                    1.1 KB    ( 0.1%) █
 284 internal/client/dom/elements/actions.js                       1.3 KB    ( 0.1%) █
 285 internal/client/dom/elements/attachments.js                   813 B     ( 0.0%) █
@@ -339,7 +339,7 @@ No custom ignore patterns found.
 326 internal/client/reactivity/sources.js                         7.4 KB    ( 0.5%) █
 327 internal/client/reactivity/store.js                           5.4 KB    ( 0.3%) █
 328 internal/client/reactivity/types.d.ts                         3.1 KB    ( 0.2%) █
-329 internal/client/render.js                                     8.9 KB    ( 0.5%) █
+329 internal/client/render.js                                     8.8 KB    ( 0.5%) █
 330 internal/client/runtime.js                                    21.9 KB   ( 1.4%) █
 331 internal/client/timing.js                                     565 B     ( 0.0%) █
 332 internal/client/types.d.ts                                    5.2 KB    ( 0.3%) █
@@ -358,7 +358,7 @@ No custom ignore patterns found.
 345 internal/server/dev.js                                        2.6 KB    ( 0.2%) █
 346 internal/server/errors.js                                     1.2 KB    ( 0.1%) █
 347 internal/server/hydration.js                                  348 B     ( 0.0%) █
-348 internal/server/index.js                                      12.1 KB   ( 0.8%) █
+348 internal/server/index.js                                      12.2 KB   ( 0.8%) █
 349 internal/server/renderer.js                                   14.6 KB   ( 0.9%) █
 350 internal/server/renderer.test.ts                              10.0 KB   ( 0.6%) █
 351 internal/server/types.d.ts                                    700 B     ( 0.0%) █
