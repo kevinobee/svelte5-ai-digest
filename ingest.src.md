@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.3/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.3/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.4/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.4/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.3/packages/svelte/src
-🔍 Found 398 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.3/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.4/packages/svelte/src
+🔍 Found 398 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.4/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 398
 📎 Files included in output: 398
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~478902 tokens, GPT-4: ~433311 tokens
+🔢 Estimated token counts - Claude models: ~478518 tokens, GPT-4: ~432963 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -266,7 +266,7 @@ No custom ignore patterns found.
 253 index-client.js                                               7.8 KB    ( 0.5%) █
 254 index-server.js                                               1.2 KB    ( 0.1%) █
 255 index.d.ts                                                    12.2 KB   ( 0.7%) █
-256 internal/client/constants.js                                  2.1 KB    ( 0.1%) █
+256 internal/client/constants.js                                  2.4 KB    ( 0.1%) █
 257 internal/client/context.js                                    6.2 KB    ( 0.4%) █
 258 internal/client/dev/assign.js                                 1.5 KB    ( 0.1%) █
 259 internal/client/dev/console-log.js                            777 B     ( 0.0%) █
@@ -333,15 +333,15 @@ No custom ignore patterns found.
 320 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 321 internal/client/reactivity/async.js                           7.2 KB    ( 0.4%) █
 322 internal/client/reactivity/batch.js                           21.0 KB   ( 1.3%) █
-323 internal/client/reactivity/deriveds.js                        8.2 KB    ( 0.5%) █
-324 internal/client/reactivity/effects.js                         15.3 KB   ( 0.9%) █
+323 internal/client/reactivity/deriveds.js                        8.3 KB    ( 0.5%) █
+324 internal/client/reactivity/effects.js                         15.2 KB   ( 0.9%) █
 325 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
 326 internal/client/reactivity/props.js                           11.1 KB   ( 0.7%) █
-327 internal/client/reactivity/sources.js                         7.4 KB    ( 0.5%) █
+327 internal/client/reactivity/sources.js                         7.6 KB    ( 0.5%) █
 328 internal/client/reactivity/store.js                           5.4 KB    ( 0.3%) █
 329 internal/client/reactivity/types.d.ts                         3.1 KB    ( 0.2%) █
 330 internal/client/render.js                                     8.8 KB    ( 0.5%) █
-331 internal/client/runtime.js                                    22.2 KB   ( 1.4%) █
+331 internal/client/runtime.js                                    20.2 KB   ( 1.2%) █
 332 internal/client/timing.js                                     565 B     ( 0.0%) █
 333 internal/client/types.d.ts                                    5.2 KB    ( 0.3%) █
 334 internal/client/validate.js                                   2.0 KB    ( 0.1%) █
