@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.7/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.7/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.8/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.8/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.7/packages/svelte/src
-🔍 Found 398 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.7/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.8/packages/svelte/src
+🔍 Found 398 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.8/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 398
 📎 Files included in output: 398
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~479566 tokens, GPT-4: ~433911 tokens
+🔢 Estimated token counts - Claude models: ~479233 tokens, GPT-4: ~433610 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.2%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -285,7 +285,7 @@ No custom ignore patterns found.
 272 internal/client/dom/blocks/boundary.js                        9.9 KB    ( 0.6%) █
 273 internal/client/dom/blocks/branches.js                        4.0 KB    ( 0.2%) █
 274 internal/client/dom/blocks/css-props.js                       759 B     ( 0.0%) █
-275 internal/client/dom/blocks/each.js                            15.3 KB   ( 0.9%) █
+275 internal/client/dom/blocks/each.js                            14.3 KB   ( 0.9%) █
 276 internal/client/dom/blocks/html.js                            3.4 KB    ( 0.2%) █
 277 internal/client/dom/blocks/if.js                              1.7 KB    ( 0.1%) █
 278 internal/client/dom/blocks/key.js                             812 B     ( 0.0%) █
@@ -334,7 +334,7 @@ No custom ignore patterns found.
 321 internal/client/reactivity/async.js                           7.4 KB    ( 0.5%) █
 322 internal/client/reactivity/batch.js                           21.7 KB   ( 1.3%) █
 323 internal/client/reactivity/deriveds.js                        8.3 KB    ( 0.5%) █
-324 internal/client/reactivity/effects.js                         15.8 KB   ( 1.0%) █
+324 internal/client/reactivity/effects.js                         15.7 KB   ( 1.0%) █
 325 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
 326 internal/client/reactivity/props.js                           11.1 KB   ( 0.7%) █
 327 internal/client/reactivity/sources.js                         7.6 KB    ( 0.5%) █
@@ -360,7 +360,7 @@ No custom ignore patterns found.
 347 internal/server/errors.js                                     1.2 KB    ( 0.1%) █
 348 internal/server/hydration.js                                  348 B     ( 0.0%) █
 349 internal/server/index.js                                      12.2 KB   ( 0.7%) █
-350 internal/server/renderer.js                                   15.5 KB   ( 0.9%) █
+350 internal/server/renderer.js                                   15.5 KB   ( 1.0%) █
 351 internal/server/renderer.test.ts                              10.0 KB   ( 0.6%) █
 352 internal/server/types.d.ts                                    700 B     ( 0.0%) █
 353 internal/server/warnings.js                                   221 B     ( 0.0%) █
