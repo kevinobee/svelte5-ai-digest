@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.12/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.12/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.14/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.14/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.12/documentation/docs
-🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.12/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.14/documentation/docs
+🔍 Found 99 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.43.14/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 99
 📎 Files included in output: 99
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~108057 tokens, GPT-4: ~97770 tokens
+🔢 Estimated token counts - Claude models: ~108092 tokens, GPT-4: ~97802 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.7 KB    ( 0.5%) █
@@ -72,7 +72,7 @@ No custom ignore patterns found.
 59  07-misc/index.md                                51 B      ( 0.0%) █
 60  98-reference/.generated/client-errors.md        8.3 KB    ( 2.3%) █
 61  98-reference/.generated/client-warnings.md      12.3 KB   ( 3.5%) ██
-62  98-reference/.generated/compile-errors.md       23.3 KB   ( 6.6%) ███
+62  98-reference/.generated/compile-errors.md       23.5 KB   ( 6.6%) ███
 63  98-reference/.generated/compile-warnings.md     29.6 KB   ( 8.3%) ████
 64  98-reference/.generated/server-errors.md        875 B     ( 0.2%) █
 65  98-reference/.generated/shared-errors.md        2.8 KB    ( 0.8%) █
