@@ -28,7 +28,7 @@ jobs:
 
     steps:
       - name: Checkout Commit
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Get last processed version
         id: get_last_processed_version
         run: |
