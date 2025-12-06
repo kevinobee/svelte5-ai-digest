@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.5/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.5/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.5/packages/svelte/src
-🔍 Found 405 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.5/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src
+🔍 Found 405 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 405
 📎 Files included in output: 405
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~494280 tokens, GPT-4: ~447225 tokens
+🔢 Estimated token counts - Claude models: ~494311 tokens, GPT-4: ~447253 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -84,7 +84,7 @@ No custom ignore patterns found.
 71  compiler/phases/2-analyze/visitors/RegularElement.js          5.4 KB    ( 0.3%) █
 72  compiler/phases/2-analyze/visitors/RenderTag.js               2.0 KB    ( 0.1%) █
 73  compiler/phases/2-analyze/visitors/shared/a11y/constants.js   7.9 KB    ( 0.5%) █
-74  compiler/phases/2-analyze/visitors/shared/a11y/index.js       24.9 KB   ( 1.5%) █
+74  compiler/phases/2-analyze/visitors/shared/a11y/index.js       25.0 KB   ( 1.5%) █
 75  compiler/phases/2-analyze/visitors/shared/attribute.js        3.0 KB    ( 0.2%) █
 76  compiler/phases/2-analyze/visitors/shared/component.js        5.0 KB    ( 0.3%) █
 77  compiler/phases/2-analyze/visitors/shared/element.js          4.3 KB    ( 0.3%) █
@@ -278,7 +278,7 @@ No custom ignore patterns found.
 265 internal/client/dev/elements.js                               1.7 KB    ( 0.1%) █
 266 internal/client/dev/equality.js                               2.5 KB    ( 0.1%) █
 267 internal/client/dev/hmr.js                                    1.8 KB    ( 0.1%) █
-268 internal/client/dev/inspect.js                                1.9 KB    ( 0.1%) █
+268 internal/client/dev/inspect.js                                1.8 KB    ( 0.1%) █
 269 internal/client/dev/legacy.js                                 672 B     ( 0.0%) █
 270 internal/client/dev/ownership.js                              2.1 KB    ( 0.1%) █
 271 internal/client/dev/tracing.js                                3.7 KB    ( 0.2%) █
