@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src
-🔍 Found 405 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.6/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src
+🔍 Found 405 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 405
 📎 Files included in output: 405
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~494311 tokens, GPT-4: ~447253 tokens
+🔢 Estimated token counts - Claude models: ~494432 tokens, GPT-4: ~447362 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -22,7 +22,7 @@ No custom ignore patterns found.
 9   compiler/legacy.js                                            13.7 KB   ( 0.8%) █
 10  compiler/migrate/index.js                                     56.3 KB   ( 3.3%) ██
 11  compiler/phases/1-parse/acorn.js                              5.2 KB    ( 0.3%) █
-12  compiler/phases/1-parse/index.js                              7.1 KB    ( 0.4%) █
+12  compiler/phases/1-parse/index.js                              6.7 KB    ( 0.4%) █
 13  compiler/phases/1-parse/read/context.js                       3.2 KB    ( 0.2%) █
 14  compiler/phases/1-parse/read/expression.js                    2.3 KB    ( 0.1%) █
 15  compiler/phases/1-parse/read/options.js                       6.5 KB    ( 0.4%) █
@@ -114,7 +114,7 @@ No custom ignore patterns found.
 101 compiler/phases/2-analyze/visitors/TransitionDirective.js     574 B     ( 0.0%) █
 102 compiler/phases/2-analyze/visitors/UpdateExpression.js        832 B     ( 0.0%) █
 103 compiler/phases/2-analyze/visitors/UseDirective.js            553 B     ( 0.0%) █
-104 compiler/phases/2-analyze/visitors/VariableDeclarator.js      4.2 KB    ( 0.2%) █
+104 compiler/phases/2-analyze/visitors/VariableDeclarator.js      4.5 KB    ( 0.3%) █
 105 compiler/phases/3-transform/client/transform-client.js        19.7 KB   ( 1.2%) █
 106 compiler/phases/3-transform/client/transform-template/fix-attribute-casing.js3.2 KB    ( 0.2%) █
 107 compiler/phases/3-transform/client/transform-template/index.js1.6 KB    ( 0.1%) █
@@ -238,7 +238,7 @@ No custom ignore patterns found.
 225 compiler/preprocess/private.d.ts                              524 B     ( 0.0%) █
 226 compiler/preprocess/public.d.ts                               2.1 KB    ( 0.1%) █
 227 compiler/preprocess/replace_in_code.js                        2.0 KB    ( 0.1%) █
-228 compiler/print/index.js                                       16.4 KB   ( 1.0%) █
+228 compiler/print/index.js                                       16.8 KB   ( 1.0%) █
 229 compiler/print/types.d.ts                                     398 B     ( 0.0%) █
 230 compiler/private.d.ts                                         92 B      ( 0.0%) █
 231 compiler/public.d.ts                                          328 B     ( 0.0%) █
@@ -362,7 +362,7 @@ No custom ignore patterns found.
 349 internal/server/context.js                                    2.5 KB    ( 0.1%) █
 350 internal/server/dev.js                                        2.9 KB    ( 0.2%) █
 351 internal/server/errors.js                                     3.0 KB    ( 0.2%) █
-352 internal/server/hydratable.js                                 3.3 KB    ( 0.2%) █
+352 internal/server/hydratable.js                                 3.5 KB    ( 0.2%) █
 353 internal/server/hydration.js                                  348 B     ( 0.0%) █
 354 internal/server/index.js                                      12.2 KB   ( 0.7%) █
 355 internal/server/render-context.js                             1.7 KB    ( 0.1%) █
