@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.10/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.10/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src
-🔍 Found 405 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.8/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.10/packages/svelte/src
+🔍 Found 405 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.45.10/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 405
 📎 Files included in output: 405
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~494432 tokens, GPT-4: ~447362 tokens
+🔢 Estimated token counts - Claude models: ~494568 tokens, GPT-4: ~447485 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -238,7 +238,7 @@ No custom ignore patterns found.
 225 compiler/preprocess/private.d.ts                              524 B     ( 0.0%) █
 226 compiler/preprocess/public.d.ts                               2.1 KB    ( 0.1%) █
 227 compiler/preprocess/replace_in_code.js                        2.0 KB    ( 0.1%) █
-228 compiler/print/index.js                                       16.8 KB   ( 1.0%) █
+228 compiler/print/index.js                                       16.9 KB   ( 1.0%) █
 229 compiler/print/types.d.ts                                     398 B     ( 0.0%) █
 230 compiler/private.d.ts                                         92 B      ( 0.0%) █
 231 compiler/public.d.ts                                          328 B     ( 0.0%) █
@@ -336,7 +336,7 @@ No custom ignore patterns found.
 323 internal/client/proxy.js                                      9.6 KB    ( 0.6%) █
 324 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 325 internal/client/reactivity/async.js                           7.4 KB    ( 0.4%) █
-326 internal/client/reactivity/batch.js                           22.3 KB   ( 1.3%) █
+326 internal/client/reactivity/batch.js                           22.1 KB   ( 1.3%) █
 327 internal/client/reactivity/deriveds.js                        8.7 KB    ( 0.5%) █
 328 internal/client/reactivity/effects.js                         15.7 KB   ( 0.9%) █
 329 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
@@ -365,7 +365,7 @@ No custom ignore patterns found.
 352 internal/server/hydratable.js                                 3.5 KB    ( 0.2%) █
 353 internal/server/hydration.js                                  348 B     ( 0.0%) █
 354 internal/server/index.js                                      12.2 KB   ( 0.7%) █
-355 internal/server/render-context.js                             1.7 KB    ( 0.1%) █
+355 internal/server/render-context.js                             2.2 KB    ( 0.1%) █
 356 internal/server/renderer.js                                   17.0 KB   ( 1.0%) █
 357 internal/server/renderer.test.ts                              10.0 KB   ( 0.6%) █
 358 internal/server/types.d.ts                                    1.1 KB    ( 0.1%) █
@@ -415,5 +415,5 @@ No custom ignore patterns found.
 402 transition/index.js                                           9.5 KB    ( 0.6%) █
 403 transition/public.d.ts                                        1.1 KB    ( 0.1%) █
 404 utils.js                                                      8.3 KB    ( 0.5%) █
-405 version.js                                                    207 B     ( 0.0%) █
+405 version.js                                                    208 B     ( 0.0%) █
 ✅ Done! Wrote code base to /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
