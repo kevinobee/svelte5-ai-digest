@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.0/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.0/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.0/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.0/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~498702 tokens, GPT-4: ~451226 tokens
+🔢 Estimated token counts - Claude models: ~499071 tokens, GPT-4: ~451559 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -81,7 +81,7 @@ No custom ignore patterns found.
 68  compiler/phases/2-analyze/visitors/NewExpression.js           496 B     ( 0.0%) █
 69  compiler/phases/2-analyze/visitors/OnDirective.js             970 B     ( 0.1%) █
 70  compiler/phases/2-analyze/visitors/PropertyDefinition.js      661 B     ( 0.0%) █
-71  compiler/phases/2-analyze/visitors/RegularElement.js          5.9 KB    ( 0.3%) █
+71  compiler/phases/2-analyze/visitors/RegularElement.js          5.9 KB    ( 0.4%) █
 72  compiler/phases/2-analyze/visitors/RenderTag.js               2.0 KB    ( 0.1%) █
 73  compiler/phases/2-analyze/visitors/shared/a11y/constants.js   7.9 KB    ( 0.5%) █
 74  compiler/phases/2-analyze/visitors/shared/a11y/index.js       25.1 KB   ( 1.5%) █
@@ -94,7 +94,7 @@ No custom ignore patterns found.
 81  compiler/phases/2-analyze/visitors/shared/special-element.js  506 B     ( 0.0%) █
 82  compiler/phases/2-analyze/visitors/shared/utils.js            8.7 KB    ( 0.5%) █
 83  compiler/phases/2-analyze/visitors/SlotElement.js             1.1 KB    ( 0.1%) █
-84  compiler/phases/2-analyze/visitors/SnippetBlock.js            2.5 KB    ( 0.2%) █
+84  compiler/phases/2-analyze/visitors/SnippetBlock.js            2.5 KB    ( 0.1%) █
 85  compiler/phases/2-analyze/visitors/SpreadAttribute.js         443 B     ( 0.0%) █
 86  compiler/phases/2-analyze/visitors/SpreadElement.js           457 B     ( 0.0%) █
 87  compiler/phases/2-analyze/visitors/StyleDirective.js          1.1 KB    ( 0.1%) █
@@ -155,7 +155,7 @@ No custom ignore patterns found.
 142 compiler/phases/3-transform/client/visitors/MemberExpression.js690 B     ( 0.0%) █
 143 compiler/phases/3-transform/client/visitors/OnDirective.js    1.0 KB    ( 0.1%) █
 144 compiler/phases/3-transform/client/visitors/Program.js        3.8 KB    ( 0.2%) █
-145 compiler/phases/3-transform/client/visitors/RegularElement.js 22.8 KB   ( 1.3%) █
+145 compiler/phases/3-transform/client/visitors/RegularElement.js 23.0 KB   ( 1.4%) █
 146 compiler/phases/3-transform/client/visitors/RenderTag.js      2.2 KB    ( 0.1%) █
 147 compiler/phases/3-transform/client/visitors/shared/component.js14.3 KB   ( 0.8%) █
 148 compiler/phases/3-transform/client/visitors/shared/declarations.js1.4 KB    ( 0.1%) █
@@ -314,7 +314,7 @@ No custom ignore patterns found.
 301 internal/client/dom/elements/bindings/window.js               1.7 KB    ( 0.1%) █
 302 internal/client/dom/elements/class.js                         1.5 KB    ( 0.1%) █
 303 internal/client/dom/elements/custom-element.js                8.5 KB    ( 0.5%) █
-304 internal/client/dom/elements/customizable-select.js           1.5 KB    ( 0.1%) █
+304 internal/client/dom/elements/customizable-select.js           2.6 KB    ( 0.2%) █
 305 internal/client/dom/elements/events.js                        10.0 KB   ( 0.6%) █
 306 internal/client/dom/elements/misc.js                          1.4 KB    ( 0.1%) █
 307 internal/client/dom/elements/style.js                         1.5 KB    ( 0.1%) █
