@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.0/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.0/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.47.1/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.0/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.0/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~499071 tokens, GPT-4: ~451559 tokens
+🔢 Estimated token counts - Claude models: ~499480 tokens, GPT-4: ~451930 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
@@ -18,16 +18,16 @@ No custom ignore patterns found.
 5   attachments/index.js                                          3.7 KB    ( 0.2%) █
 6   attachments/public.d.ts                                       605 B     ( 0.0%) █
 7   compiler/errors.js                                            64.6 KB   ( 3.8%) ██
-8   compiler/index.js                                             5.7 KB    ( 0.3%) █
+8   compiler/index.js                                             6.2 KB    ( 0.4%) █
 9   compiler/legacy.js                                            13.7 KB   ( 0.8%) █
 10  compiler/migrate/index.js                                     56.3 KB   ( 3.3%) ██
 11  compiler/phases/1-parse/acorn.js                              5.2 KB    ( 0.3%) █
-12  compiler/phases/1-parse/index.js                              6.7 KB    ( 0.4%) █
+12  compiler/phases/1-parse/index.js                              7.0 KB    ( 0.4%) █
 13  compiler/phases/1-parse/read/context.js                       3.2 KB    ( 0.2%) █
 14  compiler/phases/1-parse/read/expression.js                    2.3 KB    ( 0.1%) █
 15  compiler/phases/1-parse/read/options.js                       6.5 KB    ( 0.4%) █
 16  compiler/phases/1-parse/read/script.js                        2.7 KB    ( 0.2%) █
-17  compiler/phases/1-parse/read/style.js                         12.5 KB   ( 0.7%) █
+17  compiler/phases/1-parse/read/style.js                         12.8 KB   ( 0.8%) █
 18  compiler/phases/1-parse/remove_typescript_nodes.js            4.3 KB    ( 0.3%) █
 19  compiler/phases/1-parse/state/element.js                      22.0 KB   ( 1.3%) █
 20  compiler/phases/1-parse/state/fragment.js                     365 B     ( 0.0%) █
@@ -81,7 +81,7 @@ No custom ignore patterns found.
 68  compiler/phases/2-analyze/visitors/NewExpression.js           496 B     ( 0.0%) █
 69  compiler/phases/2-analyze/visitors/OnDirective.js             970 B     ( 0.1%) █
 70  compiler/phases/2-analyze/visitors/PropertyDefinition.js      661 B     ( 0.0%) █
-71  compiler/phases/2-analyze/visitors/RegularElement.js          5.9 KB    ( 0.4%) █
+71  compiler/phases/2-analyze/visitors/RegularElement.js          5.9 KB    ( 0.3%) █
 72  compiler/phases/2-analyze/visitors/RenderTag.js               2.0 KB    ( 0.1%) █
 73  compiler/phases/2-analyze/visitors/shared/a11y/constants.js   7.9 KB    ( 0.5%) █
 74  compiler/phases/2-analyze/visitors/shared/a11y/index.js       25.1 KB   ( 1.5%) █
@@ -124,7 +124,7 @@ No custom ignore patterns found.
 111 compiler/phases/3-transform/client/utils.js                   4.3 KB    ( 0.3%) █
 112 compiler/phases/3-transform/client/visitors/AnimateDirective.js1013 B    ( 0.1%) █
 113 compiler/phases/3-transform/client/visitors/ArrowFunctionExpression.js429 B     ( 0.0%) █
-114 compiler/phases/3-transform/client/visitors/AssignmentExpression.js5.9 KB    ( 0.4%) █
+114 compiler/phases/3-transform/client/visitors/AssignmentExpression.js5.9 KB    ( 0.3%) █
 115 compiler/phases/3-transform/client/visitors/AttachTag.js      782 B     ( 0.0%) █
 116 compiler/phases/3-transform/client/visitors/Attribute.js      476 B     ( 0.0%) █
 117 compiler/phases/3-transform/client/visitors/AwaitBlock.js     3.4 KB    ( 0.2%) █
@@ -348,7 +348,7 @@ No custom ignore patterns found.
 335 internal/client/reactivity/types.d.ts                         3.2 KB    ( 0.2%) █
 336 internal/client/reactivity/utils.js                           1.1 KB    ( 0.1%) █
 337 internal/client/render.js                                     8.7 KB    ( 0.5%) █
-338 internal/client/runtime.js                                    20.4 KB   ( 1.2%) █
+338 internal/client/runtime.js                                    20.7 KB   ( 1.2%) █
 339 internal/client/timing.js                                     565 B     ( 0.0%) █
 340 internal/client/types.d.ts                                    5.4 KB    ( 0.3%) █
 341 internal/client/validate.js                                   2.2 KB    ( 0.1%) █
