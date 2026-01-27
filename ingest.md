@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.2/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.2/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.2/documentation/docs
-🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.2/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/documentation/docs
+🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 101
 📎 Files included in output: 101
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~110386 tokens, GPT-4: ~99877 tokens
+🔢 Estimated token counts - Claude models: ~110435 tokens, GPT-4: ~99922 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.7 KB    ( 0.5%) █
@@ -20,7 +20,7 @@ No custom ignore patterns found.
 7   02-runes/02-$state.md                           9.7 KB    ( 2.6%) █
 8   02-runes/03-$derived.md                         4.9 KB    ( 1.3%) █
 9   02-runes/04-$effect.md                          14.2 KB   ( 3.9%) ██
-10  02-runes/05-$props.md                           7.0 KB    ( 1.9%) █
+10  02-runes/05-$props.md                           7.2 KB    ( 2.0%) █
 11  02-runes/06-$bindable.md                        2.1 KB    ( 0.6%) █
 12  02-runes/07-$inspect.md                         2.6 KB    ( 0.7%) █
 13  02-runes/08-$host.md                            1.3 KB    ( 0.3%) █
@@ -72,7 +72,7 @@ No custom ignore patterns found.
 59  07-misc/99-faq.md                               9.3 KB    ( 2.5%) █
 60  07-misc/index.md                                51 B      ( 0.0%) █
 61  98-reference/.generated/client-errors.md        8.8 KB    ( 2.4%) █
-62  98-reference/.generated/client-warnings.md      13.0 KB   ( 3.6%) ██
+62  98-reference/.generated/client-warnings.md      13.0 KB   ( 3.5%) ██
 63  98-reference/.generated/compile-errors.md       23.6 KB   ( 6.5%) ███
 64  98-reference/.generated/compile-warnings.md     29.6 KB   ( 8.1%) ████
 65  98-reference/.generated/server-errors.md        2.2 KB    ( 0.6%) █
