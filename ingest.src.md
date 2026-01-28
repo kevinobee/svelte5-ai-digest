@@ -1,18 +1,18 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.3/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~500081 tokens, GPT-4: ~452473 tokens
+🔢 Estimated token counts - Claude models: ~500255 tokens, GPT-4: ~452631 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
-2   ambient.d.ts                                                  12.8 KB   ( 0.8%) █
+2   ambient.d.ts                                                  13.2 KB   ( 0.8%) █
 3   animate/index.js                                              2.3 KB    ( 0.1%) █
 4   animate/public.d.ts                                           422 B     ( 0.0%) █
 5   attachments/index.js                                          3.7 KB    ( 0.2%) █
@@ -27,7 +27,7 @@ No custom ignore patterns found.
 14  compiler/phases/1-parse/read/expression.js                    2.3 KB    ( 0.1%) █
 15  compiler/phases/1-parse/read/options.js                       6.5 KB    ( 0.4%) █
 16  compiler/phases/1-parse/read/script.js                        2.7 KB    ( 0.2%) █
-17  compiler/phases/1-parse/read/style.js                         12.8 KB   ( 0.7%) █
+17  compiler/phases/1-parse/read/style.js                         12.8 KB   ( 0.8%) █
 18  compiler/phases/1-parse/remove_typescript_nodes.js            4.3 KB    ( 0.3%) █
 19  compiler/phases/1-parse/state/element.js                      22.0 KB   ( 1.3%) █
 20  compiler/phases/1-parse/state/fragment.js                     365 B     ( 0.0%) █
@@ -250,7 +250,7 @@ No custom ignore patterns found.
 237 compiler/types/template.d.ts                                  14.6 KB   ( 0.9%) █
 238 compiler/utils/assert.js                                      243 B     ( 0.0%) █
 239 compiler/utils/ast.js                                         16.5 KB   ( 1.0%) █
-240 compiler/utils/builders.js                                    16.2 KB   ( 1.0%) █
+240 compiler/utils/builders.js                                    16.2 KB   ( 0.9%) █
 241 compiler/utils/compile_diagnostic.js                          2.2 KB    ( 0.1%) █
 242 compiler/utils/extract_svelte_ignore.js                       2.8 KB    ( 0.2%) █
 243 compiler/utils/mapped_code.js                                 13.3 KB   ( 0.8%) █
@@ -285,10 +285,10 @@ No custom ignore patterns found.
 272 internal/client/dev/validation.js                             391 B     ( 0.0%) █
 273 internal/client/dom/blocks/async.js                           1.5 KB    ( 0.1%) █
 274 internal/client/dom/blocks/await.js                           3.7 KB    ( 0.2%) █
-275 internal/client/dom/blocks/boundary.js                        10.9 KB   ( 0.6%) █
+275 internal/client/dom/blocks/boundary.js                        10.8 KB   ( 0.6%) █
 276 internal/client/dom/blocks/branches.js                        4.7 KB    ( 0.3%) █
 277 internal/client/dom/blocks/css-props.js                       672 B     ( 0.0%) █
-278 internal/client/dom/blocks/each.js                            14.3 KB   ( 0.8%) █
+278 internal/client/dom/blocks/each.js                            14.7 KB   ( 0.9%) █
 279 internal/client/dom/blocks/html.js                            3.4 KB    ( 0.2%) █
 280 internal/client/dom/blocks/if.js                              1.7 KB    ( 0.1%) █
 281 internal/client/dom/blocks/key.js                             812 B     ( 0.0%) █
