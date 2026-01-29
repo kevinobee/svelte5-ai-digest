@@ -1,18 +1,18 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.49.0/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.49.0/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/documentation/docs
-🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.48.5/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.49.0/documentation/docs
+🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.49.0/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 101
 📎 Files included in output: 101
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~110435 tokens, GPT-4: ~99922 tokens
+🔢 Estimated token counts - Claude models: ~110635 tokens, GPT-4: ~100103 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
-2   01-introduction/02-getting-started.md           1.7 KB    ( 0.5%) █
+2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
 3   01-introduction/03-svelte-files.md              2.3 KB    ( 0.6%) █
 4   01-introduction/04-svelte-js-files.md           524 B     ( 0.1%) █
 5   01-introduction/index.md                        67 B      ( 0.0%) █
@@ -66,14 +66,14 @@ No custom ignore patterns found.
 53  06-runtime/index.md                             57 B      ( 0.0%) █
 54  07-misc/02-testing.md                           10.5 KB   ( 2.9%) █
 55  07-misc/03-typescript.md                        9.7 KB    ( 2.7%) █
-56  07-misc/04-custom-elements.md                   8.1 KB    ( 2.2%) █
+56  07-misc/04-custom-elements.md                   8.4 KB    ( 2.3%) █
 57  07-misc/06-v4-migration-guide.md                11.9 KB   ( 3.2%) ██
 58  07-misc/07-v5-migration-guide.md                42.1 KB   (11.5%) ██████
-59  07-misc/99-faq.md                               9.3 KB    ( 2.5%) █
+59  07-misc/99-faq.md                               9.3 KB    ( 2.6%) █
 60  07-misc/index.md                                51 B      ( 0.0%) █
 61  98-reference/.generated/client-errors.md        8.8 KB    ( 2.4%) █
 62  98-reference/.generated/client-warnings.md      13.0 KB   ( 3.5%) ██
-63  98-reference/.generated/compile-errors.md       23.6 KB   ( 6.5%) ███
+63  98-reference/.generated/compile-errors.md       23.8 KB   ( 6.5%) ███
 64  98-reference/.generated/compile-warnings.md     29.6 KB   ( 8.1%) ████
 65  98-reference/.generated/server-errors.md        2.2 KB    ( 0.6%) █
 66  98-reference/.generated/server-warnings.md      1017 B    ( 0.3%) █
