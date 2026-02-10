@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/documentation/docs
-🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/documentation/docs
+🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 101
 📎 Files included in output: 101
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~110853 tokens, GPT-4: ~100300 tokens
+🔢 Estimated token counts - Claude models: ~110998 tokens, GPT-4: ~100431 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -20,26 +20,26 @@ No custom ignore patterns found.
 7   02-runes/02-$state.md                           9.7 KB    ( 2.6%) █
 8   02-runes/03-$derived.md                         4.9 KB    ( 1.3%) █
 9   02-runes/04-$effect.md                          14.2 KB   ( 3.9%) ██
-10  02-runes/05-$props.md                           7.2 KB    ( 2.0%) █
+10  02-runes/05-$props.md                           7.3 KB    ( 2.0%) █
 11  02-runes/06-$bindable.md                        2.1 KB    ( 0.6%) █
 12  02-runes/07-$inspect.md                         2.6 KB    ( 0.7%) █
 13  02-runes/08-$host.md                            1.3 KB    ( 0.3%) █
 14  02-runes/index.md                               53 B      ( 0.0%) █
 15  03-template-syntax/01-basic-markup.md           7.5 KB    ( 2.0%) █
-16  03-template-syntax/02-if.md                     793 B     ( 0.2%) █
+16  03-template-syntax/02-if.md                     811 B     ( 0.2%) █
 17  03-template-syntax/03-each.md                   3.3 KB    ( 0.9%) █
-18  03-template-syntax/04-key.md                    522 B     ( 0.1%) █
-19  03-template-syntax/05-await.md                  2.0 KB    ( 0.6%) █
+18  03-template-syntax/04-key.md                    541 B     ( 0.1%) █
+19  03-template-syntax/05-await.md                  2.1 KB    ( 0.6%) █
 20  03-template-syntax/06-snippet.md                10.2 KB   ( 2.8%) █
 21  03-template-syntax/07-@render.md                849 B     ( 0.2%) █
 22  03-template-syntax/08-@html.md                  1.2 KB    ( 0.3%) █
-23  03-template-syntax/09-@attach.md                7.8 KB    ( 2.1%) █
+23  03-template-syntax/09-@attach.md                8.0 KB    ( 2.2%) █
 24  03-template-syntax/10-@const.md                 414 B     ( 0.1%) █
 25  03-template-syntax/11-@debug.md                 853 B     ( 0.2%) █
 26  03-template-syntax/12-bind.md                   15.1 KB   ( 4.1%) ██
 27  03-template-syntax/13-use.md                    1.9 KB    ( 0.5%) █
 28  03-template-syntax/14-transition.md             5.0 KB    ( 1.4%) █
-29  03-template-syntax/15-in-and-out.md             718 B     ( 0.2%) █
+29  03-template-syntax/15-in-and-out.md             736 B     ( 0.2%) █
 30  03-template-syntax/16-animate.md                3.7 KB    ( 1.0%) █
 31  03-template-syntax/17-style.md                  1.0 KB    ( 0.3%) █
 32  03-template-syntax/18-class.md                  3.1 KB    ( 0.8%) █
@@ -64,7 +64,7 @@ No custom ignore patterns found.
 51  06-runtime/04-imperative-component-api.md       2.7 KB    ( 0.7%) █
 52  06-runtime/05-hydratable.md                     4.5 KB    ( 1.2%) █
 53  06-runtime/index.md                             57 B      ( 0.0%) █
-54  07-misc/02-testing.md                           10.5 KB   ( 2.9%) █
+54  07-misc/02-testing.md                           10.5 KB   ( 2.8%) █
 55  07-misc/03-typescript.md                        9.7 KB    ( 2.6%) █
 56  07-misc/04-custom-elements.md                   8.4 KB    ( 2.3%) █
 57  07-misc/06-v4-migration-guide.md                11.9 KB   ( 3.2%) ██
@@ -82,7 +82,7 @@ No custom ignore patterns found.
 69  98-reference/20-svelte.md                       79 B      ( 0.0%) █
 70  98-reference/21-svelte-action.md                201 B     ( 0.1%) █
 71  98-reference/21-svelte-animate.md               103 B     ( 0.0%) █
-72  98-reference/21-svelte-attachments.md           115 B     ( 0.0%) █
+72  98-reference/21-svelte-attachments.md           133 B     ( 0.0%) █
 73  98-reference/21-svelte-compiler.md              106 B     ( 0.0%) █
 74  98-reference/21-svelte-easing.md                100 B     ( 0.0%) █
 75  98-reference/21-svelte-events.md                100 B     ( 0.0%) █
@@ -92,7 +92,7 @@ No custom ignore patterns found.
 79  98-reference/21-svelte-reactivity.md            551 B     ( 0.1%) █
 80  98-reference/21-svelte-server.md                100 B     ( 0.0%) █
 81  98-reference/21-svelte-store.md                 97 B      ( 0.0%) █
-82  98-reference/21-svelte-transition.md            112 B     ( 0.0%) █
+82  98-reference/21-svelte-transition.md            130 B     ( 0.0%) █
 83  98-reference/30-compiler-errors.md              120 B     ( 0.0%) █
 84  98-reference/30-compiler-warnings.md            795 B     ( 0.2%) █
 85  98-reference/30-runtime-errors.md               242 B     ( 0.1%) █

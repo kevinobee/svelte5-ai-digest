@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.0/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.1/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~501193 tokens, GPT-4: ~453479 tokens
+🔢 Estimated token counts - Claude models: ~501230 tokens, GPT-4: ~453513 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.5 KB   ( 0.8%) █
@@ -206,9 +206,9 @@ No custom ignore patterns found.
 193 compiler/phases/3-transform/server/visitors/Program.js        676 B     ( 0.0%) █
 194 compiler/phases/3-transform/server/visitors/PropertyDefinition.js1.0 KB    ( 0.1%) █
 195 compiler/phases/3-transform/server/visitors/RegularElement.js 5.9 KB    ( 0.3%) █
-196 compiler/phases/3-transform/server/visitors/RenderTag.js      1.2 KB    ( 0.1%) █
+196 compiler/phases/3-transform/server/visitors/RenderTag.js      1.4 KB    ( 0.1%) █
 197 compiler/phases/3-transform/server/visitors/shared/component.js9.4 KB    ( 0.6%) █
-198 compiler/phases/3-transform/server/visitors/shared/element.js 15.7 KB   ( 0.9%) █
+198 compiler/phases/3-transform/server/visitors/shared/element.js 15.6 KB   ( 0.9%) █
 199 compiler/phases/3-transform/server/visitors/shared/utils.js   9.1 KB    ( 0.5%) █
 200 compiler/phases/3-transform/server/visitors/SlotElement.js    1.6 KB    ( 0.1%) █
 201 compiler/phases/3-transform/server/visitors/SnippetBlock.js   977 B     ( 0.1%) █
@@ -272,7 +272,7 @@ No custom ignore patterns found.
 259 internal/client/constants.js                                  2.8 KB    ( 0.2%) █
 260 internal/client/context.js                                    6.2 KB    ( 0.4%) █
 261 internal/client/dev/assign.js                                 1.6 KB    ( 0.1%) █
-262 internal/client/dev/console-log.js                            777 B     ( 0.0%) █
+262 internal/client/dev/console-log.js                            884 B     ( 0.1%) █
 263 internal/client/dev/css.js                                    552 B     ( 0.0%) █
 264 internal/client/dev/debug.js                                  11.8 KB   ( 0.7%) █
 265 internal/client/dev/elements.js                               1.7 KB    ( 0.1%) █
