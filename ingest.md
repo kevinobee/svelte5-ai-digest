@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.3/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.3/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.51.0/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.51.0/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.3/documentation/docs
-🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.50.3/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.51.0/documentation/docs
+🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.51.0/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 101
 📎 Files included in output: 101
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~110998 tokens, GPT-4: ~100431 tokens
+🔢 Estimated token counts - Claude models: ~111029 tokens, GPT-4: ~100459 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -27,7 +27,7 @@ No custom ignore patterns found.
 14  02-runes/index.md                               53 B      ( 0.0%) █
 15  03-template-syntax/01-basic-markup.md           7.5 KB    ( 2.0%) █
 16  03-template-syntax/02-if.md                     811 B     ( 0.2%) █
-17  03-template-syntax/03-each.md                   3.3 KB    ( 0.9%) █
+17  03-template-syntax/03-each.md                   3.4 KB    ( 0.9%) █
 18  03-template-syntax/04-key.md                    541 B     ( 0.1%) █
 19  03-template-syntax/05-await.md                  2.1 KB    ( 0.6%) █
 20  03-template-syntax/06-snippet.md                10.2 KB   ( 2.8%) █
