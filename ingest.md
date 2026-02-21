@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/documentation/docs
-🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/documentation/docs
+🔍 Found 101 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 101
 📎 Files included in output: 101
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~111754 tokens, GPT-4: ~101115 tokens
+🔢 Estimated token counts - Claude models: ~111756 tokens, GPT-4: ~101117 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -52,7 +52,7 @@ No custom ignore patterns found.
 39  04-styling/index.md                             57 B      ( 0.0%) █
 40  05-special-elements/01-svelte-boundary.md       5.8 KB    ( 1.6%) █
 41  05-special-elements/02-svelte-window.md         1.3 KB    ( 0.3%) █
-42  05-special-elements/03-svelte-document.md       792 B     ( 0.2%) █
+42  05-special-elements/03-svelte-document.md       810 B     ( 0.2%) █
 43  05-special-elements/04-svelte-body.md           643 B     ( 0.2%) █
 44  05-special-elements/05-svelte-head.md           634 B     ( 0.2%) █
 45  05-special-elements/06-svelte-element.md        1.2 KB    ( 0.3%) █

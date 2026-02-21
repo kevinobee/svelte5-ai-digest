@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.0/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~508308 tokens, GPT-4: ~459917 tokens
+🔢 Estimated token counts - Claude models: ~508368 tokens, GPT-4: ~459971 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.5 KB   ( 0.8%) █
@@ -230,7 +230,7 @@ No custom ignore patterns found.
 217 compiler/phases/css.js                                        464 B     ( 0.0%) █
 218 compiler/phases/nodes.js                                      5.9 KB    ( 0.3%) █
 219 compiler/phases/patterns.js                                   1.4 KB    ( 0.1%) █
-220 compiler/phases/scope.js                                      32.3 KB   ( 1.9%) █
+220 compiler/phases/scope.js                                      32.5 KB   ( 1.9%) █
 221 compiler/phases/types.d.ts                                    3.8 KB    ( 0.2%) █
 222 compiler/preprocess/decode_sourcemap.js                       2.9 KB    ( 0.2%) █
 223 compiler/preprocess/index.js                                  10.2 KB   ( 0.6%) █
@@ -337,7 +337,7 @@ No custom ignore patterns found.
 324 internal/client/proxy.js                                      9.6 KB    ( 0.6%) █
 325 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 326 internal/client/reactivity/async.js                           7.2 KB    ( 0.4%) █
-327 internal/client/reactivity/batch.js                           23.4 KB   ( 1.4%) █
+327 internal/client/reactivity/batch.js                           23.4 KB   ( 1.3%) █
 328 internal/client/reactivity/deriveds.js                        9.6 KB    ( 0.6%) █
 329 internal/client/reactivity/effects.js                         15.7 KB   ( 0.9%) █
 330 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
