@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.2/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.2/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.1/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.2/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.2/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~508368 tokens, GPT-4: ~459971 tokens
+🔢 Estimated token counts - Claude models: ~508694 tokens, GPT-4: ~460266 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.5 KB   ( 0.8%) █
@@ -220,7 +220,7 @@ No custom ignore patterns found.
 207 compiler/phases/3-transform/server/visitors/SvelteHead.js     695 B     ( 0.0%) █
 208 compiler/phases/3-transform/server/visitors/SvelteSelf.js     466 B     ( 0.0%) █
 209 compiler/phases/3-transform/server/visitors/TitleElement.js   776 B     ( 0.0%) █
-210 compiler/phases/3-transform/server/visitors/UpdateExpression.js721 B     ( 0.0%) █
+210 compiler/phases/3-transform/server/visitors/UpdateExpression.js918 B     ( 0.1%) █
 211 compiler/phases/3-transform/server/visitors/VariableDeclaration.js7.0 KB    ( 0.4%) █
 212 compiler/phases/3-transform/shared/assignments.js             2.7 KB    ( 0.2%) █
 213 compiler/phases/3-transform/shared/transform-async.js         3.3 KB    ( 0.2%) █
@@ -363,13 +363,13 @@ No custom ignore patterns found.
 350 internal/server/blocks/html.js                                298 B     ( 0.0%) █
 351 internal/server/blocks/snippet.js                             702 B     ( 0.0%) █
 352 internal/server/context.js                                    2.5 KB    ( 0.1%) █
-353 internal/server/crypto.js                                     1.1 KB    ( 0.1%) █
+353 internal/server/crypto.js                                     1.2 KB    ( 0.1%) █
 354 internal/server/crypto.test.ts                                637 B     ( 0.0%) █
 355 internal/server/dev.js                                        3.0 KB    ( 0.2%) █
 356 internal/server/errors.js                                     3.8 KB    ( 0.2%) █
 357 internal/server/hydratable.js                                 3.5 KB    ( 0.2%) █
 358 internal/server/hydration.js                                  348 B     ( 0.0%) █
-359 internal/server/index.js                                      12.9 KB   ( 0.7%) █
+359 internal/server/index.js                                      13.6 KB   ( 0.8%) █
 360 internal/server/render-context.js                             2.2 KB    ( 0.1%) █
 361 internal/server/renderer.js                                   22.4 KB   ( 1.3%) █
 362 internal/server/renderer.test.ts                              10.0 KB   ( 0.6%) █
@@ -385,7 +385,7 @@ No custom ignore patterns found.
 372 internal/shared/validate.js                                   1.0 KB    ( 0.1%) █
 373 internal/shared/warnings.js                                   1.3 KB    ( 0.1%) █
 374 internal/types.d.ts                                           129 B     ( 0.0%) █
-375 legacy/legacy-client.js                                       7.8 KB    ( 0.5%) █
+375 legacy/legacy-client.js                                       7.8 KB    ( 0.4%) █
 376 legacy/legacy-server.js                                       3.3 KB    ( 0.2%) █
 377 motion/index.js                                               897 B     ( 0.1%) █
 378 motion/private.d.ts                                           1017 B    ( 0.1%) █
