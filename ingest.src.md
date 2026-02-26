@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.3/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.3/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.5/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.5/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.3/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.3/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.5/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.5/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~508697 tokens, GPT-4: ~460269 tokens
+🔢 Estimated token counts - Claude models: ~509770 tokens, GPT-4: ~461240 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.5 KB   ( 0.8%) █
@@ -20,7 +20,7 @@ No custom ignore patterns found.
 7   compiler/errors.js                                            64.6 KB   ( 3.7%) ██
 8   compiler/index.js                                             6.2 KB    ( 0.4%) █
 9   compiler/legacy.js                                            14.1 KB   ( 0.8%) █
-10  compiler/migrate/index.js                                     56.3 KB   ( 3.3%) ██
+10  compiler/migrate/index.js                                     56.3 KB   ( 3.2%) ██
 11  compiler/phases/1-parse/acorn.js                              5.2 KB    ( 0.3%) █
 12  compiler/phases/1-parse/index.js                              7.0 KB    ( 0.4%) █
 13  compiler/phases/1-parse/read/context.js                       3.2 KB    ( 0.2%) █
@@ -84,7 +84,7 @@ No custom ignore patterns found.
 71  compiler/phases/2-analyze/visitors/RegularElement.js          6.7 KB    ( 0.4%) █
 72  compiler/phases/2-analyze/visitors/RenderTag.js               2.0 KB    ( 0.1%) █
 73  compiler/phases/2-analyze/visitors/shared/a11y/constants.js   8.2 KB    ( 0.5%) █
-74  compiler/phases/2-analyze/visitors/shared/a11y/index.js       25.2 KB   ( 1.5%) █
+74  compiler/phases/2-analyze/visitors/shared/a11y/index.js       25.2 KB   ( 1.4%) █
 75  compiler/phases/2-analyze/visitors/shared/attribute.js        3.0 KB    ( 0.2%) █
 76  compiler/phases/2-analyze/visitors/shared/component.js        5.0 KB    ( 0.3%) █
 77  compiler/phases/2-analyze/visitors/shared/element.js          4.3 KB    ( 0.2%) █
@@ -155,7 +155,7 @@ No custom ignore patterns found.
 142 compiler/phases/3-transform/client/visitors/MemberExpression.js690 B     ( 0.0%) █
 143 compiler/phases/3-transform/client/visitors/OnDirective.js    1.0 KB    ( 0.1%) █
 144 compiler/phases/3-transform/client/visitors/Program.js        3.8 KB    ( 0.2%) █
-145 compiler/phases/3-transform/client/visitors/RegularElement.js 21.7 KB   ( 1.3%) █
+145 compiler/phases/3-transform/client/visitors/RegularElement.js 21.7 KB   ( 1.2%) █
 146 compiler/phases/3-transform/client/visitors/RenderTag.js      2.3 KB    ( 0.1%) █
 147 compiler/phases/3-transform/client/visitors/shared/component.js14.4 KB   ( 0.8%) █
 148 compiler/phases/3-transform/client/visitors/shared/declarations.js1.4 KB    ( 0.1%) █
@@ -208,7 +208,7 @@ No custom ignore patterns found.
 195 compiler/phases/3-transform/server/visitors/RegularElement.js 5.9 KB    ( 0.3%) █
 196 compiler/phases/3-transform/server/visitors/RenderTag.js      1.4 KB    ( 0.1%) █
 197 compiler/phases/3-transform/server/visitors/shared/component.js9.6 KB    ( 0.6%) █
-198 compiler/phases/3-transform/server/visitors/shared/element.js 15.6 KB   ( 0.9%) █
+198 compiler/phases/3-transform/server/visitors/shared/element.js 15.7 KB   ( 0.9%) █
 199 compiler/phases/3-transform/server/visitors/shared/utils.js   9.3 KB    ( 0.5%) █
 200 compiler/phases/3-transform/server/visitors/SlotElement.js    1.6 KB    ( 0.1%) █
 201 compiler/phases/3-transform/server/visitors/SnippetBlock.js   977 B     ( 0.1%) █
@@ -247,7 +247,7 @@ No custom ignore patterns found.
 234 compiler/types/index.d.ts                                     10.1 KB   ( 0.6%) █
 235 compiler/types/legacy-interfaces.d.ts                         278 B     ( 0.0%) █
 236 compiler/types/legacy-nodes.d.ts                              5.6 KB    ( 0.3%) █
-237 compiler/types/template.d.ts                                  14.7 KB   ( 0.9%) █
+237 compiler/types/template.d.ts                                  14.7 KB   ( 0.8%) █
 238 compiler/utils/assert.js                                      243 B     ( 0.0%) █
 239 compiler/utils/ast.js                                         16.5 KB   ( 1.0%) █
 240 compiler/utils/builders.js                                    16.2 KB   ( 0.9%) █
@@ -290,7 +290,7 @@ No custom ignore patterns found.
 277 internal/client/dom/blocks/css-props.js                       672 B     ( 0.0%) █
 278 internal/client/dom/blocks/each.js                            15.6 KB   ( 0.9%) █
 279 internal/client/dom/blocks/html.js                            3.8 KB    ( 0.2%) █
-280 internal/client/dom/blocks/if.js                              1.9 KB    ( 0.1%) █
+280 internal/client/dom/blocks/if.js                              2.0 KB    ( 0.1%) █
 281 internal/client/dom/blocks/key.js                             974 B     ( 0.1%) █
 282 internal/client/dom/blocks/slot.js                            1.1 KB    ( 0.1%) █
 283 internal/client/dom/blocks/snippet.js                         3.0 KB    ( 0.2%) █
@@ -326,7 +326,7 @@ No custom ignore patterns found.
 313 internal/client/dom/operations.js                             7.3 KB    ( 0.4%) █
 314 internal/client/dom/reconciler.js                             787 B     ( 0.0%) █
 315 internal/client/dom/task.js                                   1.4 KB    ( 0.1%) █
-316 internal/client/dom/template.js                               9.5 KB    ( 0.6%) █
+316 internal/client/dom/template.js                               9.5 KB    ( 0.5%) █
 317 internal/client/dom/types.d.ts                                170 B     ( 0.0%) █
 318 internal/client/error-handling.js                             2.9 KB    ( 0.2%) █
 319 internal/client/errors.js                                     15.5 KB   ( 0.9%) █
@@ -336,8 +336,8 @@ No custom ignore patterns found.
 323 internal/client/loop.js                                       991 B     ( 0.1%) █
 324 internal/client/proxy.js                                      9.6 KB    ( 0.6%) █
 325 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
-326 internal/client/reactivity/async.js                           7.2 KB    ( 0.4%) █
-327 internal/client/reactivity/batch.js                           23.4 KB   ( 1.3%) █
+326 internal/client/reactivity/async.js                           7.3 KB    ( 0.4%) █
+327 internal/client/reactivity/batch.js                           23.5 KB   ( 1.4%) █
 328 internal/client/reactivity/deriveds.js                        9.6 KB    ( 0.6%) █
 329 internal/client/reactivity/effects.js                         15.7 KB   ( 0.9%) █
 330 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
@@ -371,8 +371,8 @@ No custom ignore patterns found.
 358 internal/server/hydration.js                                  348 B     ( 0.0%) █
 359 internal/server/index.js                                      13.6 KB   ( 0.8%) █
 360 internal/server/render-context.js                             2.2 KB    ( 0.1%) █
-361 internal/server/renderer.js                                   22.4 KB   ( 1.3%) █
-362 internal/server/renderer.test.ts                              10.0 KB   ( 0.6%) █
+361 internal/server/renderer.js                                   22.9 KB   ( 1.3%) █
+362 internal/server/renderer.test.ts                              13.0 KB   ( 0.8%) █
 363 internal/server/types.d.ts                                    1.2 KB    ( 0.1%) █
 364 internal/server/warnings.js                                   843 B     ( 0.0%) █
 365 internal/shared/attributes.js                                 4.8 KB    ( 0.3%) █
