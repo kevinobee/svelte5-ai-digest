@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.7/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.7/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.9/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.9/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.7/documentation/docs
-🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.7/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.9/documentation/docs
+🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.9/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 102
 📎 Files included in output: 102
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~113918 tokens, GPT-4: ~103073 tokens
+🔢 Estimated token counts - Claude models: ~113921 tokens, GPT-4: ~103076 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -64,7 +64,7 @@ No custom ignore patterns found.
 51  06-runtime/04-imperative-component-api.md       2.7 KB    ( 0.7%) █
 52  06-runtime/05-hydratable.md                     4.5 KB    ( 1.2%) █
 53  06-runtime/index.md                             57 B      ( 0.0%) █
-54  07-misc/01-best-practices.md                    7.2 KB    ( 1.9%) █
+54  07-misc/01-best-practices.md                    7.3 KB    ( 1.9%) █
 55  07-misc/02-testing.md                           10.5 KB   ( 2.8%) █
 56  07-misc/03-typescript.md                        9.5 KB    ( 2.5%) █
 57  07-misc/04-custom-elements.md                   8.4 KB    ( 2.2%) █
