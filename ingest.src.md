@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.10/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.10/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.10/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.10/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~512889 tokens, GPT-4: ~464062 tokens
+🔢 Estimated token counts - Claude models: ~512947 tokens, GPT-4: ~464114 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.5 KB   ( 0.8%) █
@@ -271,7 +271,7 @@ No custom ignore patterns found.
 258 index.d.ts                                                    12.4 KB   ( 0.7%) █
 259 internal/client/constants.js                                  3.1 KB    ( 0.2%) █
 260 internal/client/context.js                                    6.2 KB    ( 0.4%) █
-261 internal/client/dev/assign.js                                 1.6 KB    ( 0.1%) █
+261 internal/client/dev/assign.js                                 1.7 KB    ( 0.1%) █
 262 internal/client/dev/console-log.js                            884 B     ( 0.0%) █
 263 internal/client/dev/css.js                                    552 B     ( 0.0%) █
 264 internal/client/dev/debug.js                                  12.3 KB   ( 0.7%) █
@@ -337,7 +337,7 @@ No custom ignore patterns found.
 324 internal/client/proxy.js                                      9.6 KB    ( 0.5%) █
 325 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 326 internal/client/reactivity/async.js                           7.7 KB    ( 0.4%) █
-327 internal/client/reactivity/batch.js                           24.1 KB   ( 1.4%) █
+327 internal/client/reactivity/batch.js                           24.2 KB   ( 1.4%) █
 328 internal/client/reactivity/deriveds.js                        10.4 KB   ( 0.6%) █
 329 internal/client/reactivity/effects.js                         16.4 KB   ( 0.9%) █
 330 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
@@ -416,7 +416,7 @@ No custom ignore patterns found.
 403 store/private.d.ts                                            549 B     ( 0.0%) █
 404 store/public.d.ts                                             1.5 KB    ( 0.1%) █
 405 store/shared/index.js                                         4.8 KB    ( 0.3%) █
-406 store/utils.js                                                899 B     ( 0.1%) █
+406 store/utils.js                                                910 B     ( 0.1%) █
 407 transition/index.js                                           9.5 KB    ( 0.5%) █
 408 transition/public.d.ts                                        1.1 KB    ( 0.1%) █
 409 utils.js                                                      9.1 KB    ( 0.5%) █
