@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.12/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.12/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.11/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.12/packages/svelte/src
+🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.53.12/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 410
 📎 Files included in output: 410
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~512947 tokens, GPT-4: ~464114 tokens
+🔢 Estimated token counts - Claude models: ~513339 tokens, GPT-4: ~464469 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.5 KB   ( 0.8%) █
@@ -124,7 +124,7 @@ No custom ignore patterns found.
 111 compiler/phases/3-transform/client/utils.js                   4.3 KB    ( 0.2%) █
 112 compiler/phases/3-transform/client/visitors/AnimateDirective.js1013 B    ( 0.1%) █
 113 compiler/phases/3-transform/client/visitors/ArrowFunctionExpression.js429 B     ( 0.0%) █
-114 compiler/phases/3-transform/client/visitors/AssignmentExpression.js6.3 KB    ( 0.4%) █
+114 compiler/phases/3-transform/client/visitors/AssignmentExpression.js6.4 KB    ( 0.4%) █
 115 compiler/phases/3-transform/client/visitors/AttachTag.js      782 B     ( 0.0%) █
 116 compiler/phases/3-transform/client/visitors/Attribute.js      476 B     ( 0.0%) █
 117 compiler/phases/3-transform/client/visitors/AwaitBlock.js     3.4 KB    ( 0.2%) █
@@ -271,7 +271,7 @@ No custom ignore patterns found.
 258 index.d.ts                                                    12.4 KB   ( 0.7%) █
 259 internal/client/constants.js                                  3.1 KB    ( 0.2%) █
 260 internal/client/context.js                                    6.2 KB    ( 0.4%) █
-261 internal/client/dev/assign.js                                 1.7 KB    ( 0.1%) █
+261 internal/client/dev/assign.js                                 1.5 KB    ( 0.1%) █
 262 internal/client/dev/console-log.js                            884 B     ( 0.0%) █
 263 internal/client/dev/css.js                                    552 B     ( 0.0%) █
 264 internal/client/dev/debug.js                                  12.3 KB   ( 0.7%) █
@@ -285,7 +285,7 @@ No custom ignore patterns found.
 272 internal/client/dev/validation.js                             391 B     ( 0.0%) █
 273 internal/client/dom/blocks/async.js                           1.8 KB    ( 0.1%) █
 274 internal/client/dom/blocks/await.js                           3.9 KB    ( 0.2%) █
-275 internal/client/dom/blocks/boundary.js                        12.1 KB   ( 0.7%) █
+275 internal/client/dom/blocks/boundary.js                        11.8 KB   ( 0.7%) █
 276 internal/client/dom/blocks/branches.js                        4.6 KB    ( 0.3%) █
 277 internal/client/dom/blocks/css-props.js                       672 B     ( 0.0%) █
 278 internal/client/dom/blocks/each.js                            16.4 KB   ( 0.9%) █
@@ -337,12 +337,12 @@ No custom ignore patterns found.
 324 internal/client/proxy.js                                      9.6 KB    ( 0.5%) █
 325 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
 326 internal/client/reactivity/async.js                           7.7 KB    ( 0.4%) █
-327 internal/client/reactivity/batch.js                           24.2 KB   ( 1.4%) █
-328 internal/client/reactivity/deriveds.js                        10.4 KB   ( 0.6%) █
+327 internal/client/reactivity/batch.js                           24.6 KB   ( 1.4%) █
+328 internal/client/reactivity/deriveds.js                        10.5 KB   ( 0.6%) █
 329 internal/client/reactivity/effects.js                         16.4 KB   ( 0.9%) █
 330 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
 331 internal/client/reactivity/props.js                           11.1 KB   ( 0.6%) █
-332 internal/client/reactivity/sources.js                         8.6 KB    ( 0.5%) █
+332 internal/client/reactivity/sources.js                         8.7 KB    ( 0.5%) █
 333 internal/client/reactivity/status.js                          764 B     ( 0.0%) █
 334 internal/client/reactivity/store.js                           5.9 KB    ( 0.3%) █
 335 internal/client/reactivity/types.d.ts                         3.3 KB    ( 0.2%) █
@@ -378,8 +378,8 @@ No custom ignore patterns found.
 365 internal/shared/attributes.js                                 4.8 KB    ( 0.3%) █
 366 internal/shared/clone.js                                      3.2 KB    ( 0.2%) █
 367 internal/shared/clone.test.ts                                 3.5 KB    ( 0.2%) █
-368 internal/shared/dev.js                                        1.2 KB    ( 0.1%) █
-369 internal/shared/errors.js                                     4.1 KB    ( 0.2%) █
+368 internal/shared/dev.js                                        1.5 KB    ( 0.1%) █
+369 internal/shared/errors.js                                     4.9 KB    ( 0.3%) █
 370 internal/shared/types.d.ts                                    311 B     ( 0.0%) █
 371 internal/shared/utils.js                                      3.5 KB    ( 0.2%) █
 372 internal/shared/validate.js                                   1.0 KB    ( 0.1%) █
