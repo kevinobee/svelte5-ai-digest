@@ -1,18 +1,18 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/packages/svelte/src
-🔍 Found 410 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src
+🔍 Found 412 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
-📚 Total files found: 410
-📎 Files included in output: 410
+📚 Total files found: 412
+📎 Files included in output: 412
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~516993 tokens, GPT-4: ~467775 tokens
+🔢 Estimated token counts - Claude models: ~519618 tokens, GPT-4: ~470150 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
-2   ambient.d.ts                                                  13.5 KB   ( 0.8%) █
+2   ambient.d.ts                                                  13.7 KB   ( 0.8%) █
 3   animate/index.js                                              2.3 KB    ( 0.1%) █
 4   animate/public.d.ts                                           422 B     ( 0.0%) █
 5   attachments/index.js                                          3.7 KB    ( 0.2%) █
@@ -27,18 +27,18 @@ No custom ignore patterns found.
 14  compiler/phases/1-parse/read/expression.js                    1.7 KB    ( 0.1%) █
 15  compiler/phases/1-parse/read/options.js                       6.6 KB    ( 0.4%) █
 16  compiler/phases/1-parse/read/script.js                        2.6 KB    ( 0.1%) █
-17  compiler/phases/1-parse/read/style.js                         12.9 KB   ( 0.7%) █
+17  compiler/phases/1-parse/read/style.js                         13.2 KB   ( 0.7%) █
 18  compiler/phases/1-parse/remove_typescript_nodes.js            4.3 KB    ( 0.2%) █
 19  compiler/phases/1-parse/state/element.js                      23.5 KB   ( 1.3%) █
 20  compiler/phases/1-parse/state/fragment.js                     365 B     ( 0.0%) █
-21  compiler/phases/1-parse/state/tag.js                          15.0 KB   ( 0.9%) █
+21  compiler/phases/1-parse/state/tag.js                          15.0 KB   ( 0.8%) █
 22  compiler/phases/1-parse/state/text.js                         609 B     ( 0.0%) █
 23  compiler/phases/1-parse/utils/bracket.js                      5.2 KB    ( 0.3%) █
 24  compiler/phases/1-parse/utils/create.js                       294 B     ( 0.0%) █
 25  compiler/phases/1-parse/utils/entities.js                     38.2 KB   ( 2.2%) █
 26  compiler/phases/1-parse/utils/fuzzymatch.js                   6.2 KB    ( 0.4%) █
 27  compiler/phases/1-parse/utils/html.js                         3.4 KB    ( 0.2%) █
-28  compiler/phases/2-analyze/css/css-analyze.js                  9.7 KB    ( 0.6%) █
+28  compiler/phases/2-analyze/css/css-analyze.js                  9.7 KB    ( 0.5%) █
 29  compiler/phases/2-analyze/css/css-prune.js                    31.4 KB   ( 1.8%) █
 30  compiler/phases/2-analyze/css/css-warn.js                     1.2 KB    ( 0.1%) █
 31  compiler/phases/2-analyze/css/utils.js                        5.5 KB    ( 0.3%) █
@@ -138,7 +138,7 @@ No custom ignore patterns found.
 125 compiler/phases/3-transform/client/visitors/Comment.js        427 B     ( 0.0%) █
 126 compiler/phases/3-transform/client/visitors/Component.js      450 B     ( 0.0%) █
 127 compiler/phases/3-transform/client/visitors/ConstTag.js       3.6 KB    ( 0.2%) █
-128 compiler/phases/3-transform/client/visitors/DebugTag.js       796 B     ( 0.0%) █
+128 compiler/phases/3-transform/client/visitors/DebugTag.js       1.0 KB    ( 0.1%) █
 129 compiler/phases/3-transform/client/visitors/EachBlock.js      9.8 KB    ( 0.6%) █
 130 compiler/phases/3-transform/client/visitors/ExportNamedDeclaration.js513 B     ( 0.0%) █
 131 compiler/phases/3-transform/client/visitors/ExpressionStatement.js586 B     ( 0.0%) █
@@ -191,9 +191,9 @@ No custom ignore patterns found.
 178 compiler/phases/3-transform/server/visitors/AwaitExpression.js985 B     ( 0.1%) █
 179 compiler/phases/3-transform/server/visitors/CallExpression.js 2.0 KB    ( 0.1%) █
 180 compiler/phases/3-transform/server/visitors/ClassBody.js      2.2 KB    ( 0.1%) █
-181 compiler/phases/3-transform/server/visitors/Component.js      532 B     ( 0.0%) █
+181 compiler/phases/3-transform/server/visitors/Component.js      541 B     ( 0.0%) █
 182 compiler/phases/3-transform/server/visitors/ConstTag.js       1.5 KB    ( 0.1%) █
-183 compiler/phases/3-transform/server/visitors/DebugTag.js       578 B     ( 0.0%) █
+183 compiler/phases/3-transform/server/visitors/DebugTag.js       834 B     ( 0.0%) █
 184 compiler/phases/3-transform/server/visitors/EachBlock.js      2.0 KB    ( 0.1%) █
 185 compiler/phases/3-transform/server/visitors/ExpressionStatement.js597 B     ( 0.0%) █
 186 compiler/phases/3-transform/server/visitors/Fragment.js       1.4 KB    ( 0.1%) █
@@ -247,7 +247,7 @@ No custom ignore patterns found.
 234 compiler/types/index.d.ts                                     10.6 KB   ( 0.6%) █
 235 compiler/types/legacy-interfaces.d.ts                         278 B     ( 0.0%) █
 236 compiler/types/legacy-nodes.d.ts                              5.6 KB    ( 0.3%) █
-237 compiler/types/template.d.ts                                  15.0 KB   ( 0.9%) █
+237 compiler/types/template.d.ts                                  15.0 KB   ( 0.8%) █
 238 compiler/utils/assert.js                                      243 B     ( 0.0%) █
 239 compiler/utils/ast.js                                         16.5 KB   ( 0.9%) █
 240 compiler/utils/builders.js                                    16.1 KB   ( 0.9%) █
@@ -269,8 +269,8 @@ No custom ignore patterns found.
 256 index-client.js                                               7.8 KB    ( 0.4%) █
 257 index-server.js                                               1.3 KB    ( 0.1%) █
 258 index.d.ts                                                    12.4 KB   ( 0.7%) █
-259 internal/client/constants.js                                  3.4 KB    ( 0.2%) █
-260 internal/client/context.js                                    6.2 KB    ( 0.4%) █
+259 internal/client/constants.js                                  3.6 KB    ( 0.2%) █
+260 internal/client/context.js                                    6.2 KB    ( 0.3%) █
 261 internal/client/dev/assign.js                                 1.5 KB    ( 0.1%) █
 262 internal/client/dev/console-log.js                            884 B     ( 0.0%) █
 263 internal/client/dev/css.js                                    552 B     ( 0.0%) █
@@ -283,31 +283,31 @@ No custom ignore patterns found.
 270 internal/client/dev/ownership.js                              2.1 KB    ( 0.1%) █
 271 internal/client/dev/tracing.js                                3.7 KB    ( 0.2%) █
 272 internal/client/dev/validation.js                             391 B     ( 0.0%) █
-273 internal/client/dom/blocks/async.js                           1.8 KB    ( 0.1%) █
+273 internal/client/dom/blocks/async.js                           1.7 KB    ( 0.1%) █
 274 internal/client/dom/blocks/await.js                           3.9 KB    ( 0.2%) █
-275 internal/client/dom/blocks/boundary.js                        12.3 KB   ( 0.7%) █
+275 internal/client/dom/blocks/boundary.js                        12.2 KB   ( 0.7%) █
 276 internal/client/dom/blocks/branches.js                        4.9 KB    ( 0.3%) █
 277 internal/client/dom/blocks/css-props.js                       672 B     ( 0.0%) █
 278 internal/client/dom/blocks/each.js                            16.5 KB   ( 0.9%) █
-279 internal/client/dom/blocks/html.js                            4.4 KB    ( 0.3%) █
+279 internal/client/dom/blocks/html.js                            4.4 KB    ( 0.2%) █
 280 internal/client/dom/blocks/if.js                              1.7 KB    ( 0.1%) █
 281 internal/client/dom/blocks/key.js                             974 B     ( 0.1%) █
 282 internal/client/dom/blocks/slot.js                            1.1 KB    ( 0.1%) █
 283 internal/client/dom/blocks/snippet.js                         3.0 KB    ( 0.2%) █
 284 internal/client/dom/blocks/svelte-component.js                1.6 KB    ( 0.1%) █
 285 internal/client/dom/blocks/svelte-element.js                  4.0 KB    ( 0.2%) █
-286 internal/client/dom/blocks/svelte-head.js                     2.1 KB    ( 0.1%) █
+286 internal/client/dom/blocks/svelte-head.js                     1.9 KB    ( 0.1%) █
 287 internal/client/dom/css.js                                    1.1 KB    ( 0.1%) █
 288 internal/client/dom/elements/actions.js                       1.3 KB    ( 0.1%) █
 289 internal/client/dom/elements/attachments.js                   817 B     ( 0.0%) █
-290 internal/client/dom/elements/attributes.js                    19.0 KB   ( 1.1%) █
+290 internal/client/dom/elements/attributes.js                    19.3 KB   ( 1.1%) █
 291 internal/client/dom/elements/bindings/document.js             573 B     ( 0.0%) █
 292 internal/client/dom/elements/bindings/input.js                7.7 KB    ( 0.4%) █
 293 internal/client/dom/elements/bindings/media.js                5.9 KB    ( 0.3%) █
 294 internal/client/dom/elements/bindings/navigator.js            288 B     ( 0.0%) █
 295 internal/client/dom/elements/bindings/props.js                612 B     ( 0.0%) █
 296 internal/client/dom/elements/bindings/select.js               4.4 KB    ( 0.3%) █
-297 internal/client/dom/elements/bindings/shared.js               2.0 KB    ( 0.1%) █
+297 internal/client/dom/elements/bindings/shared.js               2.1 KB    ( 0.1%) █
 298 internal/client/dom/elements/bindings/size.js                 2.7 KB    ( 0.2%) █
 299 internal/client/dom/elements/bindings/this.js                 2.7 KB    ( 0.2%) █
 300 internal/client/dom/elements/bindings/universal.js            1.6 KB    ( 0.1%) █
@@ -316,7 +316,7 @@ No custom ignore patterns found.
 303 internal/client/dom/elements/custom-element.js                8.9 KB    ( 0.5%) █
 304 internal/client/dom/elements/customizable-select.js           2.7 KB    ( 0.2%) █
 305 internal/client/dom/elements/events.js                        10.4 KB   ( 0.6%) █
-306 internal/client/dom/elements/misc.js                          1.4 KB    ( 0.1%) █
+306 internal/client/dom/elements/misc.js                          1.5 KB    ( 0.1%) █
 307 internal/client/dom/elements/style.js                         1.5 KB    ( 0.1%) █
 308 internal/client/dom/elements/transitions.js                   12.6 KB   ( 0.7%) █
 309 internal/client/dom/hydration.js                              2.9 KB    ( 0.2%) █
@@ -336,18 +336,18 @@ No custom ignore patterns found.
 323 internal/client/loop.js                                       991 B     ( 0.1%) █
 324 internal/client/proxy.js                                      9.6 KB    ( 0.5%) █
 325 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
-326 internal/client/reactivity/async.js                           8.4 KB    ( 0.5%) █
-327 internal/client/reactivity/batch.js                           28.8 KB   ( 1.6%) █
-328 internal/client/reactivity/deriveds.js                        10.9 KB   ( 0.6%) █
-329 internal/client/reactivity/effects.js                         16.6 KB   ( 0.9%) █
+326 internal/client/reactivity/async.js                           8.6 KB    ( 0.5%) █
+327 internal/client/reactivity/batch.js                           32.2 KB   ( 1.8%) █
+328 internal/client/reactivity/deriveds.js                        11.3 KB   ( 0.6%) █
+329 internal/client/reactivity/effects.js                         16.5 KB   ( 0.9%) █
 330 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
-331 internal/client/reactivity/props.js                           11.1 KB   ( 0.6%) █
-332 internal/client/reactivity/sources.js                         8.8 KB    ( 0.5%) █
+331 internal/client/reactivity/props.js                           11.3 KB   ( 0.6%) █
+332 internal/client/reactivity/sources.js                         9.1 KB    ( 0.5%) █
 333 internal/client/reactivity/status.js                          764 B     ( 0.0%) █
 334 internal/client/reactivity/store.js                           5.9 KB    ( 0.3%) █
 335 internal/client/reactivity/types.d.ts                         3.3 KB    ( 0.2%) █
 336 internal/client/reactivity/utils.js                           1.1 KB    ( 0.1%) █
-337 internal/client/render.js                                     9.1 KB    ( 0.5%) █
+337 internal/client/render.js                                     9.2 KB    ( 0.5%) █
 338 internal/client/runtime.js                                    21.0 KB   ( 1.2%) █
 339 internal/client/timing.js                                     565 B     ( 0.0%) █
 340 internal/client/types.d.ts                                    5.7 KB    ( 0.3%) █
@@ -367,58 +367,60 @@ No custom ignore patterns found.
 354 internal/server/crypto.test.ts                                637 B     ( 0.0%) █
 355 internal/server/dev.js                                        3.0 KB    ( 0.2%) █
 356 internal/server/errors.js                                     4.1 KB    ( 0.2%) █
-357 internal/server/hydratable.js                                 3.5 KB    ( 0.2%) █
-358 internal/server/hydration.js                                  348 B     ( 0.0%) █
-359 internal/server/index.js                                      13.7 KB   ( 0.8%) █
-360 internal/server/render-context.js                             2.2 KB    ( 0.1%) █
-361 internal/server/renderer.js                                   23.1 KB   ( 1.3%) █
-362 internal/server/renderer.test.ts                              13.0 KB   ( 0.7%) █
-363 internal/server/types.d.ts                                    1.2 KB    ( 0.1%) █
-364 internal/server/warnings.js                                   843 B     ( 0.0%) █
-365 internal/shared/attributes.js                                 4.8 KB    ( 0.3%) █
-366 internal/shared/clone.js                                      3.2 KB    ( 0.2%) █
-367 internal/shared/clone.test.ts                                 3.5 KB    ( 0.2%) █
-368 internal/shared/dev.js                                        1.5 KB    ( 0.1%) █
-369 internal/shared/errors.js                                     4.9 KB    ( 0.3%) █
-370 internal/shared/types.d.ts                                    311 B     ( 0.0%) █
-371 internal/shared/utils.js                                      3.5 KB    ( 0.2%) █
-372 internal/shared/validate.js                                   1.0 KB    ( 0.1%) █
-373 internal/shared/warnings.js                                   1.3 KB    ( 0.1%) █
-374 internal/types.d.ts                                           129 B     ( 0.0%) █
-375 legacy/legacy-client.js                                       7.8 KB    ( 0.4%) █
-376 legacy/legacy-server.js                                       3.3 KB    ( 0.2%) █
-377 motion/index.js                                               897 B     ( 0.0%) █
-378 motion/private.d.ts                                           181 B     ( 0.0%) █
-379 motion/public.d.ts                                            3.6 KB    ( 0.2%) █
-380 motion/spring.js                                              9.4 KB    ( 0.5%) █
-381 motion/tweened.js                                             6.3 KB    ( 0.4%) █
-382 motion/utils.js                                               178 B     ( 0.0%) █
-383 reactivity/create-subscriber.js                               3.2 KB    ( 0.2%) █
-384 reactivity/date.js                                            2.9 KB    ( 0.2%) █
-385 reactivity/date.test.ts                                       12.2 KB   ( 0.7%) █
-386 reactivity/index-client.js                                    365 B     ( 0.0%) █
-387 reactivity/index-server.js                                    514 B     ( 0.0%) █
-388 reactivity/map.js                                             5.4 KB    ( 0.3%) █
-389 reactivity/map.test.ts                                        4.3 KB    ( 0.2%) █
-390 reactivity/media-query.js                                     1.9 KB    ( 0.1%) █
-391 reactivity/reactive-value.js                                  407 B     ( 0.0%) █
-392 reactivity/set.js                                             4.6 KB    ( 0.3%) █
-393 reactivity/set.test.ts                                        2.3 KB    ( 0.1%) █
-394 reactivity/url-search-params.js                               3.5 KB    ( 0.2%) █
-395 reactivity/url-search-params.test.ts                          3.4 KB    ( 0.2%) █
-396 reactivity/url.js                                             4.3 KB    ( 0.2%) █
-397 reactivity/url.test.ts                                        2.7 KB    ( 0.2%) █
-398 reactivity/window/index.js                                    4.1 KB    ( 0.2%) █
-399 server/index.d.ts                                             1.1 KB    ( 0.1%) █
-400 server/index.js                                               84 B      ( 0.0%) █
-401 store/index-client.js                                         3.1 KB    ( 0.2%) █
-402 store/index-server.js                                         1.8 KB    ( 0.1%) █
-403 store/private.d.ts                                            549 B     ( 0.0%) █
-404 store/public.d.ts                                             1.5 KB    ( 0.1%) █
-405 store/shared/index.js                                         4.8 KB    ( 0.3%) █
-406 store/utils.js                                                910 B     ( 0.1%) █
-407 transition/index.js                                           9.5 KB    ( 0.5%) █
-408 transition/public.d.ts                                        1.1 KB    ( 0.1%) █
-409 utils.js                                                      9.1 KB    ( 0.5%) █
-410 version.js                                                    207 B     ( 0.0%) █
+357 internal/server/hydratable.js                                 3.7 KB    ( 0.2%) █
+358 internal/server/hydratable.test.ts                            1.1 KB    ( 0.1%) █
+359 internal/server/hydration.js                                  348 B     ( 0.0%) █
+360 internal/server/index.js                                      13.7 KB   ( 0.8%) █
+361 internal/server/render-context.js                             2.2 KB    ( 0.1%) █
+362 internal/server/renderer.js                                   23.2 KB   ( 1.3%) █
+363 internal/server/renderer.test.ts                              13.0 KB   ( 0.7%) █
+364 internal/server/types.d.ts                                    1.2 KB    ( 0.1%) █
+365 internal/server/warnings.js                                   843 B     ( 0.0%) █
+366 internal/shared/attributes.js                                 4.8 KB    ( 0.3%) █
+367 internal/shared/clone.js                                      3.2 KB    ( 0.2%) █
+368 internal/shared/clone.test.ts                                 3.5 KB    ( 0.2%) █
+369 internal/shared/dev.js                                        1.5 KB    ( 0.1%) █
+370 internal/shared/errors.js                                     4.9 KB    ( 0.3%) █
+371 internal/shared/types.d.ts                                    311 B     ( 0.0%) █
+372 internal/shared/utils.js                                      3.5 KB    ( 0.2%) █
+373 internal/shared/validate.js                                   1.0 KB    ( 0.1%) █
+374 internal/shared/warnings.js                                   1.3 KB    ( 0.1%) █
+375 internal/types.d.ts                                           129 B     ( 0.0%) █
+376 legacy/legacy-client.js                                       7.8 KB    ( 0.4%) █
+377 legacy/legacy-server.js                                       3.3 KB    ( 0.2%) █
+378 motion/index.js                                               897 B     ( 0.0%) █
+379 motion/private.d.ts                                           181 B     ( 0.0%) █
+380 motion/public.d.ts                                            3.6 KB    ( 0.2%) █
+381 motion/spring.js                                              9.4 KB    ( 0.5%) █
+382 motion/tweened.js                                             6.3 KB    ( 0.4%) █
+383 motion/utils.js                                               178 B     ( 0.0%) █
+384 reactivity/create-subscriber.js                               3.2 KB    ( 0.2%) █
+385 reactivity/date.js                                            2.9 KB    ( 0.2%) █
+386 reactivity/date.test.ts                                       12.2 KB   ( 0.7%) █
+387 reactivity/index-client.js                                    365 B     ( 0.0%) █
+388 reactivity/index-server.js                                    514 B     ( 0.0%) █
+389 reactivity/map.js                                             5.4 KB    ( 0.3%) █
+390 reactivity/map.test.ts                                        4.3 KB    ( 0.2%) █
+391 reactivity/media-query.js                                     1.9 KB    ( 0.1%) █
+392 reactivity/reactive-value.js                                  407 B     ( 0.0%) █
+393 reactivity/set.js                                             4.6 KB    ( 0.3%) █
+394 reactivity/set.test.ts                                        2.3 KB    ( 0.1%) █
+395 reactivity/url-search-params.js                               3.5 KB    ( 0.2%) █
+396 reactivity/url-search-params.test.ts                          3.4 KB    ( 0.2%) █
+397 reactivity/url.js                                             4.3 KB    ( 0.2%) █
+398 reactivity/url.test.ts                                        2.7 KB    ( 0.2%) █
+399 reactivity/window/index.js                                    4.1 KB    ( 0.2%) █
+400 server/index.d.ts                                             1.1 KB    ( 0.1%) █
+401 server/index.js                                               84 B      ( 0.0%) █
+402 store/index-client.js                                         3.1 KB    ( 0.2%) █
+403 store/index-server.js                                         1.8 KB    ( 0.1%) █
+404 store/private.d.ts                                            549 B     ( 0.0%) █
+405 store/public.d.ts                                             1.5 KB    ( 0.1%) █
+406 store/shared/index.js                                         4.8 KB    ( 0.3%) █
+407 store/utils.js                                                910 B     ( 0.1%) █
+408 transition/index.js                                           9.5 KB    ( 0.5%) █
+409 transition/public.d.ts                                        1.1 KB    ( 0.1%) █
+410 utils.js                                                      9.1 KB    ( 0.5%) █
+411 utils.test.ts                                                 1.5 KB    ( 0.1%) █
+412 version.js                                                    207 B     ( 0.0%) █
 ✅ Done! Wrote code base to /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md

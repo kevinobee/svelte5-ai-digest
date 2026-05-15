@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/documentation/docs
-🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.5/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/documentation/docs
+🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 102
 📎 Files included in output: 102
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~109276 tokens, GPT-4: ~98873 tokens
+🔢 Estimated token counts - Claude models: ~109488 tokens, GPT-4: ~99065 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -17,7 +17,7 @@ No custom ignore patterns found.
 4   01-introduction/04-svelte-js-files.md           524 B     ( 0.1%) █
 5   01-introduction/index.md                        67 B      ( 0.0%) █
 6   02-runes/01-what-are-runes.md                   896 B     ( 0.2%) █
-7   02-runes/02-$state.md                           9.7 KB    ( 2.6%) █
+7   02-runes/02-$state.md                           9.8 KB    ( 2.6%) █
 8   02-runes/03-$derived.md                         5.4 KB    ( 1.4%) █
 9   02-runes/04-$effect.md                          12.9 KB   ( 3.4%) ██
 10  02-runes/05-$props.md                           6.2 KB    ( 1.7%) █
@@ -29,7 +29,7 @@ No custom ignore patterns found.
 16  03-template-syntax/02-if.md                     811 B     ( 0.2%) █
 17  03-template-syntax/03-each.md                   3.2 KB    ( 0.9%) █
 18  03-template-syntax/04-key.md                    541 B     ( 0.1%) █
-19  03-template-syntax/05-await.md                  2.1 KB    ( 0.6%) █
+19  03-template-syntax/05-await.md                  2.1 KB    ( 0.5%) █
 20  03-template-syntax/06-snippet.md                9.3 KB    ( 2.5%) █
 21  03-template-syntax/07-@render.md                849 B     ( 0.2%) █
 22  03-template-syntax/08-@html.md                  1.2 KB    ( 0.3%) █
@@ -65,9 +65,9 @@ No custom ignore patterns found.
 52  06-runtime/05-hydratable.md                     4.5 KB    ( 1.2%) █
 53  06-runtime/index.md                             57 B      ( 0.0%) █
 54  07-misc/01-best-practices.md                    7.3 KB    ( 1.9%) █
-55  07-misc/02-testing.md                           10.5 KB   ( 2.8%) █
+55  07-misc/02-testing.md                           11.0 KB   ( 2.9%) █
 56  07-misc/03-typescript.md                        8.9 KB    ( 2.4%) █
-57  07-misc/04-custom-elements.md                   8.4 KB    ( 2.3%) █
+57  07-misc/04-custom-elements.md                   8.4 KB    ( 2.2%) █
 58  07-misc/06-v4-migration-guide.md                11.9 KB   ( 3.2%) ██
 59  07-misc/07-v5-migration-guide.md                42.5 KB   (11.3%) ██████
 60  07-misc/99-faq.md                               9.3 KB    ( 2.5%) █
@@ -78,7 +78,7 @@ No custom ignore patterns found.
 65  98-reference/.generated/compile-warnings.md     29.6 KB   ( 7.9%) ████
 66  98-reference/.generated/server-errors.md        2.7 KB    ( 0.7%) █
 67  98-reference/.generated/server-warnings.md      1017 B    ( 0.3%) █
-68  98-reference/.generated/shared-errors.md        3.2 KB    ( 0.9%) █
+68  98-reference/.generated/shared-errors.md        3.2 KB    ( 0.8%) █
 69  98-reference/.generated/shared-warnings.md      1.0 KB    ( 0.3%) █
 70  98-reference/20-svelte.md                       79 B      ( 0.0%) █
 71  98-reference/21-svelte-action.md                201 B     ( 0.1%) █
