@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src
-🔍 Found 412 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.7/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/packages/svelte/src
+🔍 Found 412 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 412
 📎 Files included in output: 412
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~519618 tokens, GPT-4: ~470150 tokens
+🔢 Estimated token counts - Claude models: ~519770 tokens, GPT-4: ~470288 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.7 KB   ( 0.8%) █
@@ -17,7 +17,7 @@ No custom ignore patterns found.
 4   animate/public.d.ts                                           422 B     ( 0.0%) █
 5   attachments/index.js                                          3.7 KB    ( 0.2%) █
 6   attachments/public.d.ts                                       605 B     ( 0.0%) █
-7   compiler/errors.js                                            64.7 KB   ( 3.7%) ██
+7   compiler/errors.js                                            64.7 KB   ( 3.6%) ██
 8   compiler/index.js                                             6.4 KB    ( 0.4%) █
 9   compiler/legacy.js                                            14.1 KB   ( 0.8%) █
 10  compiler/migrate/index.js                                     56.5 KB   ( 3.2%) ██
@@ -238,7 +238,7 @@ No custom ignore patterns found.
 225 compiler/preprocess/private.d.ts                              524 B     ( 0.0%) █
 226 compiler/preprocess/public.d.ts                               2.1 KB    ( 0.1%) █
 227 compiler/preprocess/replace_in_code.js                        2.0 KB    ( 0.1%) █
-228 compiler/print/index.js                                       17.6 KB   ( 1.0%) █
+228 compiler/print/index.js                                       17.7 KB   ( 1.0%) █
 229 compiler/print/types.d.ts                                     398 B     ( 0.0%) █
 230 compiler/private.d.ts                                         92 B      ( 0.0%) █
 231 compiler/public.d.ts                                          328 B     ( 0.0%) █
@@ -336,9 +336,9 @@ No custom ignore patterns found.
 323 internal/client/loop.js                                       991 B     ( 0.1%) █
 324 internal/client/proxy.js                                      9.6 KB    ( 0.5%) █
 325 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
-326 internal/client/reactivity/async.js                           8.6 KB    ( 0.5%) █
+326 internal/client/reactivity/async.js                           8.9 KB    ( 0.5%) █
 327 internal/client/reactivity/batch.js                           32.2 KB   ( 1.8%) █
-328 internal/client/reactivity/deriveds.js                        11.3 KB   ( 0.6%) █
+328 internal/client/reactivity/deriveds.js                        11.5 KB   ( 0.6%) █
 329 internal/client/reactivity/effects.js                         16.5 KB   ( 0.9%) █
 330 internal/client/reactivity/equality.js                        610 B     ( 0.0%) █
 331 internal/client/reactivity/props.js                           11.3 KB   ( 0.6%) █
