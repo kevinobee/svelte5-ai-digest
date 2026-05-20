@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/documentation/docs
-🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.8/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs
+🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 102
 📎 Files included in output: 102
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~109488 tokens, GPT-4: ~99065 tokens
+🔢 Estimated token counts - Claude models: ~109521 tokens, GPT-4: ~99095 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -59,7 +59,7 @@ No custom ignore patterns found.
 46  05-special-elements/07-svelte-options.md        1.6 KB    ( 0.4%) █
 47  05-special-elements/index.md                    75 B      ( 0.0%) █
 48  06-runtime/01-stores.md                         10.0 KB   ( 2.7%) █
-49  06-runtime/02-context.md                        5.3 KB    ( 1.4%) █
+49  06-runtime/02-context.md                        5.4 KB    ( 1.4%) █
 50  06-runtime/03-lifecycle-hooks.md                7.6 KB    ( 2.0%) █
 51  06-runtime/04-imperative-component-api.md       2.7 KB    ( 0.7%) █
 52  06-runtime/05-hydratable.md                     4.5 KB    ( 1.2%) █
