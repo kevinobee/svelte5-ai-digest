@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.10/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.10/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs
-🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.9/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.10/documentation/docs
+🔍 Found 102 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.55.10/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 102
 📎 Files included in output: 102
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~109521 tokens, GPT-4: ~99095 tokens
+🔢 Estimated token counts - Claude models: ~109625 tokens, GPT-4: ~99189 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -36,14 +36,14 @@ No custom ignore patterns found.
 23  03-template-syntax/09-@attach.md                8.0 KB    ( 2.1%) █
 24  03-template-syntax/10-@const.md                 414 B     ( 0.1%) █
 25  03-template-syntax/11-@debug.md                 853 B     ( 0.2%) █
-26  03-template-syntax/12-bind.md                   14.5 KB   ( 3.9%) ██
+26  03-template-syntax/12-bind.md                   14.5 KB   ( 3.8%) ██
 27  03-template-syntax/13-use.md                    1.9 KB    ( 0.5%) █
 28  03-template-syntax/14-transition.md             5.0 KB    ( 1.3%) █
 29  03-template-syntax/15-in-and-out.md             736 B     ( 0.2%) █
 30  03-template-syntax/16-animate.md                3.7 KB    ( 1.0%) █
 31  03-template-syntax/17-style.md                  1.1 KB    ( 0.3%) █
 32  03-template-syntax/18-class.md                  3.1 KB    ( 0.8%) █
-33  03-template-syntax/19-await-expressions.md      6.9 KB    ( 1.9%) █
+33  03-template-syntax/19-await-expressions.md      6.9 KB    ( 1.8%) █
 34  03-template-syntax/index.md                     73 B      ( 0.0%) █
 35  04-styling/01-scoped-styles.md                  1.5 KB    ( 0.4%) █
 36  04-styling/02-global-styles.md                  1.5 KB    ( 0.4%) █
@@ -58,7 +58,7 @@ No custom ignore patterns found.
 45  05-special-elements/06-svelte-element.md        1.2 KB    ( 0.3%) █
 46  05-special-elements/07-svelte-options.md        1.6 KB    ( 0.4%) █
 47  05-special-elements/index.md                    75 B      ( 0.0%) █
-48  06-runtime/01-stores.md                         10.0 KB   ( 2.7%) █
+48  06-runtime/01-stores.md                         10.0 KB   ( 2.6%) █
 49  06-runtime/02-context.md                        5.4 KB    ( 1.4%) █
 50  06-runtime/03-lifecycle-hooks.md                7.6 KB    ( 2.0%) █
 51  06-runtime/04-imperative-component-api.md       2.7 KB    ( 0.7%) █
@@ -72,7 +72,7 @@ No custom ignore patterns found.
 59  07-misc/07-v5-migration-guide.md                42.5 KB   (11.3%) ██████
 60  07-misc/99-faq.md                               9.3 KB    ( 2.5%) █
 61  07-misc/index.md                                51 B      ( 0.0%) █
-62  98-reference/.generated/client-errors.md        9.3 KB    ( 2.5%) █
+62  98-reference/.generated/client-errors.md        9.7 KB    ( 2.6%) █
 63  98-reference/.generated/client-warnings.md      13.2 KB   ( 3.5%) ██
 64  98-reference/.generated/compile-errors.md       24.4 KB   ( 6.5%) ███
 65  98-reference/.generated/compile-warnings.md     29.6 KB   ( 7.9%) ████
