@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.2/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.2/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.2/packages/svelte/src
-🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.2/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src
+🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 415
 📎 Files included in output: 415
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~525518 tokens, GPT-4: ~475489 tokens
+🔢 Estimated token counts - Claude models: ~525532 tokens, GPT-4: ~475501 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.7 KB   ( 0.8%) █
@@ -331,10 +331,10 @@ No custom ignore patterns found.
 318 internal/client/dom/task.js                                   1.4 KB    ( 0.1%) █
 319 internal/client/dom/template.js                               9.5 KB    ( 0.5%) █
 320 internal/client/dom/types.d.ts                                170 B     ( 0.0%) █
-321 internal/client/error-handling.js                             2.9 KB    ( 0.2%) █
+321 internal/client/error-handling.js                             3.0 KB    ( 0.2%) █
 322 internal/client/errors.js                                     15.5 KB   ( 0.9%) █
 323 internal/client/hydratable.js                                 672 B     ( 0.0%) █
-324 internal/client/index.js                                      5.6 KB    ( 0.3%) █
+324 internal/client/index.js                                      5.5 KB    ( 0.3%) █
 325 internal/client/legacy.js                                     995 B     ( 0.1%) █
 326 internal/client/loop.js                                       991 B     ( 0.1%) █
 327 internal/client/proxy.js                                      9.6 KB    ( 0.5%) █
