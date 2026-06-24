@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.4/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.4/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src
-🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.3/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.4/packages/svelte/src
+🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.4/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 415
 📎 Files included in output: 415
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~525532 tokens, GPT-4: ~475501 tokens
+🔢 Estimated token counts - Claude models: ~526351 tokens, GPT-4: ~476242 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.7 KB   ( 0.8%) █
@@ -20,7 +20,7 @@ No custom ignore patterns found.
 7   compiler/errors.js                                            65.3 KB   ( 3.6%) ██
 8   compiler/index.js                                             6.4 KB    ( 0.4%) █
 9   compiler/legacy.js                                            14.2 KB   ( 0.8%) █
-10  compiler/migrate/index.js                                     56.5 KB   ( 3.2%) ██
+10  compiler/migrate/index.js                                     56.5 KB   ( 3.1%) ██
 11  compiler/phases/1-parse/acorn.js                              6.9 KB    ( 0.4%) █
 12  compiler/phases/1-parse/index.js                              7.3 KB    ( 0.4%) █
 13  compiler/phases/1-parse/read/context.js                       3.2 KB    ( 0.2%) █
@@ -28,10 +28,10 @@ No custom ignore patterns found.
 15  compiler/phases/1-parse/read/options.js                       6.6 KB    ( 0.4%) █
 16  compiler/phases/1-parse/read/script.js                        2.6 KB    ( 0.1%) █
 17  compiler/phases/1-parse/read/style.js                         13.2 KB   ( 0.7%) █
-18  compiler/phases/1-parse/remove_typescript_nodes.js            4.3 KB    ( 0.2%) █
+18  compiler/phases/1-parse/remove_typescript_nodes.js            4.6 KB    ( 0.3%) █
 19  compiler/phases/1-parse/state/element.js                      23.5 KB   ( 1.3%) █
 20  compiler/phases/1-parse/state/fragment.js                     365 B     ( 0.0%) █
-21  compiler/phases/1-parse/state/tag.js                          17.5 KB   ( 1.0%) █
+21  compiler/phases/1-parse/state/tag.js                          17.6 KB   ( 1.0%) █
 22  compiler/phases/1-parse/state/text.js                         609 B     ( 0.0%) █
 23  compiler/phases/1-parse/utils/bracket.js                      5.4 KB    ( 0.3%) █
 24  compiler/phases/1-parse/utils/create.js                       294 B     ( 0.0%) █
@@ -39,7 +39,7 @@ No custom ignore patterns found.
 26  compiler/phases/1-parse/utils/fuzzymatch.js                   6.2 KB    ( 0.3%) █
 27  compiler/phases/1-parse/utils/html.js                         3.4 KB    ( 0.2%) █
 28  compiler/phases/2-analyze/css/css-analyze.js                  9.7 KB    ( 0.5%) █
-29  compiler/phases/2-analyze/css/css-prune.js                    31.4 KB   ( 1.8%) █
+29  compiler/phases/2-analyze/css/css-prune.js                    31.4 KB   ( 1.7%) █
 30  compiler/phases/2-analyze/css/css-warn.js                     1.2 KB    ( 0.1%) █
 31  compiler/phases/2-analyze/css/utils.js                        5.5 KB    ( 0.3%) █
 32  compiler/phases/2-analyze/index.js                            35.5 KB   ( 2.0%) █
@@ -339,7 +339,7 @@ No custom ignore patterns found.
 326 internal/client/loop.js                                       991 B     ( 0.1%) █
 327 internal/client/proxy.js                                      9.6 KB    ( 0.5%) █
 328 internal/client/proxy.test.ts                                 2.7 KB    ( 0.2%) █
-329 internal/client/reactivity/async.js                           9.3 KB    ( 0.5%) █
+329 internal/client/reactivity/async.js                           9.4 KB    ( 0.5%) █
 330 internal/client/reactivity/batch.js                           33.7 KB   ( 1.9%) █
 331 internal/client/reactivity/deriveds.js                        11.6 KB   ( 0.6%) █
 332 internal/client/reactivity/effects.js                         16.5 KB   ( 0.9%) █
@@ -408,10 +408,10 @@ No custom ignore patterns found.
 395 reactivity/reactive-value.js                                  407 B     ( 0.0%) █
 396 reactivity/set.js                                             4.6 KB    ( 0.3%) █
 397 reactivity/set.test.ts                                        2.3 KB    ( 0.1%) █
-398 reactivity/url-search-params.js                               3.6 KB    ( 0.2%) █
-399 reactivity/url-search-params.test.ts                          4.1 KB    ( 0.2%) █
+398 reactivity/url-search-params.js                               4.0 KB    ( 0.2%) █
+399 reactivity/url-search-params.test.ts                          4.5 KB    ( 0.3%) █
 400 reactivity/url.js                                             4.3 KB    ( 0.2%) █
-401 reactivity/url.test.ts                                        3.1 KB    ( 0.2%) █
+401 reactivity/url.test.ts                                        4.6 KB    ( 0.3%) █
 402 reactivity/window/index.js                                    4.1 KB    ( 0.2%) █
 403 server/index.d.ts                                             1.1 KB    ( 0.1%) █
 404 server/index.js                                               84 B      ( 0.0%) █
