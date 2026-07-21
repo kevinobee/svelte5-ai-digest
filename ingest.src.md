@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.6/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.6/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.6/packages/svelte/src
-🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.6/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src
+🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 415
 📎 Files included in output: 415
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~526909 tokens, GPT-4: ~476747 tokens
+🔢 Estimated token counts - Claude models: ~526923 tokens, GPT-4: ~476760 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.7 KB   ( 0.8%) █
@@ -242,7 +242,7 @@ No custom ignore patterns found.
 229 compiler/preprocess/public.d.ts                               2.1 KB    ( 0.1%) █
 230 compiler/preprocess/replace_in_code.js                        2.0 KB    ( 0.1%) █
 231 compiler/print/index.js                                       18.6 KB   ( 1.0%) █
-232 compiler/print/types.d.ts                                     398 B     ( 0.0%) █
+232 compiler/print/types.d.ts                                     430 B     ( 0.0%) █
 233 compiler/private.d.ts                                         92 B      ( 0.0%) █
 234 compiler/public.d.ts                                          328 B     ( 0.0%) █
 235 compiler/state.js                                             4.3 KB    ( 0.2%) █
