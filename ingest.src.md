@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.8/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.8/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src
-🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.7/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.8/packages/svelte/src
+🔍 Found 415 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.56.8/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 415
 📎 Files included in output: 415
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~526923 tokens, GPT-4: ~476760 tokens
+🔢 Estimated token counts - Claude models: ~527080 tokens, GPT-4: ~476902 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.7 KB   ( 0.8%) █
@@ -288,7 +288,7 @@ No custom ignore patterns found.
 275 internal/client/dev/validation.js                             391 B     ( 0.0%) █
 276 internal/client/dom/blocks/async.js                           1.8 KB    ( 0.1%) █
 277 internal/client/dom/blocks/await.js                           4.2 KB    ( 0.2%) █
-278 internal/client/dom/blocks/boundary.js                        12.2 KB   ( 0.7%) █
+278 internal/client/dom/blocks/boundary.js                        12.7 KB   ( 0.7%) █
 279 internal/client/dom/blocks/branches.js                        5.0 KB    ( 0.3%) █
 280 internal/client/dom/blocks/css-props.js                       672 B     ( 0.0%) █
 281 internal/client/dom/blocks/each.js                            16.5 KB   ( 0.9%) █
@@ -309,7 +309,7 @@ No custom ignore patterns found.
 296 internal/client/dom/elements/bindings/media.js                5.9 KB    ( 0.3%) █
 297 internal/client/dom/elements/bindings/navigator.js            288 B     ( 0.0%) █
 298 internal/client/dom/elements/bindings/props.js                612 B     ( 0.0%) █
-299 internal/client/dom/elements/bindings/select.js               4.4 KB    ( 0.2%) █
+299 internal/client/dom/elements/bindings/select.js               4.5 KB    ( 0.2%) █
 300 internal/client/dom/elements/bindings/shared.js               2.1 KB    ( 0.1%) █
 301 internal/client/dom/elements/bindings/size.js                 2.7 KB    ( 0.2%) █
 302 internal/client/dom/elements/bindings/this.js                 2.7 KB    ( 0.2%) █
