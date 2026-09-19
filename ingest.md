@@ -1,10 +1,10 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.0/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.0/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.0/documentation/docs
-🔍 Found 106 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.0/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs
+🔍 Found 106 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 106
 📎 Files included in output: 106
@@ -76,13 +76,13 @@ No custom ignore patterns found.
 63  07-misc/07-v5-migration-guide.md                42.5 KB   (11.1%) ██████
 64  07-misc/99-faq.md                               9.5 KB    ( 2.5%) █
 65  07-misc/index.md                                51 B      ( 0.0%) █
-66  98-reference/.generated/client-errors.md        9.7 KB    ( 2.5%) █
+66  98-reference/.generated/client-errors.md        9.4 KB    ( 2.5%) █
 67  98-reference/.generated/client-warnings.md      12.8 KB   ( 3.3%) ██
 68  98-reference/.generated/compile-errors.md       25.0 KB   ( 6.5%) ███
 69  98-reference/.generated/compile-warnings.md     29.6 KB   ( 7.8%) ████
 70  98-reference/.generated/server-errors.md        2.7 KB    ( 0.7%) █
 71  98-reference/.generated/server-warnings.md      1017 B    ( 0.3%) █
-72  98-reference/.generated/shared-errors.md        3.2 KB    ( 0.8%) █
+72  98-reference/.generated/shared-errors.md        3.5 KB    ( 0.9%) █
 73  98-reference/.generated/shared-warnings.md      1.0 KB    ( 0.3%) █
 74  98-reference/20-svelte.md                       79 B      ( 0.0%) █
 75  98-reference/21-svelte-action.md                201 B     ( 0.1%) █
