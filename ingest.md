@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.2/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.2/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs
-🔍 Found 106 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.1/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.2/documentation/docs
+🔍 Found 106 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.57.2/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 106
 📎 Files included in output: 106
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~111405 tokens, GPT-4: ~100799 tokens
+🔢 Estimated token counts - Claude models: ~111589 tokens, GPT-4: ~100966 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.3%) █
 2   01-introduction/02-getting-started.md           1.8 KB    ( 0.5%) █
@@ -19,7 +19,7 @@ No custom ignore patterns found.
 6   02-runes/01-what-are-runes.md                   896 B     ( 0.2%) █
 7   02-runes/02-$state.md                           9.8 KB    ( 2.6%) █
 8   02-runes/03-$derived.md                         5.4 KB    ( 1.4%) █
-9   02-runes/04-$effect.md                          13.2 KB   ( 3.5%) ██
+9   02-runes/04-$effect.md                          13.2 KB   ( 3.4%) ██
 10  02-runes/05-$props.md                           6.2 KB    ( 1.6%) █
 11  02-runes/06-$bindable.md                        2.3 KB    ( 0.6%) █
 12  02-runes/07-$inspect.md                         2.2 KB    ( 0.6%) █
@@ -67,7 +67,7 @@ No custom ignore patterns found.
 54  06-runtime/index.md                             57 B      ( 0.0%) █
 55  07-misc/.generated/browser-support-features.md  616 B     ( 0.2%) █
 56  07-misc/.generated/browser-support.md           490 B     ( 0.1%) █
-57  07-misc/01-best-practices.md                    7.3 KB    ( 1.9%) █
+57  07-misc/01-best-practices.md                    7.7 KB    ( 2.0%) █
 58  07-misc/02-testing.md                           11.0 KB   ( 2.9%) █
 59  07-misc/03-typescript.md                        9.1 KB    ( 2.4%) █
 60  07-misc/04-custom-elements.md                   8.4 KB    ( 2.2%) █
@@ -78,8 +78,8 @@ No custom ignore patterns found.
 65  07-misc/index.md                                51 B      ( 0.0%) █
 66  98-reference/.generated/client-errors.md        9.4 KB    ( 2.5%) █
 67  98-reference/.generated/client-warnings.md      12.8 KB   ( 3.3%) ██
-68  98-reference/.generated/compile-errors.md       25.0 KB   ( 6.5%) ███
-69  98-reference/.generated/compile-warnings.md     29.6 KB   ( 7.8%) ████
+68  98-reference/.generated/compile-errors.md       25.1 KB   ( 6.6%) ███
+69  98-reference/.generated/compile-warnings.md     29.6 KB   ( 7.7%) ████
 70  98-reference/.generated/server-errors.md        2.7 KB    ( 0.7%) █
 71  98-reference/.generated/server-warnings.md      1017 B    ( 0.3%) █
 72  98-reference/.generated/shared-errors.md        3.5 KB    ( 0.9%) █
@@ -97,7 +97,7 @@ No custom ignore patterns found.
 84  98-reference/21-svelte-reactivity.md            551 B     ( 0.1%) █
 85  98-reference/21-svelte-server.md                100 B     ( 0.0%) █
 86  98-reference/21-svelte-store.md                 97 B      ( 0.0%) █
-87  98-reference/21-svelte-transition.md            130 B     ( 0.0%) █
+87  98-reference/21-svelte-transition.md            237 B     ( 0.1%) █
 88  98-reference/30-compiler-errors.md              120 B     ( 0.0%) █
 89  98-reference/30-compiler-warnings.md            795 B     ( 0.2%) █
 90  98-reference/30-runtime-errors.md               242 B     ( 0.1%) █
@@ -105,7 +105,7 @@ No custom ignore patterns found.
 92  98-reference/index.md                           61 B      ( 0.0%) █
 93  99-legacy/00-legacy-overview.md                 1016 B    ( 0.3%) █
 94  99-legacy/01-legacy-let.md                      993 B     ( 0.3%) █
-95  99-legacy/02-legacy-reactive-assignments.md     2.5 KB    ( 0.7%) █
+95  99-legacy/02-legacy-reactive-assignments.md     2.5 KB    ( 0.6%) █
 96  99-legacy/03-legacy-export-let.md               1.8 KB    ( 0.5%) █
 97  99-legacy/04-legacy-$$props-and-$$restProps.md  981 B     ( 0.3%) █
 98  99-legacy/10-legacy-on.md                       3.6 KB    ( 0.9%) █
