@@ -1,15 +1,15 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.0/packages/svelte/src.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.0/packages/svelte/src.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/packages/svelte/src.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/packages/svelte/src.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.0/packages/svelte/src
-🔍 Found 426 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.0/packages/svelte/src
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/packages/svelte/src
+🔍 Found 426 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/packages/svelte/src
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.src.md
 📚 Total files found: 426
 📎 Files included in output: 426
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~578006 tokens, GPT-4: ~522980 tokens
+🔢 Estimated token counts - Claude models: ~578046 tokens, GPT-4: ~523016 tokens
 📋 Files included in the output:
 1   action/public.d.ts                                            2.5 KB    ( 0.1%) █
 2   ambient.d.ts                                                  13.7 KB   ( 0.7%) █
@@ -353,7 +353,7 @@ No custom ignore patterns found.
 340 internal/client/reactivity/status.js                          765 B     ( 0.0%) █
 341 internal/client/reactivity/store.js                           5.9 KB    ( 0.3%) █
 342 internal/client/reactivity/types.d.ts                         5.5 KB    ( 0.3%) █
-343 internal/client/render.js                                     9.1 KB    ( 0.5%) █
+343 internal/client/render.js                                     9.3 KB    ( 0.5%) █
 344 internal/client/runtime.js                                    51.1 KB   ( 2.6%) █
 345 internal/client/timing.js                                     565 B     ( 0.0%) █
 346 internal/client/types.d.ts                                    5.8 KB    ( 0.3%) █
