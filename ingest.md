@@ -1,18 +1,18 @@
-❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/documentation/docs.
-❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/documentation/docs.
+❓ No .aidigestignore file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.2/documentation/docs.
+❓ No .aidigestminify file found in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.2/documentation/docs.
 No custom ignore patterns found.
 🚫 Using default ignore patterns.
 🧹 Whitespace removal enabled (except for whitespace-dependent languages).
-🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/documentation/docs
-🔍 Found 108 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.1/documentation/docs
+🔍 Scanning directory: /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.2/documentation/docs
+🔍 Found 108 files in /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/svelte/svelte-svelte-5.59.2/documentation/docs
 ✅ Files aggregated successfully into /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
 📚 Total files found: 108
 📎 Files included in output: 108
 📦 Binary and SVG files included: 0
-🔢 Estimated token counts - Claude models: ~117411 tokens, GPT-4: ~106233 tokens
+🔢 Estimated token counts - Claude models: ~118152 tokens, GPT-4: ~106904 tokens
 📋 Files included in the output:
 1   01-introduction/01-overview.md                  1003 B    ( 0.2%) █
-2   01-introduction/02-getting-started.md           1.8 KB    ( 0.4%) █
+2   01-introduction/02-getting-started.md           2.1 KB    ( 0.5%) █
 3   01-introduction/03-svelte-files.md              2.3 KB    ( 0.6%) █
 4   01-introduction/04-svelte-js-files.md           524 B     ( 0.1%) █
 5   01-introduction/index.md                        67 B      ( 0.0%) █
@@ -37,7 +37,7 @@ No custom ignore patterns found.
 24  03-template-syntax/10-@const.md                 520 B     ( 0.1%) █
 25  03-template-syntax/11-@debug.md                 853 B     ( 0.2%) █
 26  03-template-syntax/11-declaration-tags.md       1.8 KB    ( 0.4%) █
-27  03-template-syntax/12-bind.md                   14.9 KB   ( 3.7%) ██
+27  03-template-syntax/12-bind.md                   15.2 KB   ( 3.7%) ██
 28  03-template-syntax/13-use.md                    1.9 KB    ( 0.5%) █
 29  03-template-syntax/14-transition.md             5.4 KB    ( 1.3%) █
 30  03-template-syntax/15-in-and-out.md             736 B     ( 0.2%) █
@@ -57,7 +57,7 @@ No custom ignore patterns found.
 44  05-special-elements/04-svelte-body.md           643 B     ( 0.2%) █
 45  05-special-elements/05-svelte-head.md           634 B     ( 0.2%) █
 46  05-special-elements/06-svelte-element.md        1.2 KB    ( 0.3%) █
-47  05-special-elements/07-svelte-options.md        1.8 KB    ( 0.5%) █
+47  05-special-elements/07-svelte-options.md        1.8 KB    ( 0.4%) █
 48  05-special-elements/index.md                    75 B      ( 0.0%) █
 49  06-runtime/01-stores.md                         11.0 KB   ( 2.7%) █
 50  06-runtime/02-context.md                        5.7 KB    ( 1.4%) █
@@ -73,17 +73,17 @@ No custom ignore patterns found.
 60  07-misc/04-custom-elements.md                   8.4 KB    ( 2.1%) █
 61  07-misc/05-browser-support.md                   608 B     ( 0.1%) █
 62  07-misc/06-v4-migration-guide.md                11.9 KB   ( 2.9%) █
-63  07-misc/07-v5-migration-guide.md                42.5 KB   (10.5%) █████
-64  07-misc/08-custom-renderers.md                  19.8 KB   ( 4.9%) ██
+63  07-misc/07-v5-migration-guide.md                42.5 KB   (10.4%) █████
+64  07-misc/08-custom-renderers.md                  21.2 KB   ( 5.2%) ███
 65  07-misc/99-faq.md                               9.5 KB    ( 2.3%) █
 66  07-misc/index.md                                51 B      ( 0.0%) █
 67  98-reference/.generated/client-errors.md        10.7 KB   ( 2.6%) █
 68  98-reference/.generated/client-warnings.md      12.8 KB   ( 3.1%) ██
-69  98-reference/.generated/compile-errors.md       25.4 KB   ( 6.3%) ███
-70  98-reference/.generated/compile-warnings.md     29.6 KB   ( 7.3%) ████
+69  98-reference/.generated/compile-errors.md       25.4 KB   ( 6.2%) ███
+70  98-reference/.generated/compile-warnings.md     29.6 KB   ( 7.2%) ████
 71  98-reference/.generated/server-errors.md        2.7 KB    ( 0.7%) █
 72  98-reference/.generated/server-warnings.md      1017 B    ( 0.2%) █
-73  98-reference/.generated/shared-errors.md        3.9 KB    ( 1.0%) █
+73  98-reference/.generated/shared-errors.md        3.9 KB    ( 0.9%) █
 74  98-reference/.generated/shared-warnings.md      1.0 KB    ( 0.3%) █
 75  98-reference/20-svelte.md                       79 B      ( 0.0%) █
 76  98-reference/21-svelte-action.md                201 B     ( 0.0%) █
@@ -105,7 +105,7 @@ No custom ignore patterns found.
 92  98-reference/30-runtime-errors.md               242 B     ( 0.1%) █
 93  98-reference/30-runtime-warnings.md             200 B     ( 0.0%) █
 94  98-reference/index.md                           61 B      ( 0.0%) █
-95  99-legacy/00-legacy-overview.md                 1016 B    ( 0.2%) █
+95  99-legacy/00-legacy-overview.md                 1.9 KB    ( 0.5%) █
 96  99-legacy/01-legacy-let.md                      993 B     ( 0.2%) █
 97  99-legacy/02-legacy-reactive-assignments.md     2.5 KB    ( 0.6%) █
 98  99-legacy/03-legacy-export-let.md               1.8 KB    ( 0.4%) █
@@ -116,7 +116,7 @@ No custom ignore patterns found.
 103 99-legacy/22-legacy-svelte-fragment.md          833 B     ( 0.2%) █
 104 99-legacy/30-legacy-svelte-component.md         567 B     ( 0.1%) █
 105 99-legacy/31-legacy-svelte-self.md              802 B     ( 0.2%) █
-106 99-legacy/40-legacy-component-api.md            5.9 KB    ( 1.5%) █
+106 99-legacy/40-legacy-component-api.md            5.9 KB    ( 1.4%) █
 107 99-legacy/index.md                              60 B      ( 0.0%) █
 108 index.md                                        45 B      ( 0.0%) █
 ✅ Done! Wrote code base to /home/runner/work/svelte5-ai-digest/svelte5-ai-digest/codebase.md
